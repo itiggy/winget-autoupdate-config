@@ -38,6 +38,7 @@ Amazon.Quick
 Amazon.SAM-CLI
 Amazon.SSMAgent
 AMD.LemonadeServer
+Amerganim.AmaderBanglaKeyboard
 amir1376.ABDownloadManager
 AmN.YASBGUI
 AnalyseDeCircuit.OxideTerm
@@ -54,6 +55,7 @@ AQBot.AQBot
 archisman-panigrahi.QuickBib
 Arelle.Arelle
 Argotronic.ArgusMonitor
+Articulate.Articulate360
 Arylmera.TokenDashboard
 asciimoo.hister
 ast-grep.ast-grep
@@ -86,7 +88,6 @@ BicomSystems.Communicator
 BicomSystems.gloCOM
 BinaryFortress.DisplayFusion
 BinaryFortress.TrayStatus
-BinaryFortress.VoiceBot
 Bisq.Bisq
 BitSum.ProcessLasso.Beta
 Bitwarden.Bitwarden
@@ -177,6 +178,7 @@ datap-rs.DataPress
 DATEV.Belegtransfer
 davidegiacometti.VisualStudioForCmdPal
 DavidEngelhart.Termpolis
+DBMobile.Resonance
 DeepIgnite.Acai
 DeepL.DeepL
 defendend.ast-index
@@ -213,6 +215,7 @@ EarendilWorks.pi
 Easeware.DriverEasy
 EastMoney.EastMoney
 eat-pray-ai.yutu
+EclipseAdoptium.Temurin.25.JDK
 EclipseAdoptium.Temurin.25.JRE
 ECSoftware.eWriter
 ECSoftware.eWriterViewer
@@ -290,7 +293,6 @@ Gitea.Runner
 Gitea.tea
 GitHub.Copilot
 GitHub.Copilot.Prerelease
-GitHub.CopilotApp
 Gitify.Gitify
 GiulioSorrentino.CBriscola.Avalonia
 GiulioSorrentino.wxBriscola
@@ -348,6 +350,7 @@ InstaZDLL.WaveFlow
 IntegrIT.Hackolade
 Intel.OneAPI.Toolkit
 IOBend.IOBend
+ipatalas.AppSwitcher
 IvyScience.ivySCI
 Jackett.Jackett
 Jan.Jan
@@ -363,6 +366,7 @@ JetBrains.IntelliJIDEA.EAP
 JetBrains.PhpStorm
 JetBrains.PhpStorm.EAP
 JetBrains.RubyMine.EAP
+JetBrains.TeamCity
 JetBrains.WebStorm
 JetBrains.WebStorm.EAP
 jetyu.Snaptium
@@ -413,7 +417,6 @@ Logitech.*
 Logtalk.Logtalk
 Loko.OnyxCode
 Loom.Loom
-loreste.mako
 LSEG.RefinitivWorkspace
 lucasdeeiroz.RobotRunner
 LucidLink.LucidLink
@@ -825,7 +828,6 @@ Mozilla.Thunderbird.uz
 Mozilla.Thunderbird.vi
 Mozilla.Thunderbird.zh-CN
 Mozilla.Thunderbird.zh-TW
-Mozilla.VPN
 mulhamna.jirac
 mulhamna.jirac-mcp
 MullvadVPN.MullvadBrowser
@@ -922,7 +924,6 @@ QGIS.QField
 qingchencloud.ClawPanel
 Qingfeng.HeyboxWow
 QuantumNous.NewAPI
-Quorthon13.OLEDSleeper
 ractive.hoppy
 Rakuten.Viber
 raphamorim.rio
@@ -1036,7 +1037,6 @@ TJSmith.Anodizer
 TJSmith.cfgd
 tldraw.tldraw-offline
 tnunamak.Clawmeter
-ToDesktop.ToDesktop
 ToEverything.AFFiNE
 Toit.Jaguar
 Toit.Toit
@@ -1106,7 +1106,6 @@ XxDoomsdayxX.GitPulse
 XxHuberrr.Mineradio
 xyproto.algernon
 Y-ASLant.ElegantClipboard
-Yaksharo.AdviseeDocFiller
 Yamaha.SYNCROOM
 Yandex.Browser
 yeroo.agwinterm
