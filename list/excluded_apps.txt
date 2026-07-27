@@ -47,6 +47,7 @@ Anthropic.Ant
 Anthropic.Claude
 Anthropic.ClaudeCode
 AnyAssociation.Anytype
+AnyDesk.AnyDesk
 Anysphere.Cursor
 Apple.Pkl
 Apps2Samsung.Apps2Samsung
@@ -66,6 +67,7 @@ astral-sh.uv
 Astronet.Scholaread
 atani.transit
 AtomGit.AtomCode
+Atuinsh.Atuin
 Autodesk.DesktopConnector
 axpnet.AeroFTP
 Azul.ZuluFX.11.JDK
@@ -123,7 +125,6 @@ ByteDance.LarkCLI
 ByteDance.StreamingTool
 ByteDance.Trae.CN
 ByteDance.TraeWork
-cadwal.BookDB
 CallMarcus.DJIMetadataEmbedder
 CallMarcus.DJIMetadataEmbedder.Desktop
 can1357.oh-my-pi
@@ -179,6 +180,7 @@ DATEV.Belegtransfer
 davidegiacometti.VisualStudioForCmdPal
 DavidEngelhart.Termpolis
 DBMobile.Resonance
+Debba.Tabularis
 DeepIgnite.Acai
 DeepL.DeepL
 defendend.ast-index
@@ -343,6 +345,7 @@ hrzlgnm.mdns-tui-browser
 HunterBown.CodeWhale
 HyperWorX.DopusWorX
 ibrahemid.Writ
+ImageMagick.Q16
 ImputNet.Helium
 Insomnia.Insomnia
 inspoaibox.Mshell
@@ -426,6 +429,7 @@ LunarWerxs.SageThumbs2K
 Lunasans.MovieShelf
 madLinux.dssh
 Magicianhax.PortsController
+marcinz606.NegPy
 MarkusKellermann.Convo
 MartinBresson.Executor
 martinrotter.RSSGuard5
@@ -456,6 +460,7 @@ Microsoft.Sysinternals.VMMap
 Microsoft.Teams*
 Microsoft.VisualStudio.2022.BuildTools
 Microsoft.VisualStudio.2022.Community
+Microsoft.VisualStudio.2022.Enterprise
 Microsoft.VisualStudio.2022.Professional
 Microsoft.VisualStudio.2022.RemoteTools
 Microsoft.VisualStudio.BuildTools
@@ -896,7 +901,6 @@ PerfectWorld.PerfectWorldArena
 Phoner.PhonerLite
 PIKCLOUD.PikPak
 PixPin.PixPin.Beta
-PlanetLinux98.GUARD
 PokerTH.PokerTH
 Popokey.HL7Soup
 Popokey.HL7SoupIntegrationHost
@@ -1011,6 +1015,7 @@ sysmanage.sysmanage
 sysmanage.sysmanage-agent
 t8y2.DBX
 TableClothProject.TableCloth
+TeamViewer.TeamViewer
 TeamViewer.TeamViewer*
 Telegram.TelegramDesktop
 Tenable.Nessus
