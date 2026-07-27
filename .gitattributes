@@ -1,0 +1,10 @@
+# Enforce CRLF for Windows PowerShell scripts, batch files, and exclusion lists
+*.ps1 text eol=crlf
+*.cmd text eol=crlf
+*.txt text eol=crlf
+
+# Enforce LF for web & repository specs
+*.yml text eol=lf
+*.md text eol=lf
+*.html text eol=lf
+.gitignore text eol=lf

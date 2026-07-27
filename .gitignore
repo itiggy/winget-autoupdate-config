@@ -1,0 +1,24 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.tmp
+
+# PowerShell & Log files
+*.log
+
+# Project context & internal tools (ignored from Git tracking)
+GEMINI.md
+tools/
+
+# Workspace specific temp files
+scratch/
+config/default_excluded_apps.txt
+list/
+mods/index.html
+mods/_*

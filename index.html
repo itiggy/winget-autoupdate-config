@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Winget-AutoUpdate Config | Centralized Management</title>
+    <meta name="description" content="Centralized management, custom mods, and 5-day release maturity rules for Winget-AutoUpdate (WAU).">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #0d1117;
+            --card-bg: rgba(22, 27, 34, 0.75);
+            --card-border: rgba(255, 255, 255, 0.1);
+            --accent-blue: #38bdf8;
+            --accent-purple: #818cf8;
+            --accent-gradient: linear-gradient(135deg, #38bdf8 0%, #818cf8 100%);
+            --text-main: #f3f4f6;
+            --text-muted: #9ca3af;
+            --code-bg: #161b22;
+            --success-color: #34d399;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Outfit', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem 1rem;
+            background-image: 
+                radial-gradient(circle at 15% 15%, rgba(56, 189, 248, 0.12) 0%, transparent 40%),
+                radial-gradient(circle at 85% 85%, rgba(129, 140, 248, 0.12) 0%, transparent 40%);
+        }
+
+        .container {
+            max-width: 850px;
+            width: 100%;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 2.5rem;
+        }
+
+        .badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.35rem 0.85rem;
+            border-radius: 9999px;
+            background: rgba(56, 189, 248, 0.1);
+            border: 1px solid rgba(56, 189, 248, 0.3);
+            color: var(--accent-blue);
+            font-size: 0.875rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+        }
+
+        .title {
+            font-size: 2.5rem;
+            font-weight: 700;
+            letter-spacing: -0.025em;
+            background: var(--accent-gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 0.75rem;
+        }
+
+        .subtitle {
+            color: var(--text-muted);
+            font-size: 1.1rem;
+            font-weight: 300;
+        }
+
+        .glass-card {
+            background: var(--card-bg);
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            border: 1px solid var(--card-border);
+            border-radius: 16px;
+            padding: 2rem;
+            margin-bottom: 1.5rem;
+            box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+
+        .stat-box {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            border-radius: 12px;
+            padding: 1.25rem;
+            text-align: center;
+        }
+
+        .stat-value {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: var(--accent-blue);
+            margin-bottom: 0.25rem;
+        }
+
+        .stat-label {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .action-area {
+            display: flex;
+            flex-direction: column;
+            gap: 1.25rem;
+            align-items: center;
+        }
+
+        .btn-primary {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.75rem;
+            background: var(--accent-gradient);
+            color: #090d16;
+            font-weight: 700;
+            font-size: 1.1rem;
+            padding: 0.9rem 2rem;
+            border-radius: 12px;
+            text-decoration: none;
+            border: none;
+            cursor: pointer;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            box-shadow: 0 4px 20px rgba(56, 189, 248, 0.3);
+            width: 100%;
+            max-width: 420px;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 24px rgba(56, 189, 248, 0.45);
+        }
+
+        .code-snippet {
+            width: 100%;
+            background: var(--code-bg);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 12px;
+            padding: 1rem;
+            position: relative;
+        }
+
+        .code-title {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            margin-bottom: 0.5rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .code-content {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.875rem;
+            color: var(--accent-blue);
+            word-break: break-all;
+            user-select: all;
+        }
+
+        .btn-copy {
+            background: rgba(255, 255, 255, 0.1);
+            border: none;
+            color: var(--text-main);
+            padding: 0.35rem 0.75rem;
+            border-radius: 6px;
+            font-size: 0.75rem;
+            cursor: pointer;
+            transition: background 0.2s ease;
+        }
+
+        .btn-copy:hover {
+            background: rgba(255, 255, 255, 0.2);
+        }
+
+        .nav-links {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            gap: 1rem;
+            margin-top: 1.5rem;
+        }
+
+        .nav-card {
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid rgba(255, 255, 255, 0.06);
+            border-radius: 12px;
+            padding: 1rem;
+            text-decoration: none;
+            color: var(--text-main);
+            transition: border-color 0.2s ease, background 0.2s ease;
+        }
+
+        .nav-card:hover {
+            border-color: rgba(56, 189, 248, 0.4);
+            background: rgba(56, 189, 248, 0.05);
+        }
+
+        .nav-card-title {
+            font-weight: 600;
+            color: var(--accent-blue);
+            margin-bottom: 0.25rem;
+        }
+
+        .nav-card-desc {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 2rem;
+            color: var(--text-muted);
+            font-size: 0.85rem;
+        }
+
+        .footer a {
+            color: var(--accent-blue);
+            text-decoration: none;
+        }
+
+        .toast {
+            position: fixed;
+            bottom: 2rem;
+            right: 2rem;
+            background: #10b981;
+            color: #fff;
+            padding: 0.75rem 1.5rem;
+            border-radius: 8px;
+            font-weight: 600;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+            opacity: 0;
+            transform: translateY(10px);
+            transition: opacity 0.3s ease, transform 0.3s ease;
+            pointer-events: none;
+        }
+
+        .toast.show {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="header">
+            <div class="badge">⚡ Winget-AutoUpdate Central Hub</div>
+            <h1 class="title">WAU Config & Installer</h1>
+            <p class="subtitle">Automated 5-Day Release Maturity Filter & Custom Post-Install Mods</p>
+        </div>
+
+        <div class="glass-card">
+            <div class="stats-grid">
+                <div class="stat-box">
+                    <div class="stat-value" id="stat-rules">1,137</div>
+                    <div class="stat-label">Excluded Package Rules</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-value" id="stat-mods">26</div>
+                    <div class="stat-label">Active Custom Mods</div>
+                </div>
+                <div class="stat-box">
+                    <div class="stat-value">5 Days</div>
+                    <div class="stat-label">Release Maturity Rule</div>
+                </div>
+            </div>
+
+            <div class="action-area">
+                <button class="btn-primary" onclick="downloadInstallerBundle()">
+                    <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path></svg>
+                    Download Installer Bundle (cmd + ps1)
+                </button>
+
+                <div class="code-snippet">
+                    <div class="code-title">
+                        <span>PowerShell Download & Install One-Liner (Run on Windows PC)</span>
+                        <button class="btn-copy" onclick="copyCommand()">Copy Command</button>
+                    </div>
+                    <div class="code-content" id="cmd-text">'cmd', 'ps1' | ForEach-Object { Invoke-WebRequest -UseBasicParsing -Uri "https://itiggy.github.io/winget-autoupdate-config/install/install.$_" -OutFile "install.$_" }</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="glass-card">
+            <h3 style="font-size: 1.1rem; margin-bottom: 1rem; color: var(--text-main);">Quick Navigation & Endpoints</h3>
+            <div class="nav-links">
+                <a href="list/excluded_apps.txt" class="nav-card">
+                    <div class="nav-card-title">/list/excluded_apps.txt</div>
+                    <div class="nav-card-desc">Active 3-Layer exclusion list (LISTPATH)</div>
+                </a>
+                <a href="mods/" class="nav-card">
+                    <div class="nav-card-title">/mods/</div>
+                    <div class="nav-card-desc">Custom pre/post-install mods directory (MODSPATH)</div>
+                </a>
+                <a href="install/install.cmd" class="nav-card">
+                    <div class="nav-card-title">/install/install.cmd</div>
+                    <div class="nav-card-desc">Raw Batch bootstrapper script</div>
+                </a>
+                <a href="install/install.ps1" class="nav-card">
+                    <div class="nav-card-title">/install/install.ps1</div>
+                    <div class="nav-card-desc">Raw PowerShell MSI installer script</div>
+                </a>
+            </div>
+        </div>
+
+        <div class="footer">
+            Managed via <a href="https://github.com/itiggy/winget-autoupdate-config" target="_blank">itiggy/winget-autoupdate-config</a> • Last sync: <span id="last-sync">2026-07-27 20:44 UTC</span>
+        </div>
+    </div>
+
+    <div class="toast" id="toast">Command copied to clipboard!</div>
+
+    <script>
+        function downloadInstallerBundle() {
+            const files = [
+                { url: 'install/install.cmd', filename: 'install.cmd' },
+                { url: 'install/install.ps1', filename: 'install.ps1' }
+            ];
+
+            files.forEach((file, index) => {
+                setTimeout(() => {
+                    const a = document.createElement('a');
+                    a.href = file.url;
+                    a.download = file.filename;
+                    document.body.appendChild(a);
+                    a.click();
+                    document.body.removeChild(a);
+                }, index * 250);
+            });
+        }
+
+        function copyCommand() {
+            const text = document.getElementById('cmd-text').innerText;
+            navigator.clipboard.writeText(text).then(() => {
+                const toast = document.getElementById('toast');
+                toast.classList.add('show');
+                setTimeout(() => toast.classList.remove('show'), 2500);
+            });
+        }
+    </script>
+</body>
+</html>
