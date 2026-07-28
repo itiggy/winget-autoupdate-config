@@ -2,8 +2,12 @@ name: Update Excluded Apps List
 
 on:
   schedule:
-    # Runs every 6 hours off-peak (01:17, 07:17, 13:17, 19:17 UTC)
-    - cron: '17 1,7,13,19 * * *'
+    # Runs every 288 minutes off-peak (00:07, 04:55, 09:43, 14:31, 19:19 UTC)
+    - cron: '7 0 * * *'
+    - cron: '55 4 * * *'
+    - cron: '43 9 * * *'
+    - cron: '31 14 * * *'
+    - cron: '19 19 * * *'
   workflow_dispatch:
 
 permissions:

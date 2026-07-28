@@ -9,7 +9,7 @@ Centralized management repository for [Winget-AutoUpdate (WAU)](https://github.c
 
 ## 🚀 How It Works
 
-The generated `excluded_apps.txt` is compiled automatically **every 6 hours** (01:17, 07:17, 13:17, 19:17 UTC) using a 3-layer approach:
+The generated `excluded_apps.txt` is compiled automatically **every 288 minutes (~5 hours)** (00:07, 04:55, 09:43, 14:31, 19:19 UTC) using a 3-layer approach:
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -42,7 +42,7 @@ The generated `excluded_apps.txt` is compiled automatically **every 6 hours** (0
 - [`config/default_excluded_apps.txt`](file:///home/larsickler/projects/winget-autoupdate-config/config/default_excluded_apps.txt): Cached fallback copy of WAU default exclusions.
 - [`install/install.cmd`](file:///home/larsickler/projects/winget-autoupdate-config/install/install.cmd) & [`install/install.ps1`](file:///home/larsickler/projects/winget-autoupdate-config/install/install.ps1): One-click installer scripts configured with remote GitHub Pages URLs.
 - [`scripts/Update-ExcludedApps.ps1`](file:///home/larsickler/projects/winget-autoupdate-config/scripts/Update-ExcludedApps.ps1): PowerShell 5.1 script generating the exclusion list and updating site stats.
-- [`.github/workflows/update-excluded-apps.yml`](file:///home/larsickler/projects/winget-autoupdate-config/.github/workflows/update-excluded-apps.yml): GitHub Action workflow (runs every 6 hours off-peak).
+- [`.github/workflows/update-excluded-apps.yml`](file:///home/larsickler/projects/winget-autoupdate-config/.github/workflows/update-excluded-apps.yml): GitHub Action workflow (runs every 288 minutes off-peak).
 
 ---
 
