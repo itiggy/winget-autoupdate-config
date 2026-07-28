@@ -236,19 +236,25 @@ function Sync-WauDefaultMods {
 
         $items = Invoke-RestMethod -Uri $apiUrl -Headers $headers -ErrorAction Stop
         foreach ($item in $items) {
-            if ($item.type -eq 'file' -and $item.name -ne 'README.md') {
+            if ($item.type -eq 'file') {
                 $targetPath = Join-Path -Path $ModsDirectory -ChildPath $item.name
                 Invoke-WebRequest -Uri $item.download_url -OutFile $targetPath -ErrorAction Stop
 
-                # Enforce UTF-8 WITH BOM for .ps1, WITHOUT BOM for .txt, and CRLF
                 $rawText = [System.IO.File]::ReadAllText($targetPath)
                 $normalized = ($rawText -replace "\r?\n", "`n").TrimEnd() + "`n"
-                $normalized = $normalized -replace "`n", "`r`n"
+
                 $isPs1 = $targetPath.EndsWith(".ps1", [System.StringComparison]::OrdinalIgnoreCase)
-                $encoding = [System.Text.UTF8Encoding]::new($isPs1)
+                $isMd  = $targetPath.EndsWith(".md",  [System.StringComparison]::OrdinalIgnoreCase)
+
+                if (-not $isMd) {
+                    $normalized = $normalized -replace "`n", "`r`n"
+                }
+
+                $useBom = $isPs1
+                $encoding = [System.Text.UTF8Encoding]::new($useBom)
                 [System.IO.File]::WriteAllText($targetPath, $normalized, $encoding)
 
-                Write-Verbose "Synced default WAU mod: $($item.name)"
+                Write-Verbose "Synced default WAU mod file: $($item.name)"
             }
         }
     } catch {
