@@ -153,12 +153,51 @@ function Get-RecentWingetPkgsUpdates {
             }
 
             foreach ($item in $commits) {
-                $msg = $item.commit.message
-                if ($msg -match '(?:(?:New version|Update):\s*)?([A-Za-z0-9_\-\.]+\.[A-Za-z0-9_\-\.]+)\s+version\s+') {
-                    $pkgId = $Matches[1].Trim()
-                    if ($pkgId -match '^[A-Za-z0-9_\-]+\.[A-Za-z0-9_\-\.]+$') {
-                        $null = $packageIds.Add($pkgId)
+                $msg = ($item.commit.message -split "`n")[0].Trim()
+
+                # 1. Clear Ignore Rules: Skip locale/translation updates and version deletions/removals
+                if ($msg -match '^(?:Added|Removed|Updated?)\s+locale' -or
+                    $msg -match '^(?:Remove\s+version:|Removing\s+version:|Automatic\s+deletion\s+of|Delete\s+version:)') {
+                    continue
+                }
+
+                $pkgId = $null
+
+                # 2. Fast-Path (Top standard title patterns):
+                if ($msg -match '^(?:New version:|Update version:|Update:|New package:|Add version:|Automatic update of:?)\s*([A-Za-z0-9_\-\.]+\.[A-Za-z0-9_\-\.]+)(?:\s+version|\s+[\d\.\-\+a-zA-Z]+|\s*$)') {
+                    $candidate = $Matches[1].Trim()
+                    if ($candidate -match '^[A-Za-z0-9_\-]+\.[A-Za-z0-9_\-\.]+$') {
+                        $pkgId = $candidate
                     }
+                } elseif ($msg -match '^([A-Za-z0-9_\-]+\.[A-Za-z0-9_\-\.]+)\s+version\s+') {
+                    $candidate = $Matches[1].Trim()
+                    if ($candidate -match '^[A-Za-z0-9_\-]+\.[A-Za-z0-9_\-\.]+$') {
+                        $pkgId = $candidate
+                    }
+                }
+
+                # 3. Diff-Fallback (For ALL other titles, Reverts, custom PR titles, and uncaptured formats):
+                if (-not $pkgId -and $item.url) {
+                    try {
+                        $commitDetail = Invoke-RestMethod -Uri $item.url -Headers $headers -Method Get -TimeoutSec 15 -ErrorAction SilentlyContinue
+                        if ($commitDetail -and $commitDetail.files) {
+                            foreach ($file in $commitDetail.files) {
+                                # Skip deleted files and locale files
+                                if ($file.status -ne "removed" -and $file.filename -notmatch '\.locale\.[^\.]+\.yaml$') {
+                                    if ($file.filename -match 'manifests\/[a-z0-9]\/([^\/]+)\/([^\/]+)\/') {
+                                        $pub = $Matches[1]
+                                        $app = $Matches[2]
+                                        $pkgId = "${pub}.${app}"
+                                        break
+                                    }
+                                }
+                            }
+                        }
+                    } catch {}
+                }
+
+                if ($pkgId) {
+                    $null = $packageIds.Add($pkgId)
                 }
             }
 
