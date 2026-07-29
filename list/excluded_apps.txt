@@ -25,9 +25,11 @@ AIDotNet.OpenCowork
 aiko-chan-ai.DiscordBotClient
 Aircall.AircallWorkspace
 AirExplorer.AirExplorer
+Akka.Cli
 alagrede.znote
 AlanJhu.OXWUEEW
 alecdotdev.Markpad
+Alibaba.AlibabaCloudCLI
 Alibaba.OpenCodeReview
 Alibaba.Qoder
 allankoechke.which
@@ -49,6 +51,7 @@ AnyDesk.AnyDesk
 Anysphere.Cursor
 AppControlLabs.AppControlSetup
 Appest.TickTick
+Apps2Samsung.Apps2Samsung
 AppSolves.TikArcade-Studio
 AppWork.JDownloader*
 AprelTech.SilentInstallBuilder.Beta
@@ -130,10 +133,12 @@ Byron.dua-cli
 ByteDance.Dola
 ByteDance.Doubao
 ByteDance.DouyinIDE
+ByteDance.Feishu
 ByteDance.Lark
 ByteDance.LarkCLI
 ByteDance.Trae.CN
 ByteDance.TraeWork
+ByteDance.TraeWork.CN
 Bytifi.Bytifi
 CallMarcus.DJIMetadataEmbedder
 CallMarcus.DJIMetadataEmbedder.Desktop
@@ -155,6 +160,7 @@ ClickUp.ClickUp
 Cloudfleet.CLI
 Codedaptive.MOOTx01
 Coder.Coder
+codexu.NoteGen
 coldhighsun.sloc
 ColonyLabs.ScribeDesktopCapture
 Comfy.ComfyUI-Desktop
@@ -224,6 +230,7 @@ dpzx.dpzxbrowsebeta
 dreamlonglll.Mini-Term
 Dropbox.Dropbox
 ducaale.xh
+DuckDuckGo.DesktopBrowser
 DuckDuckGo.DesktopBrowser.Preview
 DuckStudio.Sundry
 DuckWeb.md2html
@@ -232,6 +239,10 @@ EarendilWorks.pi
 Easeware.DriverEasy
 EastMoney.EastMoney
 eat-pray-ai.yutu
+EclipseAdoptium.Temurin.11.JDK
+EclipseAdoptium.Temurin.11.JRE
+EclipseAdoptium.Temurin.17.JDK
+EclipseAdoptium.Temurin.21.JRE
 EclipseAdoptium.Temurin.25.JDK
 EclipseAdoptium.Temurin.25.JRE
 ECSoftware.eWriter
@@ -268,7 +279,6 @@ EZBSystems.UltraISO
 FabioColor.FadedBalancerDCTL
 FACEITLTD.FACEITClient
 FactoryAI.Factory
-FahmiRidho.MyPDF
 farion1231.CC-Switch
 FellowInsights.Fellow
 Figma.Figma
@@ -362,6 +372,7 @@ HiroyukiFuruno.katana-desktop
 Hitalin.NoteDeck
 HMCL.HMCL.Dev
 HMCL.HMCL.Dev.CNB
+Holepunch.Keet
 hrzlgnm.mdns-browser
 hrzlgnm.mdns-tui-browser
 HunterBown.CodeWhale
@@ -397,8 +408,10 @@ JetBrains.PyCharm
 JetBrains.QodanaCLI
 JetBrains.RubyMine.EAP
 JetBrains.TeamCity
+JetBrains.Toolbox
 JetBrains.WebStorm.EAP
 jetyu.Snaptium
+JFrog.Cli
 JFrog.Conan
 JGraph.Draw
 jlifeng.JobPilot
@@ -462,6 +475,7 @@ KutaSoftware.InfiniteGeometry
 KutaSoftware.InfiniteGrade6Math
 KutaSoftware.InfinitePreAlgebra
 KutaSoftware.InfinitePrecalculus
+kwaroran.RisuAI
 Lablicate.OpenChrom
 LacunaSoftware.WebPKI
 Laker.EasyPostman
@@ -472,6 +486,8 @@ laurentiu021.SysManager
 Lean.Lean
 LedgerHQ.LedgerLive
 leduftw.dbird
+LeiGod.LeiGodAcc
+Lenovo.SLBrowser
 Letta.LettaCode
 LGUG2Z.komorebi.Nightly
 LibreWolf.LibreWolf
@@ -512,6 +528,7 @@ memtime.memtime
 meshmakers.octo-cli
 MET.MCAD2026
 MET.MECHCAD
+Meta.QuestRemoteDesktop
 MicroClaw.MicroClaw
 Microsoft.AdvertisingEditor
 Microsoft.Azure.QuickReview
@@ -814,7 +831,6 @@ Multica.MulticaDesktop
 Mumble.Mumble.Server
 myagmb28Dev.WindexBar
 myiam.Cli
-Myriad-Dreamin.Typlite
 nabdev.iloader
 Nanome.Nanome
 Naruebodee8.VibeKidbrightIDE
@@ -826,6 +842,7 @@ nekohy.MeowCLI
 nelsonduarte.PDFApps
 Neovim.Neovim.Nightly
 Netbird.Netbird
+NetEase.CloudMusic
 NetEase.LobsterAI
 Nethesis.NethLink
 Netpack.XFB
@@ -863,6 +880,7 @@ OpenRCT2.OpenRCT2
 OpenRunDev.OpenRun
 openwong2kim.wmux
 Opera.Opera*
+Oracle.OCI-CLI
 OrcaSVN.OrcaSVN
 OrdinLabs.ssh-autocomplete
 OrgMentem.zotio
@@ -879,6 +897,7 @@ PDQ.PDQInventory
 PerfectWorld.PerfectWorldArena
 Phoner.PhonerLite
 PIKCLOUD.PikPak
+Piriform.CCleaner
 PixPin.PixPin.Beta
 pkgconf.pkgconf
 Plotly.Studio
@@ -895,6 +914,7 @@ prefix-dev.pixi
 presono.presono
 PrimeBuild.TweakHub
 Profullstack.PairUX
+Proton.ProtonVPN
 PRQL.prqlc
 PSerban93.Achievements
 Psynect.OmniMend
@@ -903,6 +923,7 @@ Pulumi.Pulumi
 Python.PythonEmbeddablePackage.3.14
 QGIS.QField
 qilang.qi
+Qingfeng.HeyboxAccelerator
 QuantumNous.NewAPI
 ractive.hoppy
 Raimersoft.RadioVeritas
@@ -919,6 +940,7 @@ RedEyeNetworks.LogivoreForVeeam
 Redisant.BACnetExplorer
 Redisant.IEC61850ServerSimulator
 Relic.Relic
+relmer.TCDir
 RemcoStoeten.Dora
 Replit.Replit
 ReplyLayer.CLI
@@ -932,6 +954,7 @@ RoxyBrowser.RoxyBrowser
 rtk-ai.rtk
 RubyInstallerTeam.RubyWithDevKit.3.4
 rugbedbugg.RetroTetris
+RustemMussabekov.Raindrop
 Rustlang.rust-analyzer
 rustty.Rustty
 rvben.rumdl
@@ -958,6 +981,7 @@ ShakaProject.ShakaPackager
 sharpemu.SharpEmu
 ShianMike.SHARPpy-Reimagined
 shihuili1218.RSSH
+Shilihu.Mubu
 Silvatower.TowerMaster
 SimonSchubert.Kai
 SimplyCA.Typeless
@@ -1128,6 +1152,7 @@ yetone.Alma
 yetone.NextAITranslator
 Yiays.AutoLogout
 YouXiao.YXCalendar
+YuanDevLLC.OneXray
 Yuanfudao.Yuanfudao
 YuniqueUnic.Callai
 yyqh01.GitTools
