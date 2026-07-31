@@ -2,6 +2,7 @@
 360.360Ent
 37signals.Basecamp
 3CX.Softphone
+3Dflow.3DFZephyr.Free
 5E.5EClient
 66HEX.Frame
 7S2P.Effie.CN
@@ -71,7 +72,6 @@ Aptivi.Nitrocid.0.2.0.x
 AQBot.AQBot
 aquaproj.aqua
 ArcBox.LinkCode
-archisman-panigrahi.QuickBib
 Ardisk.Ardisk
 Arelle.Arelle
 Argente.DataShredder
@@ -94,7 +94,6 @@ AstroComma.AstroGrep
 Astronet.Scholaread
 Asus.BIOSConfigTool
 ASYS.Vantage
-atani.transit
 AtenaProject.Atena
 athrvk.Vayu
 AtomGit.AtomCode
@@ -155,6 +154,7 @@ buxuku.SmartSub
 Byron.dua-cli
 ByteDance.Dola
 ByteDance.Doubao
+ByteDance.Douyin
 ByteDance.DouyinIDE
 ByteDance.Feishu
 ByteDance.LarkCLI
@@ -211,7 +211,6 @@ Cycl0o0.OpenDeezer
 d4vid87.hookecho
 Dagger.Cli
 Dahobr.JWMeetingPlayer
-Dais.Dais
 Dalux.Dalux
 Dalux.Dalux.MSI
 DamianH.BrowserWrangler
@@ -226,7 +225,6 @@ Databricks.DatabricksCLI
 Dataflare.Dataflare
 Datalust.Seq
 Datalust.seqcli
-datap-rs.DataPress
 Datronicsoft.SpacedeskDriver.Server
 DavidEngelhart.Termpolis
 DBMobile.Resonance
@@ -275,6 +273,7 @@ ducaale.xh
 DuckDuckGo.DesktopBrowser
 DuckDuckGo.DesktopBrowser.Preview
 DuckWeb.md2html
+DuongDieuPhap.ImageGlass
 DygmaLabs.Bazecor
 EarendilWorks.pi
 Easeware.DriverEasy
@@ -316,6 +315,7 @@ Erlang.ErlangOTP
 ESEngine.ReasonixCLI
 ESEngine.ReasonixDesktop
 ESET.*
+Espressif.eim
 eTeks.SweetHome3D
 Ethereum.geth
 Eugeny.Tabby
@@ -402,9 +402,9 @@ GiulioSorrentino.CBriscola
 GiulioSorrentino.CBriscola.Avalonia
 GiulioSorrentino.Diario.Avalonia
 GiulioSorrentino.IlFortunedinumerone
+GiulioSorrentino.Latorredibabele
 GiulioSorrentino.wheelofnumfortune
 GiulioSorrentino.wheelofnumfortune.avalonia
-GiulioSorrentino.wxBriscola
 GLab.GLab
 Gleam.Gleam
 Glide01.BoxPilot
@@ -428,7 +428,6 @@ Google.Chrome*
 Google.CloudSDK
 Google.JapaneseIME
 Google.Picasa
-goptics.vizb
 GoTo.GoTo
 GraemeGill.ArgyllCMS
 GramEditor.Gram
@@ -452,6 +451,7 @@ hellodigua.ChatLab
 HERE.MAPMAKING.CLI
 HERE.OLPCLI
 hiadamhere.spm
+Hibbiki.Chromium
 HiggX.QFCLI
 HighNovation.SuperFEC
 HiroyukiFuruno.katana-desktop
@@ -497,9 +497,12 @@ IneedABUFF.BuffMyBar
 infisical.infisical
 inspoaibox.Mshell
 InstaZDLL.WaveFlow
+Instruqt.CLI
 IObit.AdvancedSystemCare
 ipatalas.AppSwitcher
+IPEVO.Vurbo-ai
 Ironship.WordHunter
+ItayCohen.CodexWinBar
 ItchIo.Itch
 ItTiger.TigerWrap
 IviFoundation.SharedComponents
@@ -531,7 +534,6 @@ JFrog.Cli
 JGraph.Draw
 JiaPeng.LanTransfer
 jishnuteegala.git-chunks
-jlifeng.JobPilot
 jmrplens.gitlab-mcp-server
 JonahZeng.IIViewer
 JordanCoin.codemap
@@ -945,6 +947,7 @@ Nvidia.*
 Nvidia.GeForceNow
 Obsidian.Obsidian
 OBSProject.OBSStudio
+OCBase.OCCT.Personal
 OCBase.OCCT.Personal.Mono
 OctopusData.Octoparse
 OctopusDeploy.Cli
@@ -992,6 +995,7 @@ payhereinc.PayhereSeller
 pbek.QOwnNotes
 PCTI.Docman.GP
 pcvisit.pcvisitSupport
+PDFgear.PDFgear
 PDQ.PDQDeploy
 PDQ.PDQInventory
 PerfectWorld.PerfectWorldArena
@@ -1017,7 +1021,6 @@ PowerSoftware.AnyBurn.Pro
 ppy.osu
 prefix-dev.pixi
 presono.presono
-PrimeBuild.TweakHub
 Profullstack.PairUX
 Proma.Proma
 Proton.ProtonDrive
@@ -1100,6 +1103,7 @@ Scaleway.cli
 ScalixWorld.ScalixCloud
 schollz.croc
 ScooterSoftware.BeyondCompare.5
+Seafuture.NetpasDistance
 Seafuture.NetpasMessage
 seerge.g-helper
 Seiraiyu.Keon
@@ -1154,6 +1158,7 @@ SST.opencode
 SST.OpenCodeDesktop
 StablyAI.Orca
 StarFinanz.StarMoney*
+starkSV.msdl
 Starpine.Screenbox
 SteelSeries.GG
 steipete.discrawl
@@ -1164,12 +1169,12 @@ Stript.Stript
 StruisICT.SmtpTestTool
 Stylebending.Aperture
 SubstrateSystems.Endstate
-Sudhanshu-Ambastha.jar-cart
 SumbitLabs.Aptakube
 Sumologic.OtelcolSumo
 Sumologic.OtelcolSumo.Fips
 SuperRadCompany.Microsandbox
 SuperUltra.superwhisper
+Surfshark.Surfshark
 surge-downloader.surge
 SUSE.openSUSE.Tumbleweed
 suzuki-shunsuke.ghtkn
@@ -1186,6 +1191,15 @@ TableClothProject.TableCloth
 TablePlus.TablePlus
 Tailscale.Tailscale
 TandemHealth.Tandem
+Taozuhong.KangarooMariaDB
+Taozuhong.KangarooMongoDB
+Taozuhong.KangarooMultiple
+Taozuhong.KangarooMySQL
+Taozuhong.KangarooOracle
+Taozuhong.KangarooPostgreSQL
+Taozuhong.KangarooRedis
+Taozuhong.KangarooSQLite
+Taozuhong.KangarooSQLServer
 TeamGroup.SMARTTool
 TeamViewer.TeamViewer
 TeamViewer.TeamViewer.Host
@@ -1311,6 +1325,7 @@ xiaocang.EasydictforWindows
 XiaoYouChR.GhostDownloader
 Xieweikang123.ReFast
 XinTaoFei.Codeg
+xishang0128.Sparkle
 xLightsSequencer.xLights
 Xmind.Xmind
 xmn.BetterTrumpet
