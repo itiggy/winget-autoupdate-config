@@ -155,6 +155,7 @@ Brave.Brave.Nightly
 Brave.Brave*
 Brave.BraveOrigin.Nightly
 Breizhzion.JustMakeQ
+BrianApps.Sizer.Dev
 BrianGalvan.NoBloatPDF
 BrickLink.Studio
 Brother.iPrintScan
@@ -170,6 +171,7 @@ ByteDance.Dola
 ByteDance.Doubao
 ByteDance.Douyin
 ByteDance.DouyinIDE
+ByteDance.FeiLian
 ByteDance.Feishu
 ByteDance.LarkCLI
 ByteDance.Trae
@@ -192,6 +194,7 @@ CatoNetworks.CatoClient
 Catsxp.Catsxp
 CDESoftware.BTM-2026
 Celerp.Celerp
+Celsys.ClipStudioPaint
 ChannelCorporation.ChannelTalkforDesktop
 charmbracelet.crush
 ChefSoftware.InfraClient
@@ -224,6 +227,7 @@ Creality.CrealityScan.4
 CreativeForce.Hue
 CreativeForce.Luma
 CreativeTechnology.*
+CryptographicTriangles.TrianglesQt
 Cycl0o0.OpenDeezer
 d4vid87.hookecho
 Dagger.Cli
@@ -310,6 +314,7 @@ EditorConfig-Checker.EditorConfig-Checker
 EEO.ClassIn
 EEO.ClassInX
 Egnyte.EgnyteDesktopApp
+eitsupi.arf
 ej-technologies.JProfiler.16.Agent
 EKKOLearnAI.HermesStudio
 Elcomsoft.PhoneBreaker
@@ -385,6 +390,7 @@ FreeCAD.FreeCAD
 FSPProductions.FileHasher
 FunRoutine.WorkFlowy
 GAI.FileTools
+GAM-Team.gam
 Game1024.OpenSpeedy
 GamePP.GamePPLite
 GameshowPro.BgRaster
@@ -453,6 +459,8 @@ GraemeGill.ArgyllCMS
 GramEditor.Gram
 Grammarly.Grammarly
 Granola.Granola
+Gravitational.Teleport
+Gravitational.TeleportConnect
 Gridness.a365dt
 gu-sean.TimeManager
 GuoJikun.QuickLook
@@ -463,6 +471,7 @@ HaiYing.OfficeCLI
 hamidfzm.Glyph
 HamRadioDeluxe.HamRadioDeluxe
 Hanselman.WingetTUI
+hanshutx.NeZha
 HarumiWeb.Xlflow
 harungecit.IndepenDesk
 HaystackSoftware.Arq
@@ -483,6 +492,7 @@ HMCL.HMCL.Stable
 HMCL.HMCL.Stable.CNB
 Holepunch.Keet
 Hoornet.Vega
+HoraceMaxwell.Horosa
 houseabsolute.ubi
 HP.ConnectionOptimizer
 Huerte.GitGo
@@ -533,7 +543,6 @@ ItayCohen.CodexWinBar
 ItchIo.Itch
 ItTiger.TigerWrap
 IviFoundation.SharedComponents
-IvyScience.ivySCI
 j178.Prek
 Jackett.Jackett
 JairLima.MD2DOCX
@@ -643,7 +652,6 @@ Lacerda.Lumen
 LacunaSoftware.WebPKI
 LANCommander.Launcher
 LANCommander.Server
-LargeModGames.spotatui
 laurentiu021.SysManager
 lbjlaq.AntigravityTools
 Lean.Lean
@@ -683,6 +691,7 @@ MacPawWayLTD.ClearVPN
 Makeblock.xToolStudio
 Makestar.MakestarAdminCLI
 Mamba.Micromamba
+MAMEdev.MAME
 MarceloLvCabral.BrightScriptEmulator
 marcinz606.NegPy
 MarkusKellermann.Convo
@@ -697,6 +706,7 @@ max-sixty.worktrunk
 McAfee.MCPR
 Medixant.RadiAntDICOMViewer
 MeldStudio.MeldStudio
+Meltytech.Shotcut
 memtime.memtime
 meshmakers.octo-cli
 Meta.QuestRemoteDesktop
@@ -950,7 +960,6 @@ nashsu.LLMWiki
 NASS.Wrok
 NearAI.IronClaw
 NEC.UNIVERGEBLUECONNECT
-neelabo.NeeView
 nekename.OpenDeck
 nekohy.MeowCLI
 nelsonduarte.PDFApps
@@ -1061,6 +1070,7 @@ pkgconf.pkgconf
 Plotly.Studio
 PoBruno.Klip
 PokerTH.PokerTH
+Polyv.PolyvLive
 Popokey.HL7Soup
 Popokey.HL7SoupIntegrationHost
 PortSwigger.BurpSuite
@@ -1091,6 +1101,7 @@ qarmin.czkawka.cli
 qarmin.czkawka.gui
 qarmin.krokiet
 qarmin.krokiet.vulkan
+QGIS.QField
 qilang.qi
 Qingfeng.HeyboxAccelerator
 Qingfeng.HeyboxWow
@@ -1098,6 +1109,7 @@ qishibo.AnotherRedisDesktopManager
 QNAP.NetBakPCAgent
 qp888n.Yumedana
 QuillNotes.Quill
+Raimersoft.RadioVeritas
 Raise3D.ideaMaker
 Rakudo.Rakudo
 Rakudo.Rakudo.Star
@@ -1112,6 +1124,7 @@ RealVNC.VNCServer
 ReceitaFederaldoBrasil.EscrituraçãoDigitalECF
 ReceitaFederaldoBrasil.SpedFiscalICMSIPI
 Recol.DLSSUpdater
+RedactSoftware.Redact
 RedCactus.Bubble
 RedCactus.BubbleBeta
 RedEyeNetworks.HopMatrix
@@ -1143,7 +1156,6 @@ rugbedbugg.RetroTetris
 Ruihu.Apifox
 runxhq.runx
 RustemMussabekov.Raindrop
-Rustlang.rust-analyzer
 rustty.Rustty
 rvben.rumdl
 RyensX.OpenCodex
@@ -1155,7 +1167,6 @@ SAP.SapMachine.26.JRE
 SatoshiLabs.trezor-suite
 Saturn9.FlowCLI
 SBCL.SBCL
-sbt.sbt
 Scaleway.cli
 ScalixWorld.ScalixCloud
 schollz.croc
@@ -1308,7 +1319,6 @@ tonhowtf.OmniGet
 tonythethompson.numan
 tonythethompson.QuickShell
 tonythethompson.QuickShellforCmdPal
-TooYi.IShell
 topgrade-rs.topgrade
 TRGamer-tech.FluentTaskScheduler
 TriliumNext.Notes
@@ -1352,7 +1362,6 @@ Voidstar.FilePilot
 Voltius.Voltius
 VoSoft.VicDiary
 VovSoft.DesktopDiary
-VovSoft.DomainChecker
 VovSoft.SpeechToSubtitleConverter
 VovSoft.VovAlphaBlend
 VRCXF.VRCXF
@@ -1396,7 +1405,6 @@ xishang0128.Sparkle
 xLightsSequencer.xLights
 Xmind.Xmind
 xmn.BetterTrumpet
-xpf0000.FlyEnv
 Xpoz.XpozCli
 XrevealTeam.Xreveal
 XuanyuanLuoxue.XCLI
