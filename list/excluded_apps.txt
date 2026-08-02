@@ -15,7 +15,6 @@ ACCloud.UnimailClient
 AceBIT.PasswordDepot.19
 AceBIT.PasswordDepotEnterpriseServer.19
 achigever26.talktype
-AcoustID.Chromaprint
 ActiveDirectoryPro.365ProToolkit
 AdGuard.AdGuard.Beta
 Adobe.*
@@ -99,7 +98,6 @@ autobrr.sfvbrr
 AvivSinai.Bitbucket-CLI
 Axosoft.GitKraken
 axpnet.AeroFTP
-Baidu.BaiduNetdisk
 Baidu.BaiduWenku
 Baidu.Comate
 Bauerapps.RightNote
@@ -219,7 +217,6 @@ Databricks.DatabricksCLI
 Dataflare.Dataflare
 Datalust.Seq
 Datalust.seqcli
-Datronicsoft.SpacedeskDriver.Server
 DBMobile.Resonance
 dbtLabs.dbt
 dcadolph.vamoose
@@ -290,6 +287,7 @@ eMClient.eMClient
 Emurasoft.EmEditor
 endev.aube
 ensardev.QuiverKit
+Enter-tainer.typstyle
 Envarly.Envarly
 EpicGames.LoreDesktop
 EpicGames.LoreServer
@@ -475,6 +473,7 @@ ImageMagick.ImageMagick.Q16
 ImageMagick.ImageMagick.Q8
 ImJustIvaan.MinimalClock
 ImputNet.Helium
+IndependentPhotoSupplies.IccProfileChartPrinter
 IneedABUFF.BuffMyBar
 InferenceHub.InferenceHub
 infisical.infisical
@@ -534,30 +533,19 @@ kay-ou.SimTradeDesk
 kayodante.Siphon
 KDE.Blinken
 KDE.Chessament
-KDE.Granatier
 KDE.KAlarm
-KDE.Kapman
-KDE.KAtomic
-KDE.KBlackbox
-KDE.KBlocks
 KDE.KBruch
 KDE.KFourInLine
 KDE.KGoldrunner
 KDE.Kigo
 KDE.Killbots
-KDE.Kiriki
 KDE.Kiten
 KDE.KJumpingCube
 KDE.Klickety
 KDE.Klines
 KDE.KMahjongg
-KDE.KNetWalk
-KDE.Kolf
-KDE.Kollision
 KDE.Konsole
-KDE.KReversi
 KDE.Krita
-KDE.KShisen
 KDE.KSudoku
 KDE.KTurtle
 KDE.LSkat
@@ -597,7 +585,6 @@ Lean.Lean
 Learneo.LanguageTool
 Ledgerful.Ledgerful
 LedgerHQ.LedgerLive
-leduftw.dbird
 LeiGod.LeiGodAcc
 Lenovo.SLBrowser
 LibreDB.Studio
@@ -622,6 +609,7 @@ LuisPater.CLIProxyAPI
 LukiLabs.Craft
 Lumivero.Citavi.7
 LunarWerxs.SageThumbs2K
+Lunasans.MovieShelf
 M-Igashi.mp3rgain
 M2Team.NanaBox
 MaaAssistantArknights.MaaAssistantArknights
@@ -900,9 +888,7 @@ NetEase.CloudMusic
 NetEase.LobsterAI
 Netpack.XFB
 NetSentinel.NetSentinel
-Neumetrix.HttpWatch.Basic
 Newforma.Konekt.Addin.Autodesk
-Nextcloud.NextcloudDesktop
 Nextcloud.Talk
 Nextcloud.Talk.Beta
 Nextmv.CLI
@@ -915,6 +901,7 @@ NikolaReljin.ScanContext
 Nikse.SubtitleEdit
 NimbusAgent.Nimbus
 NinjaCheetah.NUSGet
+NirSoft.WifiDiagnosticsView
 nitichote@dev.thaikeyfix
 NixieTechLLC.Lait
 NoMachine.NoMachine.CloudServer
@@ -1097,13 +1084,10 @@ SanthoshReddy352.NammaAgent
 SAP.SapMachine.25.JRE
 SatoshiLabs.trezor-suite
 Saturn9.FlowCLI
-SBCL.SBCL
 Scaleway.cli
 ScalixWorld.ScalixCloud
 schollz.croc
-ScooterSoftware.BeyondCompare.5
 Seafuture.NetpasDistance
-Seafuture.NetpasMessage
 SeasaltAI.SeaMeetSnapRecorder
 seerge.g-helper
 Seiraiyu.Keon
@@ -1116,8 +1100,8 @@ SerZhyAle.FastMediaSorter
 SerZhyAle.FileDO
 SerZhyAle.StreamsPlayer
 SevIQ.ThemeToggle
-SFLinux.Jami.Beta
 shadps4-emu.shadPS4
+ShareX.XerahS
 sharpninja.ViceSharp
 ShianMike.SHARPpy-Reimagined
 Shilihu.Mubu
@@ -1231,7 +1215,6 @@ TidyCustoms.Publii
 timeBuzzer.timeBuzzer
 TinyHumansAI.OpenHuman
 tinyrack.dotweave
-tinyrack.proxer
 TJSmith.Anodizer
 tnunamak.Clawmeter
 tombi-toml.tombi
@@ -1258,7 +1241,6 @@ UniversalMediaServer.UniversalMediaServer
 unpaved028.ClipTyper
 UpNote.UpNote
 USBTree.USBTree
-User123.KeyboardMouseInteraction
 UsualExpat.SpecWatcher
 uu201.CharacterArc
 v2rayA.v2rayA
@@ -1325,7 +1307,6 @@ xishang0128.Sparkle
 xLightsSequencer.xLights
 Xmind.Xmind
 xmn.BetterTrumpet
-Xpoz.XpozCli
 XrevealTeam.Xreveal
 XuanyuanLuoxue.XCLI
 XxHuberrr.Mineradio
