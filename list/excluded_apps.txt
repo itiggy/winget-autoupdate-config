@@ -26,6 +26,7 @@ agentjp.bdinfo-rs-gui
 agentty.agentty
 AGNTCY.agentbridge
 AIDotNet.OpenCowork
+aiko-chan-ai.DiscordBotClient
 aimotrens.impulsar
 Aircall.AircallWorkspace
 Airtame.Airtame
@@ -56,8 +57,6 @@ AMD.LemonadeServer
 AmekoProject.Ameko
 AmN.yasb
 AmneziaVPN.AmneziaVPN
-AmyXun.AxGlyph
-AmyXun.AxMath
 AnalyseDeCircuit.OxideTerm
 Anchore.Syft
 AndrewNg.OpenWorker
@@ -229,6 +228,7 @@ charmbracelet.crush
 charmbracelet.soft-serve
 ChiaNetwork.GUIforChiaBlockchain
 ChinaMobile.CloudVideo
+ChrisLauinger77.QontrolPanel
 Chromium.ChromeDriver
 Chronosphere.FluentBit
 Cilium.CiliumCLI
@@ -237,6 +237,7 @@ CircleCI.CLI
 CircleCI.CLI.Preview
 Cisco.Webex
 CloudImperiumGames.RSILauncher
+Cloudstic.CLI
 CMI.LehrerOfficeDesktop
 CMU.CLAN
 Cod-e-Codes.Marchat
@@ -249,8 +250,6 @@ coldhighsun.ManagedDrive
 ColonyLabs.ScribeDesktopCapture
 Comfy.ComfyUI-Desktop
 Concourse.Fly
-CoralCreek.SQLiteExpert.Personal
-CoralCreek.SQLiteExpert.Professional
 Coreho.nudl
 Corsair.iCUE.5
 CPUID.HWMonitor
@@ -353,7 +352,6 @@ EligianLabs.PIICrawlerCLI
 eloston.ungoogled-chromium
 Emurasoft.EmEditor
 endev.aube
-ente-io.auth-desktop
 ente-io.photos-desktop
 Envarly.Envarly
 EpicGames.LoreDesktop
@@ -536,6 +534,7 @@ ishiimasaki646.gyazo-mcp-server
 ItayCohen.CodexWinBar
 ItchIo.Itch
 Iterate.Cyberduck
+j178.Prek
 Jackett.Jackett
 JakeScott.PowerControlforCommandPalette
 JanDeDobbeleer.OhMyPosh
@@ -625,6 +624,7 @@ LibreDB.Studio
 LibreDsc.DscDatabricks
 LibreWolf.LibreWolf
 libvips.libvips
+liliMozi.HanaAgent
 Lime.Lime
 LinearOrbit.Linear
 Lingbao.EasyClaw
@@ -640,6 +640,7 @@ Lonestill.OnyxLauncher
 Loom.Loom
 loonghao.vx
 LouisHinchliffe.HardwareMon
+LucidLink.LucidLink
 LuisPater.CLIProxyAPI
 LukiLabs.Craft
 LunarWerxs.SageThumbs2K
@@ -714,7 +715,6 @@ MIDAS.MDesk
 mikf.gallery-dl.Nightly
 Mikrotik.Netinstall
 MilkShift.GoofCord
-mingchen666.Reviva
 MiniMax.MiniMaxCode
 MiniMax.MiniMaxHub
 MiniMax.MiniMaxHub.CN
@@ -1069,7 +1069,6 @@ OpenJS.NodeJS.LTS
 OpenLess.OpenLess
 OpenRCT2.OpenRCT2
 OpenTelemetry.Weaver
-OpenTubeX.OpenTubeX
 OpenWhisperSystems.Signal
 OpenWhisperSystems.Signal.Beta
 openwong2kim.wmux
@@ -1098,6 +1097,7 @@ panjie.mods
 Pantelis23.KernRift
 Papers.PDF.Desktop
 Parsec.Parsec
+PassMark.OSFMount
 Patchloom.Patchloom
 PawelSalawa.Letos
 payhereinc.PayhereSeller
@@ -1114,6 +1114,7 @@ Pexip.Pexip.SecureMeetings
 PHP.PHP
 PHP.PHP.8.2
 PHP.PHP.8.4
+PicGuard.PicGuard
 PicoTechnology.Picoscope
 PidgeonHealth.CLI
 pkgconf.pkgconf
@@ -1144,6 +1145,7 @@ PTRTECH.UVtools
 ptweezy.cronstable
 Purple.PurplePlus
 putnam.binmerge
+Python.Python.3.13
 qBittorrent.qBittorrent
 qingchencloud.ClawPanel
 Qingfeng.HeyboxWow
@@ -1166,8 +1168,6 @@ RedEyeNetworks.Logivore
 RedEyeNetworks.LogivoreForVeeam
 Refactoring.Tolaria
 Refractored.TinyClips
-Regressi.Regressi
-Regressi.Regressi64
 ReincubateLtd.CamoStudio
 rejetto.hfs
 Relic.Relic
@@ -1196,6 +1196,7 @@ Rozsazoltan.MessengerNext
 RT3M1S.KPOS
 rtk-ai.rtk
 ruanklein.synapseq
+Ruben2776.PicView
 Ruihu.Apifox
 rullerzhou-afk.clawd-on-desk
 runxhq.runx
@@ -1230,6 +1231,7 @@ sf-yuzifu.bcm_convertor
 shader-slang.slang
 shakaran.whatly
 sharpninja.ViceSharp
+ShianMike.SHARPpy-Reimagined
 shipengqi.commitizen
 SiarheiKuchuk.BUtil
 Sidero.omnictl
@@ -1291,6 +1293,7 @@ StruisICT.InLook
 stuncloud.uwscr
 SubstrateSystems.EndstateCLI
 sunfish-shogi.shogihome
+SunJary.NetAssistant
 Superhuman.Superhuman
 surge-downloader.surge
 SUSE.RancherDesktop
@@ -1323,6 +1326,7 @@ Tencent.TencentDocs
 Tencent.TencentVideo
 Tencent.WeCom
 Tencent.WeixinDevTools
+Tencent.WeType
 Tencent.WorkBuddy
 Tencent.Yuanbao
 Teradata.TTUBase
@@ -1342,6 +1346,7 @@ Thurbeen.thurbox
 TinyHumansAI.OpenHuman
 tinyrack.coder-cli
 tisun2.OofManager
+TJSmith.cfgd
 ToDesktop.ToDesktop
 toevi.WOLManager
 Toit.Jaguar
@@ -1378,13 +1383,12 @@ VirtualHere.USBClient
 VisiGrid.VisiGrid
 Vita3K.Vita3K
 Vivaldi.Vivaldi
+Vivaldi.Vivaldi.Snapshot
 vmvarela.sql-pipe
 VNGCorp.Zalo
-Voiden.Voiden-Beta
 voidtools.Everything
 Voltius.Voltius
 Vortrix5.Sifty
-VovSoft.AIRequester
 VovSoft.BatchVideoUpscaler
 VovSoft.FilenameLister
 VovSoft.HideFiles
@@ -1392,7 +1396,6 @@ VRCXF.VRCXF
 vriesdemichael.bb
 Wacom.WacomTabletDriver
 wanghongenpin.ProxyPin
-wanshuiyin.ARIS-Code
 WarlordSoftwares.4kwall
 Warp.Warp
 WavesAudio.WavesCentral
@@ -1447,6 +1450,7 @@ YouXiao.YXFile
 yt-dlp.FFmpeg
 yt-dlp.FFmpeg.Shared
 yt-dlp.yt-dlp.nightly
+YuanDevLLC.OneXray
 yummyzzzz.CoreInstaller
 yuru7.HackGen
 yyqh01.reaper_yyqh
@@ -1461,7 +1465,6 @@ ZeroInstall.ZeroInstall
 zerx-lab.FluxDown
 zevnda.SteamGameIdler
 ZhipuAI.AutoClaw
-ZhipuAI.ZCode
 zhukunpenglinyutong.CCGUI
 zkSNACKs.WasabiWallet
 ZMGID.Kivio
