@@ -25,7 +25,6 @@ AGNTCY.agentbridge
 AIDotNet.OpenCowork
 aiko-chan-ai.DiscordBotClient
 aimotrens.impulsar
-Airtame.Airtame
 Aixbox.DesktopGo
 Ajax.AjaxDesktop
 Ajax.AjaxPRODesktop
@@ -205,7 +204,6 @@ can1357.oh-my-pi
 caomengxuan666.WinuxCmd
 CapSoftware.Cap
 CardExchange.PriceTag
-Casey.Just
 Catsxp.Catsxp
 CCF.CCFLink
 CESNET.UltraGrid
@@ -264,7 +262,6 @@ Datadog.dda
 Dataflare.Dataflare
 DATEV.SicherheitspaketCompact
 DavidEngelhart.Termpolis
-DavidNorgren.Mine-imator
 DBMobile.Resonance
 DefinedNet.DNClient.Desktop
 DefinedNet.DNClient.Server
@@ -370,7 +367,6 @@ FadeIn.FadeIn
 FaFaRunner.FaFaRunner
 FahrenheitResearch.ArWen
 FahrenheitResearch.BowEcho
-FahrenheitResearch.NWWS-RS
 fairdataihub.SODA-for-SPARC
 farion1231.CC-Switch
 Fastfetch-cli.Fastfetch
@@ -477,6 +473,7 @@ hellodigua.ChatLab
 Helvesec.RMUX
 HHDSoftware.DeviceMonitoringStudio
 Hibbiki.Chromium
+hidecode365.WinLauncher
 HiggX.QFCLI
 HighNovation.SuperFEC
 hisschemoller.music-pattern-generator
@@ -513,7 +510,6 @@ Intermedia.UniteTeamsDesktopPlugin
 InTheLoop.LoopEmail
 IOBend.IOBend
 IObit.AdvancedSystemCare
-IObit.DriverBooster
 IObit.IObitUnlocker
 iQIYI.iQIYI
 Ironship.WordHunter
@@ -570,10 +566,8 @@ kawayiYokami.P-ai
 kbrdn1.gwm
 KDE.Bovo
 KDE.Chessament
-KDE.KDEConnect.AppX
 Keboola.KeboolaCLI
 KeeperSecurity.Commander
-KeeperSecurity.PasswordImporterStandalone
 khanhtd36.herdr-khanhtd36
 KhronosGroup.VulkanRT
 KhronosGroup.VulkanSDK
@@ -1318,7 +1312,6 @@ Ubiquiti.UniFiNetworkServer
 Ubisoft.Connect
 Uncaged.Uncaged
 Unity.UnityHub
-UpCloud.upcloud-cli
 User123.KeyboardMouseInteraction
 usual2970.Certimate
 uu201.CharacterArc
