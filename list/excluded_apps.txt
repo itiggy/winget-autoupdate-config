@@ -125,11 +125,11 @@ BenBurwood.DataFramer
 BenjaminLSR.HandheldCompanion
 BenjiButten.MicMixer
 Bennewitz.Ninja.ClaudeForge
+benny93.kafui
 Bin-Huang.Chatbox
 binjr.core-x64
 BirdNETTeam.BirdNETLive
 Bitfocus.Companion
-Bitwarden.CLI
 bitwig.bitwig
 Biyi.Biyi
 BLAKE3-Team.b3sum
@@ -254,7 +254,6 @@ danielmiessler.Fabric
 darkautism.PS3TrophyIsGood
 daruyanagi.XTimelineViewer
 Databricks.DatabricksCLI
-Datadog.dda
 Dataflare.Dataflare
 DATEV.SicherheitspaketCompact
 DavidEngelhart.Termpolis
@@ -263,6 +262,7 @@ DefinedNet.DNClient.Desktop
 DefinedNet.DNClient.Server
 Delido.SignalRGBWallpaper
 Delinea.DelineaConnectionManager
+demkada.ArgyCode
 DenoLand.Deno
 DesktopPlus.DesktopPlus
 detachhead.rebased
@@ -367,6 +367,7 @@ Fastly.CLI
 Feci.ParleyDeckCli
 Feci.ParleyDeckSkill
 FellowInsights.Fellow
+feraxhp.grp
 FernandoTonon.QtMeshEditor
 fidlej.fillets
 Filedini.Filedini
@@ -404,11 +405,11 @@ ggml.llamacpp
 ghchinoy.a2acli
 GiantPinkRobots.Varia
 GimHome.KanbanViz
-GitButler.GitButler
 Gitea.Runner
 GitHub.Copilot.Prerelease
 GitHub.CopilotApp
 Gitify.Gitify
+GitTower.GitFlowNext
 GlennDelahoy.DesktopInfo
 Glide01.BoxPilot
 Glodon.CADReader.CN
@@ -616,6 +617,7 @@ meshmakers.octo-cli
 Meta.QuestRemoteDesktop
 MetalBear.mirrord
 michaelsanford.wtop
+michidk.vscli
 MicroClaw.MicroClaw
 Micronaut.Launch
 Microsoft.AdvertisingEditor
@@ -663,8 +665,6 @@ Money.Net
 MongoDB.Compass.Full
 MongoDB.Compass.Isolated
 MongoDB.Compass.Readonly
-MongoDB.MongoDBAtlasCLI
-MongoDB.Server
 MonotypeImaging.Extensis
 MoonchildProductions.PaleMoon
 Moonfin.Moonfin
@@ -700,7 +700,6 @@ mulhamna.jirac-mcp
 Multica.MulticaCLI
 Multica.MulticaDesktop
 myagmb28Dev.WindexBar
-MYOB.AccountRight
 NaeNaeTart.AMLLTTMLTool
 namazso.OpenHashTab
 nashaofu.Shell360
@@ -782,7 +781,6 @@ Opera.Opera.Dev
 Opera.Opera*
 Opera.OperaGX
 Opheys.oph-cli
-Oracle.OCI-CLI
 OramaInteractive.Pixelorama
 OrdinLabs.wsm-cli
 OrgMentem.papio
@@ -825,7 +823,6 @@ PlanetScale.CLI
 pluveto.Upgit
 pnpm.pnpm
 PoBruno.Klip
-PokerTH.PokerTH
 PolyMC.PolyMC
 PortSwigger.BurpSuite
 Postman.Postman
@@ -839,10 +836,8 @@ Proton.ProtonDrive.CLI
 Proton.ProtonMail
 Proton.ProtonPass.CLI
 PsyChonek.SqlPlanForDummies
-PTRTECH.NetSonar
 PTRTECH.UVtools
 ptweezy.cronstable
-Purple.PurplePlus
 putnam.binmerge
 PXStudio.OpenPnt
 Python.Python.3.13
@@ -880,7 +875,6 @@ RingCentral.RingCentral
 RingCentral.RingCentralRooms
 RivaFarabi.Deckboard
 Roblox.RobloxStudio
-RockinChaos.Shiru
 Roman-16.ProtonCLI
 Romanitho.Winget-AutoUpdate
 RonsPlace.DataEdit.Lite
@@ -972,7 +966,6 @@ steipete.gogcli
 Stellar.StellarCLI
 SteveTheKiller.Killendar
 SteveTheKiller.KillerNotes
-SteveTheKiller.KillerPDF
 SteveTheKiller.KillerShell
 STH.STH
 StirlingTools.StirlingPDF
@@ -1082,13 +1075,11 @@ Wacom.WacomTabletDriver
 wanghongenpin.ProxyPin
 wanshuiyin.ARIS-Code
 WarlordSoftwares.4kwall
-WavesAudio.WavesCentral
 WEBNSNM.terminalManage
 Webroot.SecureAnywhere
 WeeNote.WeeNote
 WenanLin.wenget
 WendyLabs.Wendy
-wez.wezterm.nightly
 WhatPulse.WhatPulse
 willibrandon.dotsider
 willibrandon.dotsider-mcp
@@ -1097,6 +1088,7 @@ willibrandon.scout
 WillyJL.F95Checker
 WitteSoftware.ModbusPoll
 wkjarosz.hdrview
+wolfpld.tracy
 Wondershare.PDFelement.CN
 wuxiran.CC-Panes
 xAI.GrokBuild
