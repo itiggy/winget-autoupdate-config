@@ -34,7 +34,6 @@ AMD.LemonadeServer
 Anchore.Grype
 Anchore.Syft
 AngryMiao.AMMaster
-AnirudhSevugan.SimpliPlay
 Anthropic.Ant
 Anthropic.Claude
 Anthropic.ClaudeCode
@@ -48,7 +47,6 @@ AppWork.JDownloader*
 AQBot.AQBot
 AquaSecurity.Trivy
 archisman-panigrahi.QuickBib
-Ardisk.Ardisk
 Arelle.Arelle
 Argente.DataShredder
 Argente.DriveCleaner
@@ -84,6 +82,7 @@ AtomGit.AtomCode
 AtomixProductions.VirtualDJ
 AuraMarker.Lattics
 AurelioAvila.PCTweaker
+Automattic.harper-ls
 AvivSinai.Bitbucket-CLI
 AwesomeDog.infrss-server
 AzaharEmu.Azahar
@@ -346,7 +345,6 @@ Fastfetch-cli.Fastfetch
 Feci.ParleyDeckCli
 FedeB2160.WinGetStudio
 FengZeng.Soia
-feraxhp.grp
 Ferdium.Ferdium.Nightly
 FernandoTonon.QtMeshEditor
 Filamental.Filamental
@@ -525,7 +523,6 @@ JYH1878.KimiCodeBar
 Kakao.KakaoTalk
 kangfenmao.CherryStudio
 KangLin.SerialPortAssistant
-KaringX.ClashMi
 karnyadavdev.FontWizard
 Karuzip.Karuzip
 kawayiYokami.P-ai
@@ -594,6 +591,7 @@ M-Igashi.mp3rgain
 M-Igashi.mp3rgui
 MaaAssistantArknights.MaaAssistantArknights
 Mach50.MiaAgent
+MadOtterGames.VillagersandHeroes
 MadrasCheck.flow
 maharmstone.Ntfs2btrfs
 MahirGul.rsipclient
@@ -1209,6 +1207,7 @@ SunJary.NetAssistant
 Superhuman.Superhuman
 SuperUltra.superwhisper
 Suwayomi.Suwayomi-Server
+suzuki-shunsuke.ghtkn
 SwiftList.SwiftList
 Symphony.Symphony
 Syngnat.GoNavi
@@ -1266,7 +1265,6 @@ Unity.Unity.6000
 Unity.UnityHub
 UpNote.UpNote
 User123.KeyboardMouseInteraction
-usual2970.Certimate
 uu201.CharacterArc
 v2fly.v2ray-core
 v2rayA.v2rayA
@@ -1312,7 +1310,6 @@ WilsonGlasser.Oryxis
 WiresharkFoundation.Wireshark
 wkjarosz.hdrview
 wm94i.WorkReview
-wolfpld.tracy
 Wox.Wox
 wuxiran.CC-Panes
 xAI.GrokBuild
