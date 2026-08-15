@@ -100,7 +100,6 @@ BelgianGovernment.eIDmiddleware
 BenjaminDobell.Heimdall
 BenjaminLSR.HandheldCompanion
 Bennewitz.Ninja.ClaudeForge
-benny93.kafui
 Bilibili.Livehime
 BiomeJS.Biome
 BitSum.ProcessLasso.Beta
@@ -189,10 +188,12 @@ Codelerity.NetBeans
 Coder.Coder
 CoderKinley.CliMusik
 Codesomelabs.trau
+CodingWondersSoftware.DISMTools.Preview
 CognitionAI.DevinCLI
 CognitionAI.DevinDesktop
 colibrisec.ojo
 CollegeBoard.Bluebook
+Comfy.ComfyUI-Desktop
 CommunicationPlatform.MAX
 Concourse.Fly
 ControlUp.ControlUpAgent
@@ -359,7 +360,6 @@ Firezone.Client.GUI
 FlawlessWidescreen.FlawlessWidescreen
 Fleet.fleetctl
 Flowscripter.example-cli
-Flowscripter.example-host-application
 Flowseal.TGWSProxy
 Fluxzero.FluxzeroCLI
 Fluxzy.Fluxzy
@@ -380,6 +380,7 @@ FunRoutine.WorkFlowy
 FxSound.FxSound.Beta
 GAM-Team.gam
 GaoyangZhang.RivonClaw
+GasTownHall.Beads
 GDevelop.GDevelop
 GDRETools.gdsdecomp
 GeminiLight.MindOS
@@ -397,11 +398,11 @@ GitHub.CopilotApp
 GitHub.GitHubDesktop
 Gitify.Gitify
 Gitlab.Runner
-GitTower.GitFlowNext
 Giuspen.Cherrytree
 GLab.GLab
 Globulario.Sensei
 gmhoward9289-ops.roost
+GnOuGo.Agent
 go-musicfox.go-musicfox
 GOG.Galaxy*
 Gologin.Gologin
@@ -530,9 +531,7 @@ KDE.Chessament
 KDE.Elisa
 KDE.KStars
 KDE.PIMSieveEditor
-KDE.Tellico
 KeeperSecurity.KeeperDesktop
-khanhtd36.herdr-khanhtd36
 KIDASASoftware,Inc.MilestonesProfessional2019-64
 KIDASASoftware,Inc.MilestonesProfessional2021
 KIDASASoftware,Inc.MilestonesProfessional2023
@@ -552,7 +551,6 @@ LargeModGames.spotatui
 laurentiu021.SysManager
 lbjlaq.AntigravityTools
 Ldogg123.wevtail
-Lean.Lean
 Learneo.LanguageTool
 LedgerHQ.LedgerLive
 leezer3.OpenBVE
@@ -569,7 +567,6 @@ Lime.Lime
 Ling0727.QualityScalerGo.Cpu
 Ling0727.QualityScalerGo.Cuda
 Lingbao.EasyClaw
-Lingbao.EasyClaw.CN
 LinklyAI.LinklyAI
 LinkopingUniversity.Hopsan
 LINQPad.LINQPad.9
@@ -619,7 +616,6 @@ MetacreationLab.Autolume
 MetanoicArmor.I2PChat
 MetanoicArmor.I2PChat.TUI
 MichaelDiCarlo.PostyBirb+
-michidk.vscli
 Microsoft.AdvertisingEditor
 Microsoft.Azd
 Microsoft.Azure.AZCopy.10
@@ -699,8 +695,6 @@ Money.Net
 MoonshotAI.Kimi
 MoonshotAI.KimiCodeCLI
 mostlygeek.llama-swap
-motoi-tsushima.mfprobe
-motoi-tsushima.mfsr
 Movavi.MovaviVideoConverter
 Movavi.MovaviVideoEditor
 Movavi.MovaviVideoSuite
@@ -1125,7 +1119,6 @@ SerZhyAle.DocHtmlTranslate
 SerZhyAle.FastMediaSorter
 SFLinux.Jami.Beta
 SFXTechInnovation.SimpleFixAI
-ShianMike.SHARPpy-Reimagined
 shibadogcap.dpgk
 Shift.Shift
 Shilihu.Mubu
@@ -1306,7 +1299,6 @@ WilhelmHappe.Adressen
 willibrandon.dotsider
 willibrandon.dotsider-mcp
 willibrandon.picket
-WilsonGlasser.Oryxis
 WiresharkFoundation.Wireshark
 wkjarosz.hdrview
 wm94i.WorkReview
@@ -1321,7 +1313,6 @@ XiaoweiCloud.CalendarTask
 Xieweikang123.ReFast
 XinTaoFei.Codeg
 XMediaRecode.XMediaRecode
-Xmind.Xmind
 XnSoft.XnConvert
 xpf0000.FlyEnv
 Yaak.app
@@ -1352,7 +1343,7 @@ ZhipuAI.AutoClaw
 ZhipuAI.ZCode
 zhukunpenglinyutong.CCGUI
 ZMGID.Kivio
+Zoho.Meeting
 Zoho.Ulaa
 Zoid.Meru
-Zoom.ZoomRooms
 zTools.zTools
