@@ -5,6 +5,8 @@
 7zip.7zip
 a9gent.MindFS
 AbishekNarasimhan.RavensPort
+abrignoni.ALEAPP
+abrignoni.ALEAPP-cli
 Aburousan.Hilbert
 Accreation.Aide
 ActiveDirectoryPro.365ProToolkit
@@ -43,6 +45,7 @@ AOMEI.PartitionAssistant
 APIDocumentation.Scalar
 Appest.TickTick
 AppFlowy.AppFlowy
+Apps2Samsung.Apps2Samsung
 AppWork.JDownloader*
 AQBot.AQBot
 AquaSecurity.Trivy
@@ -69,6 +72,7 @@ Aserto.Topaz
 ASGARDEXMaintainers.ASGARDEX
 Ashampoo.AshampooApp
 astral-sh.uv
+AstrBot.AstrBotLauncher
 Astronet.Scholaread
 Astronomer.Astro
 ASYS.Vantage
@@ -85,6 +89,7 @@ AurelioAvila.PCTweaker
 Automattic.harper-ls
 AvivSinai.Bitbucket-CLI
 AwesomeDog.infrss-server
+AwesomeDog.soma
 AzaharEmu.Azahar
 AzaharEmu.Azahar.MSYS2
 badboy.mdbook-mermaid
@@ -166,6 +171,7 @@ ChawyeHsu.Nano
 chen08209.FlClash
 ChHsiching.BongoCatTodo
 chrisant996.Clink
+ChrisLauinger77.QontrolPanel
 ChrisMcLennan.mnml
 ChristofMueller.DeviceShelf
 Chromium.ChromeDriver
@@ -193,6 +199,8 @@ CognitionAI.DevinCLI
 CognitionAI.DevinDesktop
 colibrisec.ojo
 CollegeBoard.Bluebook
+CologneCodeCompany.XYplorer
+CologneCodeCompany.XYplorerPortable
 Comfy.ComfyUI-Desktop
 CommunicationPlatform.MAX
 Concourse.Fly
@@ -240,6 +248,7 @@ DebojitSantra.BacklogTracker
 DeDietrich.PRO
 Deezer.Deezer
 DefangLabs.Defang
+DeltaChat.DeltaChat
 demkada.ArgyCode
 DenisZhitnyakov.DolphinAnty
 DesktopPlus.DesktopPlus
@@ -283,7 +292,6 @@ EarendilWorks.pi
 Echonuit.VigieChiroCompanion
 EclipseFoundation.Eclipse.RCP
 EclipseFoundation.TheiaIDE
-eddacraft.anvil
 EdgeTX.Companion
 EEO.ClassIn
 EEO.ClassInX
@@ -303,7 +311,6 @@ ElementLabs.LMStudio
 Elgato.CameraHub
 EligianLabs.PIICrawlerCLI
 Elinesoft.XTester
-eMClient.eMClient
 EmDiSoftware.Simpltask
 endev.aube
 EngageHealth.EngageAgent
@@ -532,6 +539,7 @@ KDE.Elisa
 KDE.KStars
 KDE.PIMSieveEditor
 KeeperSecurity.KeeperDesktop
+khanhtd36.herdr-khanhtd36
 KIDASASoftware,Inc.MilestonesProfessional2019-64
 KIDASASoftware,Inc.MilestonesProfessional2021
 KIDASASoftware,Inc.MilestonesProfessional2023
@@ -583,7 +591,9 @@ LuigiElleBalotta.AIUsageNET
 LuisPater.CLIProxyAPI
 LukiLabs.Craft
 Lumivero.Citavi.7
+Lunasans.MovieShelf
 luolangaga.tubatools
+lyswhut.AnyListen
 M-Igashi.mp3rgain
 M-Igashi.mp3rgui
 MaaAssistantArknights.MaaAssistantArknights
@@ -681,11 +691,11 @@ Microsoft.VisualStudio.Professional.Insiders
 Microsoft.VisualStudio.RemoteTools
 Microsoft.VisualStudioCode
 Microsoft.WinAppCli
-Microsoft.WindowsBatteryLifeTool
 Microsoft.WindowsSDK.10.0.28000
 Microstockr.Desktopapp
 MIDAS.CIVILNX
 mindersec.minder
+mingchen666.Reviva
 MistralAI.MistralVibe.ACP
 MITMediaLab.Scratch.3
 Mockzilla.Mockzilla
@@ -949,6 +959,8 @@ OpenDumpViewer.OpenDumpViewer
 OpenJS.Electron.41
 OpenJS.Electron.42
 OpenJS.Electron.43
+OpenLess.OpenLess
+OpenMPT.OpenMPT
 OpenRCT2.OpenRCT2
 OpenRunDev.OpenRun
 OpenScreen.OpenScreen
@@ -1022,6 +1034,7 @@ Proton.ProtonPass.CLI
 Proton.ProtonVPN
 psb140306.star_zip
 Psyche.Kelivo
+Psynect.OmniMend
 ptweezy.cronstable
 Pulumi.Pulumi
 Purple.PurplePlus
@@ -1047,7 +1060,6 @@ RedEyeNetworks.Logivore
 RedEyeNetworks.LogivoreForVeeam
 Remeha.PRO
 Remio.RemioHost
-Reqable.Reqable
 ReversingLabs.SAFEViewer
 Revopoint.RevoDesign
 RigSmith.ChangeRig
@@ -1152,9 +1164,7 @@ Softplicity.TotalPDFConverter
 Softplicity.TotalThunderbirdConverter
 Softros.LogonExpert
 SoftwareFreedomConservancy.QEMU
-SoftwareOK.DesktopOK
 sohamw03.wifui
-Sohu.SHPlayer
 soldforaloss.DevHUD
 SonicWall.GlobalVPNClient
 sordum.DnsJumper
@@ -1222,7 +1232,6 @@ Tencent.TencentVideo
 Tencent.WeChat.Universal
 Tencent.WeType
 Tencent.WorkBuddy
-Tencent.Yuanbao
 Teradata.Loom
 Termius.Termius
 Termius.Termius.Beta
@@ -1264,6 +1273,7 @@ v2rayA.v2rayA
 v2RayTun.Windows
 Vathivis.paperq
 VaughanWynneJones.VWMUD2026
+vcmi.vcmi
 Vergil.PrintBridge
 VibeBrains.VibeIDE
 ViewSonic.myViewBoard.Whiteboard
@@ -1310,11 +1320,11 @@ xiaobai.MyuneMusic
 Xiaomi.MiMoCode
 Xiaomi.MiMoCode.Baseline
 XiaoweiCloud.CalendarTask
+XiaoYouChR.GhostDownloader
 Xieweikang123.ReFast
 XinTaoFei.Codeg
 XMediaRecode.XMediaRecode
 XnSoft.XnConvert
-xpf0000.FlyEnv
 Yaak.app
 Yandex.Music
 Yao666.Lunoir
@@ -1327,7 +1337,6 @@ YogeshSharma.NullByte
 YouXiao.YXCalendar
 YouXiao.YXFile
 Ytmdesktop.Ytmdesktop
-Yuanfudao.Yuanfudao
 yukimemi.shun
 yyqh01.GitTools
 yyqh01.reaper_yyqh
