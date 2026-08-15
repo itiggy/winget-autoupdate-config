@@ -27,6 +27,7 @@ akasula09.CodeSlimmer
 alecdotdev.Markpad
 Alibaba.DingTalkWorkspaceCLI
 Alibaba.OpenCodeReview
+Alibaba.Quark
 aloneguid.bt
 aluxnimm.OutlookCalDavSynchronizer
 Amazon.AWSCLI
@@ -65,6 +66,7 @@ Arihant25.Chargle
 ArKT-7.QuickRotate
 ArtemChepurnyi.Keyguard
 Articulate.Articulate360
+ArtisticStyle.ArtisticStyle
 Asana.Asana
 Asdmir786.HalalDL
 Asdmir786.HalalDL.Lite
@@ -128,7 +130,6 @@ BrianGalvan.NoBloatPDF
 BroadcastRadio.MyriadPlayoutRemote
 BRÖTJE.ProfiTool
 Brows3Team.Brows3
-buchen.portfolio
 Buger.ClassIslandCLI
 BuilderIO.BuilderIO
 Buildkite.Agent
@@ -418,6 +419,7 @@ Google.AntigravityCLI
 Google.AntigravityIDE
 Google.Chrome
 Google.Chrome.Beta
+Google.Chrome.Dev
 Google.Chrome*
 Google.ChromeRemoteDesktopHost
 Google.CloudSDK
@@ -435,6 +437,7 @@ HaiYing.OfficeCLI
 Hanselman.WingetTUI
 Hanthor.BluefinCLI
 HarjotSinghRana.Reinstate
+HarumiWeb.Xlflow
 Hashicorp.Nomad
 Havysoft.InnoExtractor
 hdosys.herdr-sandbox
@@ -522,6 +525,7 @@ JordanCoin.codemap
 JRSoftware.InnoSetup.7
 JuanjoFuchs.voice-tunnel
 JuanPRG.HirePilot
+Julialang.Julia
 JumpCloud.PasswordManager
 JumpingBytes.ClipboardMaster
 JustArchiNET.ArchiSteamFarm
@@ -694,6 +698,8 @@ Microsoft.WinAppCli
 Microsoft.WindowsSDK.10.0.28000
 Microstockr.Desktopapp
 MIDAS.CIVILNX
+Mihomo-Party.Clash-Party
+Mihomo-Party.Mihomo-Party
 mindersec.minder
 mingchen666.Reviva
 MistralAI.MistralVibe.ACP
@@ -1133,6 +1139,7 @@ SFLinux.Jami.Beta
 SFXTechInnovation.SimpleFixAI
 shibadogcap.dpgk
 Shift.Shift
+shihuili1218.RSSH
 Shilihu.Mubu
 Sidero.omnictl
 SimplyCA.Typeless
@@ -1174,6 +1181,7 @@ SosomLab.NexaDir.Portable
 SosomLab.NexaMarkdownViewer
 Soundly.Soundly
 Sourcegraph.Amp
+Sovera.Pulse
 spdc35z9.MATRIG
 Speakeasy.speakeasy
 SpecScore.CLI
