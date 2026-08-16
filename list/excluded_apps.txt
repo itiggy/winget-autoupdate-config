@@ -32,8 +32,8 @@ Amazon.AWSCLI
 Amazon.EC2Launch
 Amazon.Kiro
 AMD.LemonadeServer
+AmekoProject.Ameko
 Anchore.Grype
-Anchore.Syft
 AngryMiao.AMMaster
 Anthropic.Ant
 Anthropic.Claude
@@ -84,11 +84,11 @@ AtomGit.AtomCode
 AtomixProductions.VirtualDJ
 AuraMarker.Lattics
 AurelioAvila.PCTweaker
+autobrr.upbrr.cli
 Automattic.harper-ls
 AvivSinai.Bitbucket-CLI
 AwesomeDog.infrss-server
 AwesomeDog.soma
-AzaharEmu.Azahar.MSYS2
 badboy.mdbook-mermaid
 Baidu.BaiduNetdisk
 Baidu.Comate
@@ -110,6 +110,7 @@ blacktop.ipswd
 BlastWave.BlastShield
 Blitz.Blitz
 Blix.BlueMail
+Blur009.BlurAutoClicker
 Bomly.BomlyCLI
 bornova.numara
 Borvid.HttpMasterProfessional
@@ -119,7 +120,6 @@ Brave.Brave.Beta
 Brave.Brave*
 Brave.BraveOrigin
 Brave.BraveOrigin.Nightly
-Breizhzion.JustMakeQ
 BrianGalvan.NoBloatPDF
 BroadcastRadio.MyriadPlayoutRemote
 BRÖTJE.ProfiTool
@@ -129,7 +129,6 @@ BuilderIO.BuilderIO
 Buildkite.Agent
 Builtbybel.FluentCleaner
 ByteDance.CapCut
-ByteDance.Coze
 ByteDance.Dola
 ByteDance.Doubao
 ByteDance.Doudian
@@ -317,7 +316,6 @@ Evernote.Evernote
 EvgenyCherpak.RemoteHelperApp
 Excelano.blick
 Excelano.nved
-Excelano.ved
 Excelano.xcp
 Excelano.xfind
 Excelano.xray
@@ -368,7 +366,6 @@ GasTownHall.Beads
 GDevelop.GDevelop
 GDRETools.gdsdecomp
 GeminiLight.MindOS
-Genesys.GenesysCloud
 gg.ai.ggcode-cli
 gg.ai.ggcode-desktop
 ggml.llamacpp
@@ -463,22 +460,17 @@ IObit.AdvancedSystemCare
 IPEVO.Vurbo-ai
 IPVanish.IPVanish
 ishizakahiroshi.many-ai-cli
-J3n5en.EnsoAI
 Jackett.Jackett
 jakedorony.MonitorInputSwitcher
 JanDeDobbeleer.OhMyPosh
 jannskiee.floe
 janosmiko.lfk
 JanProchazka.dbgate
-Japplis.AntCommander.Personal
 JDE-Projects.SimpleUNALogViewer
 jeffaristi92.Sweeft
 jefuriiij.PingMeter
 jerrywu001.cc-sessions-viewer
-JetBrains.Gateway
 JetBrains.GoLand
-JetBrains.IntelliJIDEA
-JetBrains.PhpStorm
 JetBrains.PyCharm
 JetBrains.RubyMine
 jetyu.Snaptium
@@ -532,7 +524,6 @@ levon2805.SoundBar
 lexandro.mdedit
 LGinC.EarthBackground
 LGUG2Z.komorebi.Nightly
-LibreDB.Studio
 Lime.Lime
 Ling0727.QualityScalerGo.Cpu
 Ling0727.QualityScalerGo.Cuda
@@ -545,7 +536,6 @@ llt22.Talkio
 Logitech.*
 Logitech.OptionsPlus
 Loom.Loom
-loonghao.vx
 looplj.AxonHub
 LouisHinchliffe.HardwareMon
 LuigiElleBalotta.AIUsageNET
@@ -655,6 +645,7 @@ Mihomo-Party.Clash-Party
 Mihomo-Party.Mihomo-Party
 mingchen666.Reviva
 MistralAI.MistralVibe.ACP
+misxzaiz.Polaris
 MITMediaLab.Scratch.3
 Mockzilla.Mockzilla
 Modrinth.ModrinthApp
@@ -871,7 +862,6 @@ Netbird.Netbird
 NetEase.CloudMusicXStudio
 NetEase.LobsterAI
 NetEase.UURemote
-NetEase.YoudaoPokeClass
 NetSentinel.NetSentinel
 Neumetrix.HttpWatch
 Neumetrix.HttpWatch.Basic
@@ -904,7 +894,6 @@ OEClassic.OEClassic
 Ogulniega.Launcher
 Oksion.XiControl
 Ollama.Ollama
-OmniSecure.Strix
 Open-Component-Model.ocm-cli
 OpenClaw.OpenClawCompanion
 OpenCLICollective.cfl
@@ -928,7 +917,6 @@ Opera.Opera*
 Opera.OperaGX
 Optico.WinMemoryOpt
 OramaInteractive.Pixelorama
-OrcaSVN.OrcaSVN
 OrdinLabs.wsm-cli
 OrgMentem.papio
 OSGeo.GeoServer
@@ -1004,7 +992,6 @@ Rakuten.Viber
 Rambox.Rambox
 randlee.sc-compose
 raphamorim.rio
-RDPilot.RDPilot
 ReadAI.ReadAI
 Readdle.Spark
 RedEyeNetworks.Logivore
@@ -1087,12 +1074,9 @@ SimplyCA.Typeless
 Simprint.Simprint
 sinelaw.fresh-editor
 SKCommunications.NateOn
-skim-rs.skim
 SkyLLC.UFFS
 SlackTechnologies.Slack
-SleuthKit.Autopsy
 SmokeTurner.Vouch
-SnoopWpf.Snoop
 SnowdreamTech.unistack
 Snyk.Snyk
 SoftPerfect.RAMDisk
@@ -1140,11 +1124,11 @@ steipete.discrawl
 steipete.gogcli
 StellarDataRecovery.StellarConverterForOST
 StellarDataRecovery.StellarDataRecovery
+StellarDataRecovery.StellarMigratorForExchange
 Stells.EntraChecks
 SteveTheKiller.KillerNotes
 SteveTheKiller.KillerPDF
 SteveTheKiller.KillerScan
-SteveTheKiller.KillerShell
 Storj.Uplink
 stratusadv.constellation
 Stretchly.Stretchly
@@ -1197,6 +1181,7 @@ TourBox.TourBoxConsole
 TragicCode.BuslyCLI
 TRUSTSING.iDefender
 TRUSTSING.iDefender.EN
+Tsabo.ClipMate
 tsouth89.Ceiling
 tumic0.GPXSee
 Tutanota.Tutanota
