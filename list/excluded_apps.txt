@@ -127,10 +127,7 @@ Carvel.ytt
 Catsxp.Catsxp
 CCGnomes.VaultFlasher
 CCPGames.EVEOnline
-CDESoftware.BLS-2025
-CDESoftware.BLS-2026
 CDESoftware.BTM-2026
-CDESoftware.MBD-2026
 CDESoftware.TBRAC-2024
 CerberAuth.jwtop
 charmbracelet.glow
@@ -171,6 +168,7 @@ Coremail.CMClient
 CorvuxMindware.Portty
 cpvalente.ontime
 CrazyFigure.MyTerminal
+CreativeForce.Kelvin
 CreativeTechnology.*
 CrewHaus.CLI
 CrisisGo.CrisisGo
@@ -310,7 +308,6 @@ FreeTube.FreeTube
 FriendsOfApacheNetBeans.NetBeans
 FunRoutine.WorkFlowy
 futrime.lipd
-GAM-Team.gam
 GAM-Team.GotYourBack
 GaoyangZhang.RivonClaw
 GasTownHall.Beads
@@ -357,7 +354,6 @@ happycola233.tchMaterial-parser
 HarjotSinghRana.Reinstate
 HarumiWeb.Xlflow
 Hashicorp.Nomad
-Havysoft.InnoExtractor
 hdosys.herdr-sandbox
 heartached.Noctis
 Helbling.MediaApp
@@ -418,6 +414,7 @@ JRSoftware.InnoSetup.7
 Julialang.Julia
 Julialang.Juliaup
 JumpCloud.PasswordManager
+junegunn.fzf
 JustArchiNET.ArchiSteamFarm
 justhil.piDesktop
 justnullname.QuickView
@@ -461,6 +458,7 @@ Lime.Lime
 Ling0727.QualityScalerGo.Cpu
 Ling0727.QualityScalerGo.Cuda
 Lingbao.EasyClaw
+LinkaiQi.NitTray
 LinklyAI.LinklyAI
 LinkopingUniversity.Hopsan
 LINQPad.LINQPad.9
@@ -469,6 +467,7 @@ LobeHub.LobeHub
 Logitech.*
 Logitech.OptionsPlus
 Loom.Loom
+loonghao.vx
 LOOT.LOOT
 loreste.mako
 LouisHinchliffe.HardwareMon
@@ -481,7 +480,6 @@ luolangaga.tubatools
 lycohana.BiliSum
 lyswhut.AnyListen
 M-Igashi.mp3rgain
-MaaAssistantArknights.MaaAssistantArknights
 Mach50.MiaAgent
 machinewrapped.SmartCopy
 madLinux.dstimer
@@ -500,6 +498,7 @@ MaxyMaxTheDev.ClipboardClearer
 mayocream.koharu
 MBrassey.agtop
 Meazure.GuardianBrowser
+memtime.memtime
 Meowrypto.CoinPulse
 Meta.QuestRemoteDesktop
 MetacreationLab.Autolume
@@ -516,8 +515,6 @@ Microsoft.Azure.AZCopy.10
 Microsoft.Azure.GuestProxyAgent.AllowListTool
 Microsoft.AzureCLI
 Microsoft.DotNet.AspNetCore.10
-Microsoft.DotNet.AspNetCore.9
-Microsoft.DotNet.DesktopRuntime.9
 Microsoft.DotNet.Runtime.9
 Microsoft.DotNet.Runtime.Preview
 Microsoft.DotNet.SDK.10
@@ -525,13 +522,11 @@ Microsoft.DotNet.SDK.9
 Microsoft.DotNet.SDK.Preview
 Microsoft.Edge*
 Microsoft.EdgeDriver
-Microsoft.EdgeWebView2Runtime
 Microsoft.FoundryDevPack
 Microsoft.Gaming.GDK
 Microsoft.IntegrationRuntime
 Microsoft.MaliciousSoftwareRemovalTool
 Microsoft.Office
-Microsoft.OfficeDeploymentTool
 Microsoft.OneDrive
 Microsoft.PowerShell
 Microsoft.RemoteDesktopClient
@@ -566,15 +561,12 @@ MoonshotAI.KimiCodeCLI
 mostlygeek.llama-swap
 Movavi.MovaviVideoConverter
 Movavi.MovaviVideoSuite
-Mozilla.Firefox.ach
 Mozilla.Firefox.af
 Mozilla.Firefox.az
 Mozilla.Firefox.be
 Mozilla.Firefox.br
 Mozilla.Firefox.cak
 Mozilla.Firefox.cs
-Mozilla.Firefox.dsb
-Mozilla.Firefox.el
 Mozilla.Firefox.en-CA
 Mozilla.Firefox.es-ES
 Mozilla.Firefox.es-MX
@@ -636,7 +628,6 @@ Mozilla.Thunderbird.ESR.hu
 Mozilla.Thunderbird.ESR.hy-AM
 Mozilla.Thunderbird.ESR.id
 Mozilla.Thunderbird.ESR.it
-Mozilla.Thunderbird.ESR.kab
 Mozilla.Thunderbird.ESR.MSIX
 Mozilla.Thunderbird.ESR.nl
 Mozilla.Thunderbird.ESR.ro
@@ -707,7 +698,6 @@ Open-Component-Model.ocm-cli
 OpenCLICollective.cfl
 OpenCLICollective.codereview-cli
 OpenCLICollective.google-readonly
-OpenJS.Electron.41
 OpenJS.Electron.42
 OpenJS.Electron.43
 OpenLess.OpenLess
@@ -775,6 +765,7 @@ Proton.ProtonPass
 Proton.ProtonPass.CLI
 Proton.ProtonVPN
 Psyche.Kelivo
+Psychotoxical.Psysonic
 Psynect.OmniMend
 ptweezy.cronstable
 Pulumi.Pulumi
@@ -843,7 +834,6 @@ rvben.rumdl
 RyanYuuki.AnymeX
 Ryko.GodotHub
 Saghul.TxikiJS
-SaladTechnologies.Salad
 Samarth_Agrawal.ShrinkIt
 Samsung.WatchFaceStudio
 Sandboxie.Classic
@@ -873,6 +863,7 @@ SkyLLC.UFFS
 SlavomirDurej.claude-usage-widget
 SmokeTurner.Vouch
 Snyk.Snyk
+Socoliuc.FollowFrame
 SoftPerfect.NetWorx
 SoftPerfect.RAMDisk
 SoftPerfect.SwitchPortMapper
@@ -917,6 +908,7 @@ Superhuman.Superhuman
 suzuki-shunsuke.ghtkn
 SwiftList.SwiftList
 Syngnat.GoNavi
+Synology.ActiveBackupForBusinessAgent
 sysmanage.sysmanage-agent
 t8y2.DBX
 TablePlus.TablePlus
@@ -934,6 +926,7 @@ TeleCode.TeleCode
 Telia.Norway.TeliaSky
 Tencent.TencentMeeting
 Tencent.WeChat.Universal
+Tencent.WeCom
 Tencent.WeType
 Tencent.WorkBuddy
 Teradata.Loom
@@ -990,7 +983,7 @@ Vivaldi.Vivaldi.Snapshot
 Voidstar.FilePilot
 Voltius.Voltius
 Vortenia.Overwatch
-VovSoft.BatchImageResizer
+VovSoft.BatchURLDownloader
 VovSoft.HTMLStripper
 VovSoft.SearchTextInFiles
 VRCXF.VRCXF
@@ -1014,6 +1007,7 @@ willibrandon.picket
 Wind.WindFinancialTerminal
 Winix.Wargs
 WiresharkFoundation.Wireshark
+Wondershare.PDFelement.12
 Wox.Wox
 xAI.GrokBuild
 Xerxes-2.ClewdR
