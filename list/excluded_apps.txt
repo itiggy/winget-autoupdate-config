@@ -79,7 +79,6 @@ AwesomeDog.infrss-server
 AwesomeDog.soma
 badboy.mdbook-mermaid
 Baidu.BaiduNetdisk
-Baidu.Comate
 Baidu.TeraBox
 Balena.BalenaCLI
 becaring.Cubby
@@ -104,12 +103,12 @@ Brave.Brave
 Brave.Brave*
 Brows3Team.Brows3
 BuilderIO.BuilderIO
-Builtbybel.FluentCleaner
 ByteDance.Dola
 ByteDance.Doubao
 ByteDance.Doudian
 ByteDance.Douyin
 ByteDance.FeiLian
+ByteDance.Feishu
 ByteDance.LarkCLI
 ByteDance.SodaMusic
 ByteDance.Trae.CN
@@ -133,7 +132,6 @@ CerberAuth.jwtop
 charmbracelet.glow
 chen08209.FlClash
 ChilliBits.Spice
-chrisant996.Clink
 ChrisLauinger77.QontrolPanel
 ChrisMcLennan.mnml
 ChristofMueller.DeviceShelf
@@ -195,7 +193,7 @@ DeltaChat.DeltaChat
 demkada.ArgyCode
 DeskRipple.DeskRipple
 DesktopPlus.DesktopPlus
-detachhead.rebased
+Devlint.GitWand
 Devolutions.RemoteDesktopManager
 devonmochi.ByeType
 DFNetResearch.DFdiscover
@@ -236,12 +234,7 @@ EEO.ClassIn
 EEO.ClassInX
 EKKOLearnAI.HermesStudio
 eksctl.eksctl
-Elastic.Auditbeat
-Elastic.Filebeat
 Elastic.Heartbeat
-Elastic.Metricbeat
-Elastic.Packetbeat
-Elastic.Winlogbeat
 ElectronicArts.EADesktop
 Electrum.Electrum
 ElementLabs.LMStudio
@@ -403,13 +396,11 @@ jeffaristi92.Sweeft
 jefuriiij.PingMeter
 jerrywu001.cc-sessions-viewer
 JetBrains.PyCharm
-JetBrains.RubyMine
 jetyu.Snaptium
 JFrog.Cli
 JitzuLang.Jitzu
 JoernBerkefeld.SFMCDataLoader
 JohnMacFarlane.Pandoc
-JordanCoin.codemap
 JRSoftware.InnoSetup.7
 Julialang.Julia
 Julialang.Juliaup
@@ -454,6 +445,7 @@ levon2805.SoundBar
 lexandro.mdedit
 LGinC.EarthBackground
 lhvy.pipes-rs
+LibreSpeed.librespeed-cli
 Lime.Lime
 Ling0727.QualityScalerGo.Cpu
 Ling0727.QualityScalerGo.Cuda
@@ -462,6 +454,7 @@ LinkaiQi.NitTray
 LinklyAI.LinklyAI
 LinkopingUniversity.Hopsan
 LINQPad.LINQPad.9
+LinwoodCloud.Butterfly.Nightly
 llt22.Talkio
 LobeHub.LobeHub
 Logitech.*
@@ -560,6 +553,7 @@ MoonshotAI.Kimi
 MoonshotAI.KimiCodeCLI
 mostlygeek.llama-swap
 Movavi.MovaviVideoConverter
+Movavi.MovaviVideoEditor
 Movavi.MovaviVideoSuite
 Mozilla.Firefox.af
 Mozilla.Firefox.az
@@ -567,8 +561,6 @@ Mozilla.Firefox.be
 Mozilla.Firefox.br
 Mozilla.Firefox.cak
 Mozilla.Firefox.cs
-Mozilla.Firefox.en-CA
-Mozilla.Firefox.es-ES
 Mozilla.Firefox.es-MX
 Mozilla.Firefox.et
 Mozilla.Firefox.fr
@@ -579,7 +571,6 @@ Mozilla.Firefox.hi-IN
 Mozilla.Firefox.ja
 Mozilla.Firefox.kab
 Mozilla.Firefox.kk
-Mozilla.Firefox.lt
 Mozilla.Firefox.lv
 Mozilla.Firefox.my
 Mozilla.Firefox.nb-NO
@@ -681,7 +672,6 @@ nukeop.nuclear
 Nvidia.*
 Objz.Rmcl
 Obsidian.Obsidian
-OCBase.OCCT.Personal
 Ocenaudio.Ocenaudio
 OCSInventoryNG.WindowsAgent
 Octonove.CajaPDF
@@ -715,6 +705,7 @@ Opera.OperaGX
 Optico.WinMemoryOpt
 OrdinLabs.wsm-cli
 OrgMentem.papio
+OrgMentem.zotio
 Orthogonal.APM
 OSGeo.GeoServer
 OutageDeck.CLI
@@ -741,6 +732,7 @@ PixPin.PixPin.Beta
 PlanetLinux98.GUARD
 PlanetScale.CLI
 Plex.PlexHTPC
+PLFJY.ContextMenuMgrPlus
 pnpm.pnpm
 PocketSync.PocketSync
 PokerTH.PokerTH
@@ -829,6 +821,8 @@ rstream.rstream
 rtk-ai.rtk
 Ruben2776.PicView
 Ruihu.Apifox
+rullerzhou-afk.clawd-on-desk
+Rustlang.rust-analyzer
 rustty.Rustty
 rvben.rumdl
 RyanYuuki.AnymeX
@@ -845,6 +839,7 @@ scottlerch.hosts-file-editor
 ScytheLabs.Reaper
 Seafile.Seafile
 Seafuture.NetpasDistance
+SebDanielsson.Varys
 seerge.g-helper
 Sefinek.GenshinStellaMod
 SejinChun.Imagine
@@ -890,6 +885,7 @@ StackShift.StackShift
 StarFinanz.StarMoney*
 StartIsBack.StartAllBack
 SteamDatabase.SteamTokenDumper
+SteelSeries.GG
 steipete.discrawl
 steipete.gogcli
 StellarDataRecovery.StellarMigratorForExchange
@@ -929,6 +925,7 @@ Tencent.WeChat.Universal
 Tencent.WeCom
 Tencent.WeType
 Tencent.WorkBuddy
+Tencent.Yuanbao
 Teradata.Loom
 Termius.Termius
 Termius.Termius.Beta
@@ -937,6 +934,7 @@ tessl.tessl
 TeXstudio.TeXstudio
 TextExpander.TextExpander
 thedavidweng.OpenKara
+TheDocumentFoundation.LibreOffice.SDK
 ThePandemoniumInstitute.BloodontheClocktowerOnline
 THS.THS.Hevo
 Tide.Tide
