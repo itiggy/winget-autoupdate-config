@@ -17,6 +17,7 @@ Adamant.Messenger
 adamtheturtle.doccmd
 AdaptiveML.adpt
 ADELA.Devmate
+AdGuard.AdGuard
 AdGuard.AdGuardVPN.Beta
 Adobe.*
 AdventDevelopmentInc.Kudu
@@ -124,7 +125,6 @@ AtomGit.AtomCode
 AuraMarker.Lattics
 AurelioAvila.PCTweaker
 autobrr.mkbrr
-autobrr.upbrr.cli
 axeprpr.lscpu-win
 AyoubTadlaoui.logx
 Azeus.Convene
@@ -186,6 +186,7 @@ bluenviron.mediamtx
 Blur009.BlurAutoClicker
 BogdanCalapod.pdq-cli
 bootandy.dust
+brandonyoungdev.tldx
 Brave.Brave
 Brave.Brave*
 BrightBlock.Hyprlayer
@@ -262,6 +263,7 @@ Containers.PodmanTUI
 Coooolfan.UniRhy
 CoralCreek.SQLiteExpert.Personal
 CoralCreek.SQLiteExpert.Professional
+CosX.AzurePimTui
 CosX.ServiceBusExplorerTui
 CPUID.CPU-Z
 cpvalente.ontime
@@ -271,6 +273,7 @@ CreativeForce.Kelvin
 CreativeForce.Triad
 CreativeTechnology.*
 CrewHaus.CLI
+Cribl.CriblEdge
 Crossplane.CrossplaneCli
 CrossTech.ClipboardPro
 crosswire.xiphos
@@ -282,6 +285,7 @@ CrystalDewWorld.CrystalDiskInfo.KureiKeiEdition
 CrystalDewWorld.CrystalDiskInfo.ShizukuEdition
 cubezombies.MidnightAthenaeum
 CycloneDX.cdxgen
+CylCastillo.AgentConsole
 czm15053.TrellisCard
 d4vid87.hookecho
 DaikiSuganuma.WinRemap
@@ -436,12 +440,14 @@ FreesmTeam.FreesmLauncher
 FunRoutine.WorkFlowy
 futrime.lipd
 GAM-Team.gam
+GAM-Team.gam.Portable
 GAM-Team.GotYourBack
 Ganksoft.Nanopad
 gantrol.AIYImageTools
 GaoyangZhang.RivonClaw
 GavinGe021.hasher
 GDevelop.GDevelop
+gedejong.AutoRotate
 GenericMappingTools.gmt
 Gentian28.PgpUtility
 GeoGebra.Classic
@@ -537,6 +543,7 @@ Huawei.Cangjie.STS.OHOS
 Humanity.DJV2
 humbinal.ParqForge
 HUSTOpenAtomClub.AtomGitCLI
+hwtnb.SylphyHornPlus
 HybridSolutionsCloud.VaultProspector
 HypixelStudios.Hytale
 ibrahemid.Writ
@@ -615,7 +622,6 @@ Kessriga.Flamberge
 khanhtd36.herdr-khanhtd36
 Kindness-Kismet.Stelliberty
 Kingsoft.Lingxi
-kisChang.ZenSSH
 kmiya-culti.RLogin
 KnifMelti.WAU-Settings-GUI
 kts982.WinTUI
@@ -634,6 +640,7 @@ LedgerHQ.LedgerLive
 LemonPop.LemonPop
 lencx.Noi
 LengxiQwQ.LivePhotoBox
+Lenovo.SLBrowser
 Leochens.DomainBuddy
 leonsnajdr.sast
 Letta.LettaCode
@@ -746,7 +753,6 @@ miniscruff.changie
 Mino.MyToolAppSetup
 Mirantis.Lens
 MistralAI.MistralVibe.ACP
-misxzaiz.Polaris
 MLMGames.Imagot
 MochiBullet.orb
 Modrinth.ModrinthApp
@@ -1107,6 +1113,7 @@ murgatt.recode-converter
 MutagenModding.Spriggit
 MuteMe.MuteMe
 mydehq.autotitle
+MYOB.AccountRight
 Naeem5877.VibeDownloader
 NaeNaeTart.AMLLTTMLTool
 NagleCode.PacketSender
@@ -1193,6 +1200,7 @@ OpenJS.Electron.43
 OpenOrienteering.Mapper
 OpenPencil.OpenPencil
 OpenRCT2.OpenRCT2
+OpenRunDev.OpenRun
 OpenScienceTools.PsychoPy
 OpenScreen.OpenScreen
 OpenTubeX.OpenTubeX
@@ -1230,6 +1238,7 @@ Pathoschild.SMAPI
 PatrickMatthiesen.oh-my-dot
 PaulGiralt.TranslatorX
 pay-skill.pay
+payhereinc.PayhereSeller
 pbek.QOwnNotes
 PBH-BTN.PeerBanHelper
 pcvisit.pcvisitRemoteHost
@@ -1324,6 +1333,7 @@ RigSmith.ShipRig
 RikkiGibson.DreamPotato
 RimSort.RimSort
 Rizin.Rizin
+Rnwood.Smtp4dev
 RobertasTa.SmartDuplicateFinder
 RocketResearchInc.Compair
 RODE.RODECasterApp
@@ -1374,6 +1384,7 @@ scottlerch.hosts-file-editor
 ScytheLabs.Reaper
 SDRplay.SDRconnect
 Seafuture.NetpasDistance
+Seafuture.NetpasTramperBusiness
 SebDanielsson.Varys
 sedwards2009.extraterm
 Seelen.SeelenUI
@@ -1392,6 +1403,7 @@ Shadow.Shadow
 shadps4-emu.shadPS4
 shakaran.whatly
 ShareX.XerahS
+ShatteredChaos.FightPlanner
 ShoneAnstey.Inkstone
 ShortArrow.gitreant
 sibexico.Trusty
@@ -1452,10 +1464,12 @@ sprout2000.LeafView
 SST.opencode
 SST.OpenCodeDesktop
 StablyAI.Orca
+Stacher.Stacher
 Stack-Cairn.LiveAgent
 StackShift.StackShift
 StacksLabs.Clarinet
 stakpak.agent
+StardockSystems.ConnectionExplorer
 StardockSystems.Fences6
 StarFinanz.StarMoney*
 Starpine.Screenbox
@@ -1463,10 +1477,8 @@ SteamDatabase.SteamTokenDumper
 SteelSeries.GG
 stefanprodan.timoni
 steipete.discrawl
-StellarDataRecovery.StellarMigratorForExchange
 Stephanvs.hypr
 SteveTheKiller.Killendar
-SteveTheKiller.KillerPDF
 SteveTheKiller.KillerShell
 Storj.Uplink
 str4d.rage
@@ -1595,6 +1607,7 @@ ViewSonic.DisplayPortal
 vim.vim.nightly
 VisiGrid.VisiGrid
 Vivaldi.Vivaldi
+VkRainB.ccMesh
 VoiceWave.LocalCore
 Voltius.Voltius
 Vortenia.Overwatch
@@ -1665,6 +1678,7 @@ Yandex.Browser
 Yandex.Disk
 Yaps.Yaps
 YasuhisaKakurai.Pulsebar
+Yeelight.yeelight-home
 yeroo.agwinterm
 yetone.Alma
 yetone.NextAITranslator
@@ -1683,6 +1697,7 @@ zcx960.DeepSeekDesktop
 ZedIndustries.Zed
 ZedIndustries.Zed.Preview
 zekariasasaminew.pact
+Zellij.Zellij
 zemoto.WhatAmIHearing
 Zen-Team.Zen-Browser
 Zen-Team.Zen-Browser.Twilight
