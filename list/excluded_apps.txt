@@ -35,6 +35,7 @@ AGSoto.TimelineTimer
 ahpxex.Aictionary
 Aiden1020.LocalSubs
 AIDotNet.OpenCowork
+aimotrens.impulsar
 Ajax.AjaxDesktop
 Ajax.AjaxPRODesktop
 Akka.Cli
@@ -61,6 +62,7 @@ AlphaTheta.rekordbox
 alsofelix.crabdrop
 altfins.af
 aluxnimm.OutlookCalDavSynchronizer
+Amazon.AthenaODBCDriver.2
 Amazon.AWSCLI
 Amazon.Corretto.11.JDK
 Amazon.Corretto.17.JDK
@@ -372,6 +374,7 @@ EclipseAdoptium.Temurin.25.JDK
 EclipseAdoptium.Temurin.25.JRE
 eddacraft.anvil
 edenian-prince.rust-secrets
+EdrawSoft.EdrawMind.CN
 EduMIPS64.EduMIPS64
 eeyzs1.DevWit
 Egress.Egress
@@ -403,6 +406,7 @@ ENIAC-Tech.FlexDesigner
 Ephemeral-AI-Lab.EphemeralSandbox
 Ephraem.InputBar
 EpicGames.LoreDesktop
+erez-c137.NetSpeedTray
 ErichDonahue.SpinnerforDiscogs
 erictli.scratch
 ESEngine.ReasonixCLI
@@ -471,6 +475,7 @@ Formlabs.PreForm
 FortisAppsStudio.Zones
 FOSSA.FOSSA-cli
 Fragstats.Fragstats
+Framefilter.Keyroost
 Framer.Framer
 FreesmTeam.FreesmLauncher
 FULI.PhoXoSee
@@ -485,6 +490,7 @@ GavinGe021.hasher
 GDevelop.GDevelop
 gedejong.AutoRotate
 GeekUninstaller.GeekUninstaller
+GeminiLight.MindOS
 GenericMappingTools.gmt
 Gentian28.PgpUtility
 GeoGebra.Classic
@@ -494,6 +500,8 @@ gg.ai.ggcode-desktop
 ggml.llamacpp
 ghost-him.ZeroLaunch-rs
 Gildas.Bitbucket-CLI
+GiMeSpace.RAMTempFolder
+GiMeSpace.RAMTempFolderPro
 GioPalusa.SRTDownloader
 GiovaniFreitag.lode
 gistrec.filecast
@@ -505,6 +513,7 @@ Gitlab.Runner
 GiulioSorrentino.CBriscola.Avalonia
 Gjlumsden.Copilocal
 GLab.GLab
+GlennDelahoy.SnappyDriverInstallerOrigin
 Gluon.SceneBuilder
 gmhoward9289-ops.roost
 gna1280072.LeePanel
@@ -561,11 +570,14 @@ hellowind777.hellogrok
 hellowind777.hellogrok.CLI
 Herdr.Herdr.Preview
 HeroicGamesLauncher.GOGDL
+HexmosTech.IPM
 hiadamhere.spm
 Hibbiki.Chromium
 Hiddify.Next
+hidecode365.WinLauncher
 HiggX.QFCLI
 hikari-no-yume.touchHLE
+HiroyukiFuruno.katana-desktop
 HishamMedhat.PortPeek
 holland-built.Bloxsmith
 hongfeiyucode.DeepSeekHarnessDesktop
@@ -639,6 +651,7 @@ jetyu.Snaptium
 JFrog.Cli
 JiaPeng.LanTransfer
 jiashuoyan0-maker.ArHub
+JinweiZhiguang.MasterGo
 jmrplens.gitlab-mcp-server
 jnchen.CodeDejavu
 Joedsonalves.Vacuon
@@ -649,7 +662,6 @@ JuanjoFuchs.agent-mail-cli
 JuanjoFuchs.atref
 JuanjoFuchs.voice-tunnel
 Julialang.Juliaup
-junegunn.fzf
 JurgenRathlev.innounp
 JurgenRathlev.InnoUnpacker
 JustGenius-s.DSHDesktop
@@ -674,6 +686,7 @@ kmiya-culti.RLogin
 KnifMelti.WAU-Settings-GUI
 kooyoseb.Hython
 KuaiFan.DooTask
+Kubernetes.aws-iam-authenticator
 Kubernetes.kubectl
 kubewall.kubewall
 Kuddev.Nebula
@@ -702,7 +715,6 @@ LieberLieber.LemonTree
 Lime.Lime
 Lingbao.EasyClaw
 Lingbao.EasyClaw.CN
-LinkaiQi.NitTray
 Linkly.Linkly.Lite
 LinwoodCloud.Butterfly.Nightly
 Liquibase.Liquibase
@@ -712,6 +724,7 @@ llt22.Talkio
 LMCP.LocalMCP
 Lody.Lody
 Logitech.*
+Longbridge.LongbridgeTerminal
 lonr-6.CCDesktopSwitch
 Loom.Loom
 loonghao.vx
@@ -752,7 +765,7 @@ MediaHuman.YouTubeDownloader
 MediaHuman.YouTubeToMP3Converter
 MeetWave.MeetWave
 MemoirStudio.Memoir
-memtime.memtime
+mentebinaria.dz6
 Meta.QuestRemoteDesktop
 Mibuw.miPDFsignCommunity
 Micronaut.Launch
@@ -818,6 +831,7 @@ Moku.Moku
 MongoDB.DatabaseTools
 MonkfishXMLSoftware.XMLBlueprint.22
 MonotypeImaging.Extensis.ConnectFonts
+MoonshotAI.Kimi
 MoonshotAI.KimiCodeCLI
 MorganZWest.HSEmulate
 Movavi.MovaviScreenRecorder
@@ -1172,6 +1186,7 @@ MuteMe.MuteMe
 MYOB.AccountRight
 MYOB.AccountRight.EXE
 NaeNaeTart.AMLLTTMLTool
+Nanome.Nanome
 Nanosystems.Supremo
 nao1215.gup
 napxlexn.AILimits
@@ -1202,8 +1217,10 @@ nginxinc.nginx
 niconico.nair.live
 Niko.HomeControlProgrammingSoftware
 NikolaReljin.ScanContext
+Nimbalyst.Nimbalyst
 NimbusAgent.Nimbus
 ningbainb.DeepSeekHarnessDesktop
+NirSoft.LANIPScanner
 NirSoft.SearchMyFiles
 Nisonxi.PowerDoze
 NitroSoftware.NitroPro.NLS
@@ -1334,6 +1351,7 @@ PLFJY.ContextMenuMgrPlus
 PMDaniels.WPDConverter
 PMDSoftware.HEICConverter
 PocketBase.PocketBase
+Podman.CLI
 PortX.ptx
 Postman.Postman
 PowCal.PowCal
@@ -1354,11 +1372,11 @@ Proton.ProtonDrive
 Proxyman.Proxyman
 PSerban93.Achievements
 Psyche.Kelivo
-Psychotoxical.Psysonic
 Psynect.OmniMend
 Pulumi.Pulumi
 PureDevSoftware.10x
 purocean.YankNote
+Purple.PurplePlus
 PVsyst.PVsyst
 Pwlot.ChunkyMonkey
 QIAGEN.CLCGenomicsWorkbench
@@ -1366,6 +1384,7 @@ QIAGEN.CLCMainWorkbench
 QIAGEN.CLCServerCommandLineTools
 qilang.qi
 qishibo.AnotherRedisDesktopManager
+QNAP.NetBakPCAgent
 QPDF.QPDF
 QuattroProConverter.QuattroProConverter
 Quicksaver.LFSCloud
@@ -1451,11 +1470,13 @@ SAP.SapMachine.26.JDK
 SAP.SapMachine.26.JRE
 SatoshiLabs.trezor-suite
 Saturneric.GpgFrontend
+SauceLabs.forwarder
 sbt.sbt
 ScalixWorld.ScalixCloud
 schollz.croc
 Scighost.Starward
 scimusmn.stele
+ScrambleID.ScrambleID
 SDRplay.SDRconnect
 Seafuture.NetpasDistance
 Seafuture.NetpasTramperBusiness
@@ -1473,6 +1494,7 @@ SerZhyAle.StreamsPlayer
 SevenTV.Chatterino7
 SFLinux.Jami.Beta
 SFXTechInnovation.SimpleFixAI
+Shade.Shade
 Shadow.Shadow
 shadps4-emu.shadPS4
 shakaran.whatly
@@ -1501,7 +1523,6 @@ SmartBear.ReadyAPILoadUIAgent
 smilexizheng.ControlServer
 Snesnopic.Img2tga
 SnosMe.AwakenedPoETrade
-Socoliuc.FollowFrame
 SoftPerfect.WiFiGuard
 Softplicity.CoolutilsConverter
 Softplicity.CoolUtilsMailViewer
@@ -1567,7 +1588,6 @@ surge-downloader.surge
 SwiftList.SwiftList
 swperb.imgcli
 sxyazi.yazi
-Synology.ActiveBackupForBusinessAgent
 Synology.ChatClient
 sysmanage.sysmanage
 sysmanage.sysmanage-agent
@@ -1602,6 +1622,7 @@ Texmaker.Texmaker
 tg123.oci-to-wsl
 the-code-fixer-23.mace
 the-sz.Bedford
+TheBrain.TheBrain
 TheDocumentFoundation.LibreOffice.SDK
 TheHomelessTwig.newc
 TheJonaz.Moraine
@@ -1628,6 +1649,7 @@ Toit.Jaguar
 Toit.Toit
 Tokeny.Tokeny
 tolgamorf.env2op-cli
+tombi-toml.tombi
 Tomclanc.GestureSignV2
 TomEhlertSoftware.DriveSnapShotPortable
 TomEhlertSoftware.Snapshot
@@ -1681,7 +1703,6 @@ VkRainB.ccMesh
 VoiceWave.LocalCore
 voidtools.Everything
 Voltius.Voltius
-VovSoft.BatchURLDownloader
 VovSoft.TextStatisticsAnalyzer
 VovSoft.TextToMP3Converter
 VovSoft.VovMusicPlayer
@@ -1694,6 +1715,7 @@ WalkingWiFi.LocalMCPTunnel
 walterfr.USKMaker
 WardianApp.Wardian
 Warp.Warp
+wasmCloud.wash
 WasmEdge.WasmEdge
 WebCatalogLtd.Switchbar
 WebCodr.jwtd
