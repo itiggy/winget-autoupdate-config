@@ -285,7 +285,6 @@ CosX.ServiceBusExplorerTui
 CPUID.CPU-Z
 CraftDocs.CraftAgents
 CrazyFigure.MyTerminal
-CreativeForce.Kelvin
 CreativeForce.Triad
 CreativeTechnology.*
 CrewHaus.CLI
@@ -329,7 +328,6 @@ demkada.ArgyCode
 DeskRipple.DeskRipple
 detachhead.rebased
 DeutLab.HandyVoice
-Devlint.GitWand
 Devolutions.Cloud
 Devolutions.RemoteDesktopManager
 devonmochi.ByeType
@@ -397,7 +395,6 @@ Ellosoft.AWSCredentialsManager
 ElyPrismLauncher.ElyPrismLauncher.MSVC
 EmanueleMicheletti.Proxelar
 eMClient.eMClient
-EmDiSoftware.Simpltask
 EmoteInteractive.RemoteMouse
 eMule.eMule.community
 endev.aube
@@ -709,7 +706,6 @@ Leochens.DomainBuddy
 leonsnajdr.sast
 Letta.LettaCode
 LibreDB.Studio
-LibreSpeed.librespeed-cli
 LibreWolf.LibreWolf
 LieberLieber.LemonTree
 Lime.Lime
@@ -836,7 +832,6 @@ MoonshotAI.KimiCodeCLI
 MorganZWest.HSEmulate
 Movavi.MovaviScreenRecorder
 Movavi.MovaviVideoConverter
-Movavi.MovaviVideoEditor
 Movavi.MovaviVideoSuite
 Mozilla.Firefox
 Mozilla.Firefox.ach
@@ -1347,7 +1342,6 @@ PixPin.PixPin.Beta
 PlanetScale.CLI
 Plex.Plex
 Plex.PlexMediaServer
-PLFJY.ContextMenuMgrPlus
 PMDaniels.WPDConverter
 PMDSoftware.HEICConverter
 PocketBase.PocketBase
@@ -1442,7 +1436,6 @@ RPTools.TokenTool
 Ruben2776.PicView
 RubyMetric.chsrc
 Ruffle.Ruffle
-Ruihu.Apifox
 rullerzhou-afk.clawd-on-desk
 Rustlang.rust-analyzer
 Rustlang.Rust.GNU
@@ -1480,7 +1473,6 @@ ScrambleID.ScrambleID
 SDRplay.SDRconnect
 Seafuture.NetpasDistance
 Seafuture.NetpasTramperBusiness
-SebDanielsson.Varys
 sedwards2009.extraterm
 Seelen.SeelenUI
 seerge.g-helper.PreRelease
@@ -1568,9 +1560,7 @@ StardockSystems.ConnectionExplorer
 StardockSystems.Fences6
 StarFinanz.StarMoney*
 Starpine.Screenbox
-SteelSeries.GG
 stefanprodan.timoni
-steipete.discrawl
 Stephanvs.hypr
 SteveTheKiller.Killendar
 SteveTheKiller.KillerShell
@@ -1612,10 +1602,8 @@ TechSmith.Audiate
 Tencent.CodeBuddy
 Tencent.TencentVideo
 Tencent.WeChat.Universal
-Tencent.WeCom
 Tencent.WeixinDevTools
 Tencent.WorkBuddy
-Tencent.Yuanbao
 termio.soft-jp.com.TermioWin
 tessl.tessl
 Texmaker.Texmaker
@@ -1623,7 +1611,6 @@ tg123.oci-to-wsl
 the-code-fixer-23.mace
 the-sz.Bedford
 TheBrain.TheBrain
-TheDocumentFoundation.LibreOffice.SDK
 TheHomelessTwig.newc
 TheJonaz.Moraine
 ThePokemonCompany.PokemonTCGLive
@@ -1667,6 +1654,7 @@ Tsabo.ClipMate
 tsouth89.Ceiling
 tsouth89.CubbyClipboard
 tumic0.GPXSee
+TX230.winproc-tui
 Tylergibbs1.Substrate
 Tyrrrz.LightBulb
 ubidzz.Synix
@@ -1686,6 +1674,7 @@ User123.KeyboardMouseInteraction
 uu201.CharacterArc
 UweSieber.UsbTreeView
 V2Free.ClashVergeForV2free
+v2rayA.v2rayA
 vantoan1511.TableView
 Vencord.Vesktop
 venipa.ytmdesktop
@@ -1783,7 +1772,6 @@ YuanDevLLC.OneXray
 YuMingHsu.PDFUnlocker
 YuminZhan.WinLinker
 yutat23.lsoff
-yyqh01.GitTools
 yyqh01.reaper_yyqh
 ZauJulio.ZeroWhats
 zcx960.DeepSeekDesktop
