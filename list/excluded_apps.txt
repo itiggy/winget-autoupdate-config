@@ -38,16 +38,15 @@ Alibaba.CosyVoice
 Alibaba.DingTalkWorkspaceCLI
 Alibaba.OpenCodeReview
 Alibaba.Qoder
+Alibaba.QoderWork
 Alibaba.QwenWork.CN
 Alibaba.Yuque
 Alochi.Monitoring
 aloneguid.bt
 aloneguid.markwright
 AloxBook.AloxBook
-alsofelix.crabdrop
 Amazon.AthenaODBCDriver.2
 Amazon.AWSCLI
-Amazon.Corretto.26.JDK
 Amazon.Quick
 AMD.LemonadeServer
 amine123max.Monolith
@@ -101,18 +100,14 @@ Atlassian.AtlassianCLI
 AtomGit.AtomCode
 AuraMarker.Lattics
 AurelioAvila.PCTweaker
-autobrr.mkbrr
 AvivSinai.Bitbucket-CLI
 axcore.tartube
 axllent.mailpit
 ayangweb.BongoCat
-Azul.Zulu.11.JDK
-Azul.Zulu.8.JDK
 Baidu.Comate
 Bambulab.Bambustudio
 Bandisoft.Bandizip
 BartelsMedia.PhraseExpress
-BeagleEditor.BeagleEditor
 Beeper.Beeper
 BelledonneCommunications.Linphone
 BellSoft.LibericaJDK
@@ -197,6 +192,7 @@ CheckMAL.AppCheck
 chen08209.FlClash
 ChilliBits.Spice
 Chocolatey.Chocolatey
+chrisant996.Clink
 ChrisLauinger77.QontrolPanel
 ChrisLauinger77.ToeRings
 ChrisMcLennan.mnml
@@ -221,6 +217,7 @@ coldhighsun.sloc
 CommunicationPlatform.MAX
 CondaForge.Miniforge3
 Containers.PodmanTUI
+coolcoala.KoalaClash
 Coooolfan.UniRhy
 CosX.AzurePimTui
 Crate-CI.Typos
@@ -286,7 +283,6 @@ dreamlonglll.Mini-Term
 Dropbox.Dropbox
 DuongDieuPhap.ImageGlass
 DWANGO.NAIR.experimental
-EaseUS.PartitionMaster
 EasyMorph.EasyMorph
 EasyMorph.EasyMorphHub
 ebkr.r2modman
@@ -319,7 +315,6 @@ eMClient.eMClient
 eMule.eMule.community
 ENIAC-Tech.FlexDesigner
 Ephemeral-AI-Lab.EphemeralSandbox
-Ephraem.InputBar
 EPSON.PrinterConnectionChecker
 EPSON.PrinterDriverSecuritySupportTool
 EPSON.Scan
@@ -359,7 +354,6 @@ Ferdium.Ferdium
 Ferdium.Ferdium.Nightly
 FernandoTonon.QtMeshEditor
 Fidpa.Hablara
-Figma.Figma
 Filamental.Filamental
 Filedini.Filedini
 Filegram.FilegramDesktop
@@ -369,7 +363,6 @@ Fioooooooo.FylloCode
 FirenzeLor.gemini-collector
 Firezone.Client.Headless
 Fishstrap.Fishstrap
-Fission.Fission.CLI
 FlawlessWidescreen.FlawlessWidescreen
 Flint.Fip-C
 FlorianBruniaux.ccboard
@@ -407,7 +400,6 @@ Gildas.Bitbucket-CLI
 GiMeSpace.RAMTempFolder
 GiMeSpace.RAMTempFolderPro
 GioPalusa.SRTDownloader
-GiovaniFreitag.lode
 Git.MinGit
 Gitea.Runner
 GitHub.cli
@@ -435,6 +427,7 @@ Google.ContainerTools.Skaffold
 Google.EarthPro
 goptics.vizb
 goreleaser.goreleaser
+goreleaser.mcp
 gorodulin.prj
 GPSoftware.DirectoryOpus
 GrafanaLabs.Flint
@@ -443,7 +436,6 @@ Gramps.Gramps
 Granola.Granola
 Graphixa.FontGet
 Gravitational.Teleport
-Gravitational.TeleportConnect
 h3poteto.fedistar
 haberwooki.LiveCaptions
 hadc188.Reader
@@ -508,11 +500,11 @@ Internxt.Drive
 IObit.IObitSoftwareUpdater
 iOfficeAI.OfficeCLI
 iPlato.iPlatoToolbar
-IsHexx.ToDoReminder
 iTop.iTopScreenRecorder
 iTop.iTopVoicy
 iuikj.DSHDesktop
 IvanIsCoding.celq
+IvyScience.ivySCI
 Jackett.Jackett
 JackTrip.JackTrip
 jaimecartodb.MSXCP
@@ -561,7 +553,6 @@ Kajitsy.Emilia
 kangfenmao.CherryStudio
 Karoterra.Aulua
 katahiromz.RisohEditor
-kaushiksrini.parqeye
 kawayiYokami.P-ai
 kbrdn1.gwm
 KDE.Tellico
@@ -596,7 +587,6 @@ LengxiQwQ.LivePhotoBox
 Lenovo.SLBrowser
 Leochens.DomainBuddy
 leonsnajdr.sast
-Letta.LettaCode
 LGUG2Z.komorebi.Nightly
 LibreDB.Studio
 LibreWolf.LibreWolf
@@ -665,6 +655,7 @@ Microsoft.Edge.Dev
 Microsoft.Edge*
 Microsoft.EdgeDriver
 Microsoft.EdgeWebView2Runtime
+Microsoft.FoundryDevPack
 Microsoft.LightGBM
 Microsoft.Office
 Microsoft.OneDrive
@@ -685,10 +676,9 @@ Microsoft.Teams*
 Microsoft.UpdateAssistant
 Microsoft.VisualStudio.2022.BuildTools
 Microsoft.VisualStudioCode
-Microsoft.WinAppCli
 Microsoft.WindowsInstallationAssistant
-Microsoft.WSL
 Microsoft.WSL.PreRelease
+Microstockr.Desktopapp
 MikeFarah.yq
 Millisecond.InquisitLab
 MiniMax.MiniMaxDesign
@@ -806,9 +796,7 @@ Mozilla.Firefox*
 Mozilla.Thunderbird.MSIX
 mq1.TinyWiiBackupManager
 MrKaran.Doggo
-MrMYHuang.cbetar2
 MscrmTools.XrmToolBox
-muandane.goji
 Mukunku.ParquetViewer
 Multica.MulticaCLI
 Multica.MulticaDesktop
@@ -821,7 +809,6 @@ Nadeo.ManiaPlanet
 Nadeo.TrackManiaNationsForever
 NaeNaeTart.AMLLTTMLTool
 Nanome.Nanome
-Nanosystems.Supremo
 napxlexn.AILimits
 nashsu.LLMWiki
 NASS.AvUpload
@@ -844,7 +831,6 @@ NFON.Cloudya
 NFON.Cloudya.CRM
 nginxinc.nginx
 niconico.nair.live
-NikolaReljin.ScanContext
 NimaShafie.OxideSLOC
 Nimbalyst.Nimbalyst
 NimbusAgent.Nimbus
@@ -921,6 +907,7 @@ ORASProject.ORAS
 orbatschow.kontext
 OrgMentem.zotio
 Orzazade.Gitch
+Oscillicious.RocketBroadcaster.Free
 Oven-sh.Bun
 Oven-sh.Bun.Baseline
 Oven-sh.Bun.Profile
@@ -935,7 +922,6 @@ Pathoschild.SMAPI
 PaulGiralt.TranslatorX
 payhereinc.PayhereSeller
 pbek.QOwnNotes
-PBH-BTN.PeerBanHelper
 pcvisit.pcvisitRemoteHost
 pcvisit.pcvisitSupport
 pdfcpu.pdfcpu
@@ -956,7 +942,6 @@ ppy.osu
 prasenjeet-symon.ogcode
 prefix-dev.pixi
 PresenceJam.PresenceJam
-PreVeil.PreVeil
 Primesieve.Primesieve
 Principle.FlowPrompter
 PrintNode.PrintNode
@@ -1021,7 +1006,6 @@ RongleCat.GrokApp
 Rorkai.ASC
 roshad.RosChronoTrace
 RoyalApps.RoyalTS.7
-RPTools.TokenTool
 rstream.rstream
 RubyMetric.chsrc
 rullerzhou-afk.clawd-on-desk
@@ -1062,7 +1046,7 @@ Seafuture.NetpasTramperBusiness
 sedwards2009.extraterm
 Seelen.SeelenUI
 seerge.g-helper.PreRelease
-Seewo.AirTeach
+Seewo.EasiNote
 Sejda.PDFDesktop
 ServersCom.srvctl
 Servo.Servo.Nightly
@@ -1115,7 +1099,6 @@ Stack-Cairn.LiveAgent
 StacksLabs.Clarinet
 stakpak.agent
 StardockSystems.ConnectionExplorer
-StardockSystems.Fences6
 StarFinanz.StarMoney*
 stefanprodan.timoni
 SteveTheKiller.KillerPDF
@@ -1147,8 +1130,10 @@ TaskSlinger.TaskSlinger
 TeamViewer.TeamViewer*
 Telegram.TelegramDesktop
 Tencent.CodeBuddy
+Tencent.TencentMeeting
 Tencent.WeChat.Universal
 Tencent.WorkBuddy
+Tencent.Yuanbao
 termio.soft-jp.com.TermioWin
 tessl.tessl
 tg123.oci-to-wsl
@@ -1181,6 +1166,7 @@ TomEhlertSoftware.DriveSnapShotPortable
 TomEhlertSoftware.Snapshot
 Tonec.InternetDownloadManager
 TooYi.IShell
+TossPlace.TossPOS
 tosuapp.tosu
 TradeSkillMaster.Application
 TrellisLab.Trellis
@@ -1190,7 +1176,6 @@ tritant.MiniMediaEdit
 Tsabo.ClipMate
 Tseli485.MENA-Tuteur
 tsouth89.Ceiling
-tsouth89.CubbyClipboard
 tumic0.GPXSee
 TX230.winproc-tui
 Tyrrrz.LightBulb
@@ -1253,10 +1238,8 @@ willibrandon.dotsider
 willibrandon.dotsider-mcp
 WingSoft.FTPRush
 Wingware.Wing.101
-Winix.Man
 Winix.Peep
 Winix.Schedule
-Winix.Squeeze
 Winix.TreeX
 Winix.When
 wire.wire
@@ -1303,7 +1286,6 @@ ZedIndustries.Zed
 ZedIndustries.Zed.Preview
 zekariasasaminew.pact
 Zellij.Zellij
-zemoto.WhatAmIHearing
 Zen-Team.Zen-Browser
 Zen-Team.Zen-Browser.Twilight
 zengjiangy.ZZZBrowser
