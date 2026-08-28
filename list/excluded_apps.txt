@@ -68,6 +68,7 @@ AppFlowy.AppFlowy
 Apps2Samsung.Apps2Samsung
 AppWork.JDownloader*
 AprelTech.PowerManager
+AprilNEA.OpenLogi
 AptiStock.AptiStockX
 Aptivi.BassBoom
 Aptivi.Nitrocid.0.1.0.x
@@ -92,7 +93,6 @@ Argotronic.ArgusMonitor
 ArnobPaul.SymlinkCreator
 Arylmera.TokenDashboard
 Aserto.Topaz
-ast-grep.ast-grep
 astral-sh.ruff
 astral-sh.ty
 astral-sh.uv
@@ -147,6 +147,7 @@ BellSoft.LibericaJRE.21.Full
 BellSoft.LibericaJRE.8
 BellSoft.LibericaJRE.8.Full
 BenBoyter.scc
+BenHolmes.Hubble.md
 BestNotes.BestNotes
 BESTRUI.Octopus
 bestseller.harpocrates
@@ -339,12 +340,14 @@ Echonuit.VigieChiroCompanion
 EclipseAdoptium.Temurin.11.JRE
 EclipseAdoptium.Temurin.17.JDK
 EclipseAdoptium.Temurin.17.JRE
+EclipseAdoptium.Temurin.26.JDK
 EclipseAdoptium.Temurin.8.JDK
 EclipseAdoptium.Temurin.8.JRE
 edde746.Plezy
 EdrawSoft.EdrawMind
 EEO.ClassIn
 EEO.ClassInX
+Eigent.Eigent
 ej-technologies.JProfiler
 ej-technologies.JProfiler.16
 EKKOLearnAI.HermesStudio
@@ -358,7 +361,6 @@ Elsevier.MendeleyReferenceManager
 Emurasoft.EmEditor
 endev.aube
 eParaksts.eParakstitajs
-erez-c137.NetSpeedTray
 ESEngine.ReasonixCLI
 ESEngine.ReasonixDesktop
 ESET.*
@@ -399,6 +401,7 @@ FinalWire.AIDA64*
 Fioooooooo.FylloCode
 fjrevoredo.MiniDiarium
 FlawlessWidescreen.FlawlessWidescreen
+Flint.Fip-C
 FlorianHeidenreich.Mp3tag
 Floweb.Floweb
 Flowscripter.example-cli
@@ -421,6 +424,7 @@ GeoGebra.CASCalculator
 GeoGebra.Classic
 GeoGebra.Geometry
 GeoGebra.GraphingCalculator
+GeorgeEnglezos.ScrcpyGUI
 getzola.zola
 gg.ai.ggcode-cli
 gg.ai.ggcode-desktop
@@ -531,7 +535,6 @@ IvyScience.ivySCI
 Jabra.Direct
 Jackett.Jackett
 jalapGroup.CloudServerPC
-JamesJoseph.ErgoView
 JanDeDobbeleer.OhMyPosh
 jannskiee.floe
 janosmiko.lfk
@@ -584,7 +587,6 @@ KLayout.KLayout
 KnifMelti.WAU-Settings-GUI
 koedame.chordsketch
 Kraken.KrakenDesktop
-krzys-h.UndertaleModTool
 kts982.WinTUI
 Kubernetes.aws-iam-authenticator
 Kubernetes.kind
@@ -671,8 +673,6 @@ MayDay.SnowApp
 mayocream.koharu
 MediaHuman.AudioConverter
 MediaHuman.Collagerator
-MediaHuman.YouTubeDownloader
-MediaHuman.YouTubeToMP3Converter
 Meituan.CatPaw
 MemoirStudio.Memoir
 Meta.QuestRemoteDesktop
@@ -723,7 +723,6 @@ misxzaiz.Polaris
 Modrinth.ModrinthApp
 MoganLab.Mogan
 Moises.Moises
-Moku.Moku
 Money.Net
 Monghoul.Monghoul
 MongoDB.Compass.Full
@@ -961,6 +960,7 @@ MullvadVPN.MullvadVPN
 Multica.MulticaCLI
 Multica.MulticaDesktop
 Mumble.Mumble.Client
+Mun1to.winshotx
 muutot.Clipboard
 myagmb28Dev.WindexBar
 Mylloon.dsr
@@ -1041,12 +1041,14 @@ OpenWhisperSystems.Signal
 OpenWhisperSystems.Signal.Beta
 OpenWhispr.OpenWhispr
 openwong2kim.wmux
+Opera.Opera
 Opera.Opera.Dev
 Opera.Opera*
 Opera.OperaAir
 Opera.OperaGX
 Optimidoc.OptimidocCloudClient
 ORASProject.ORAS
+OrbForge.Orb
 OrdinLabs.wsm-cli
 OrgMentem.zotio
 Oscillicious.RocketBroadcaster.Free
@@ -1170,6 +1172,7 @@ ScytheLabs.Reaper
 SecretsOPerationS.SOPS
 Seewo.EasiNote
 Seiraiyu.Keon
+Sejda.PDFDesktop
 SejinChun.Imagine
 Serverdata.Ascend
 Serverdata.AscendTeamsDesktopPlugin
@@ -1233,7 +1236,6 @@ SosomLab.NexaDir.Portable
 SoupBuild.Soup
 Sourcegraph.Amp
 Speakeasy.speakeasy
-SpecLabs.Devspec
 SpecScore.CLI
 Splashtop.SplashtopBusiness
 Splashtop.SplashtopStreamer
@@ -1294,6 +1296,7 @@ TechSmith.Camtasia
 Telegram.TelegramDesktop
 Telekom.CloudPBX
 Tenable.Nessus
+Tencent.CodeBuddy
 Tencent.COSCLI
 Tencent.ima-copilot
 Tencent.QQ.NT
@@ -1437,6 +1440,7 @@ Yaps.Yaps
 yetone.Alma
 yetone.OpenAITranslator
 yoogie27.largecopy
+YouXiao.YXCalendar
 Yuanfudao.Yuanfudao
 yutat23.lsoff
 yyqh01.GitTools
