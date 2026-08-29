@@ -15,6 +15,7 @@ ActiveDirectoryPro.365ProToolkit
 ActiveDirectoryPro.ADProToolkit
 ADInstruments.kuraCloudDesktop
 Adobe.*
+Adobe.Acrobat.Reader.64-bit
 AdventDevelopmentInc.Kudu
 aelassas.Servy
 Aerosoft.One
@@ -47,6 +48,7 @@ ALTEC.QlickPrint
 amacneil.dbmate
 Amazon.AWSCLI
 Amazon.Kiro
+Amazon.Quick
 Amazon.WorkspacesClient
 AMD.LemonadeServer
 Amebis.Besana
@@ -158,7 +160,6 @@ bggRGjQaUbCoE.PiliPlus
 bhavanamohan628.StudentGradeCalculator
 BicomSystems.Communicator
 BicomSystems.gloCOM
-biglexj.ElyTesia
 Bilibili.Livehime
 Bin-Huang.Chatbox
 binaricat.Netcatty
@@ -217,10 +218,10 @@ Catsxp.Catsxp
 CCGnomes.VaultFlasher
 Celerp.Celerp
 CertifyTheWeb.CertifySSLManager
+CeruleanStudios.Trillian.EXE
 CESNET.UltraGrid
 charmbracelet.crush
 Chill-Astro.Lamina
-ChilliBits.Spice
 chrisant996.Clink
 ChrisLauinger77.QontrolPanel
 ChrisMcLennan.mnml
@@ -243,10 +244,10 @@ CognitionAI.DevinCLI
 CognitionAI.DevinDesktop
 coldhighsun.AIUsageMonitor.Cli
 colibrisec.ojo
+CologneCodeCompany.XYplorer
 CologneCodeCompany.XYplorerPortable
 Comfy.ComfyUI-Desktop
 CommunicationPlatform.MAX
-coolcoala.KoalaClash
 Coremail.CMClient
 CosimoMatteini.DRA
 CosX.AzurePimTui
@@ -407,6 +408,7 @@ Floweb.Floweb
 Flowscripter.example-cli
 Flowscripter.example-host-application
 Fluxzero.FluxzeroCLI
+Flydigi.FlydigiSpaceStation
 flyingpie.windows-terminal-quake.prerelease
 Flywheel.Local
 Forkgram.Forkgram
@@ -417,7 +419,9 @@ FreeTube.FreeTube
 FSPProductions.FileHasher
 FunRoutine.WorkFlowy
 GAM-Team.gam
+GameshowPro.BgRaster
 GaoyangZhang.RivonClaw
+GDevelop.GDevelop
 GeminiLight.MindOS
 GeoGebra.CalculatorSuite
 GeoGebra.CASCalculator
@@ -499,6 +503,7 @@ HiroyukiFuruno.katana-desktop
 Hitalin.NoteDeck
 holland-built.Bloxsmith
 HoraceMaxwell.Horosa
+HP.HPClick
 hrzlgnm.mdns-browser
 hrzlgnm.mdns-tui-browser
 hrzlgnm.zux
@@ -507,6 +512,7 @@ HubDev.HubDev
 HunterBown.CodeWhale
 HunterPie.HunterPie
 HyperWorX.DopusWorX
+HypixelStudios.Hytale
 iFlytek.iFlyRecSI
 IkiruPeople.VoyagerInfinitySaaSClient
 ImputNet.Helium
@@ -556,7 +562,7 @@ JinweiZhiguang.MasterGo
 JiriPolasek.MediaControlsforCommandPalette
 JitzuLang.Jitzu
 jmrplens.gitlab-mcp-server
-Joedsonalves.Vacuon
+JohnMacFarlane.Pandoc
 JuanjoFuchs.voice-tunnel
 JumpingBytes.ClipboardMaster
 JunkunDi.CrossDesk
@@ -601,7 +607,6 @@ LANCommander.Launcher
 LANCommander.Server
 lanxiuyun.Catrace
 laurentiu021.SysManager
-LaurentPRenedeCotret.pandoc-plot
 lbjlaq.AntigravityTools
 Lean.Elan
 Lean.Lean
@@ -803,12 +808,14 @@ Mozilla.Firefox.ESR.ro
 Mozilla.Firefox.ESR.sc
 Mozilla.Firefox.ESR.sco
 Mozilla.Firefox.ESR.sk
+Mozilla.Firefox.ESR.sl
 Mozilla.Firefox.ESR.son
 Mozilla.Firefox.ESR.sq
 Mozilla.Firefox.ESR.sr
 Mozilla.Firefox.ESR.sv-SE
 Mozilla.Firefox.ESR.szl
 Mozilla.Firefox.ESR.te
+Mozilla.Firefox.ESR.tr
 Mozilla.Firefox.ESR.trs
 Mozilla.Firefox.ESR.ur
 Mozilla.Firefox.ESR.uz
@@ -871,6 +878,7 @@ Mozilla.Firefox.sq
 Mozilla.Firefox.sr
 Mozilla.Firefox.sv-SE
 Mozilla.Firefox.szl
+Mozilla.Firefox.ta
 Mozilla.Firefox.te
 Mozilla.Firefox.tg
 Mozilla.Firefox.th
@@ -878,6 +886,7 @@ Mozilla.Firefox.tl
 Mozilla.Firefox.trs
 Mozilla.Firefox.uk
 Mozilla.Firefox.ur
+Mozilla.Firefox.uz
 Mozilla.Firefox.vi
 Mozilla.Firefox.xh
 Mozilla.Firefox.zh-CN
@@ -1084,7 +1093,6 @@ Posit.RStudio
 Postman.Postman
 Postman.Postman.arm64
 Powerformer.OpenDesign
-PowerPlatformToolBox.PowerPlatformToolBox
 PoyChang.TranslatorforCommandPalette
 ppy.osu
 prasenjeet-symon.ogcode
@@ -1117,7 +1125,7 @@ Radius.Radius
 Rainmeter.Rainmeter
 Rakudo.Rakudo.Star
 Rakuten.Viber
-raphamorim.rio
+randlee.agent-team-mail
 RDPilot.RDPilot
 ReactOS.RosBE
 ReadAI.ReadAI
@@ -1212,7 +1220,6 @@ Snowflake.CortexCode
 Snowflake.SnowflakeCLI
 Snyk.Snyk
 SoftPerfect.NetWorx
-SoftPerfect.SwitchPortMapper
 Softplicity.CoolUtilsMailViewer
 Softplicity.CoolUtilsOutlookViewer
 Softplicity.TotalAudioConverter
@@ -1285,6 +1292,7 @@ taizod1024.redis-windows-fork
 talhelper.talhelper
 TandemHealth.Tandem
 TarasovArtyom.BatteryMode
+TaskSlinger.TaskSlinger
 Tatsh.BPMDetect
 Tautulli.Tautulli
 tbillington.kondo
@@ -1333,13 +1341,13 @@ ToEverything.AFFiNE
 tombi-toml.tombi
 Tomclanc.GestureSignV2
 TominLab.WonderPen
+tonhowtf.OmniGet
 TossPlace.TossPOS
 tosuapp.tosu
 TragicCode.BuslyCLI
 tree-sitter.tree-sitter-cli
 Treexy.DriverFusion
 Trimble.TrimbleConnect
-tsouth89.Ceiling
 tsouth89.CubbyClipboard
 TubeDigger.TubeDigger
 tumic0.GPXSee
@@ -1364,6 +1372,7 @@ utkuozdemir.nvidia_gpu_exporter
 uu201.CharacterArc
 v2rayA.v2rayA
 VapourSynth.VapourSynth
+VectorRilke.CmdPal-Capacities
 Veeam.VeeamAgent
 VeeCAD.VeeCAD
 VeyonSolutions.Veyon
@@ -1379,6 +1388,7 @@ VisualBoyAdvance-M.VisualBoyAdvance-M
 VisualParadigm.VisualParadigm
 VisualParadigm.VisualParadigm.Community
 VisualParadigm.VisualParadigmViewer
+viswajith275.envseal
 Vitzo.ClipClip
 Vivaldi.Vivaldi
 Vivaldi.Vivaldi.Snapshot
@@ -1446,6 +1456,7 @@ yutat23.lsoff
 yyqh01.GitTools
 yyqh01.reaper_yyqh
 ZacharyL2.KeyEcho
+zarunbal.LogExpert
 zcx960.DeepSeekDesktop
 ZedIndustries.Zed
 ZedIndustries.Zed.Preview
