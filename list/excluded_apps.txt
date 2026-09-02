@@ -15,7 +15,6 @@ Adobe.*
 Adobe.Acrobat.Reader.64-bit
 advaith.CurrencyConverterCommandPalette
 AdventDevelopmentInc.Kudu
-aelassas.Servy
 Aerosoft.One
 agavra.tuicr
 agentty.agentty
@@ -100,7 +99,6 @@ Axonara.Searchmonkey
 axpnet.AeroFTP
 B3log.SiYuan
 BaldurKarlsson.RenderDoc
-BelledonneCommunications.Linphone
 BellSoft.LibericaJRE.25
 BellSoft.LibericaJRE.25.Full
 BenBurwood.AnyBucket
@@ -665,7 +663,6 @@ Mozilla.Firefox.gn
 Mozilla.Firefox.hu
 Mozilla.Firefox.hy-AM
 Mozilla.Firefox.ia
-Mozilla.Firefox.id
 Mozilla.Firefox.is
 Mozilla.Firefox.kk
 Mozilla.Firefox.km
@@ -687,7 +684,6 @@ Mozilla.Firefox.si
 Mozilla.Firefox.son
 Mozilla.Firefox.sq
 Mozilla.Firefox.sv-SE
-Mozilla.Firefox.szl
 Mozilla.Firefox.ta
 Mozilla.Firefox.te
 Mozilla.Firefox.tg
@@ -747,7 +743,6 @@ Odonno.jj-commit
 oipoistar.Tinta
 Oksion.XiControl
 Ollama.Ollama
-Omnissa.WorkspaceONEIntelligentHub
 OneAppPlatform.Jolta
 oPaozinh0.YTMDesktopAdblock
 open-policy-agent.opa
@@ -789,7 +784,6 @@ payhereinc.PayhereSeller
 pbek.QOwnNotes
 PBH-BTN.PeerBanHelper
 PCSX2Team.PCSX2
-PDFgear.PDFgear
 Pencil.Desktop
 Pencil9.Harmony
 PHP.PHP
@@ -815,7 +809,6 @@ ppy.osu
 PranilShah.CreditCalculatorSetup
 prasenjeet-symon.ogcode
 prefix-dev.pixi
-presono.presono
 Principle.FlowPrompter
 ProjectVid.VidDl
 Proma.Proma
@@ -823,7 +816,6 @@ Proton.ProtonDrive
 Proxyman.Proxyman
 Psyche.Kelivo
 Psychotoxical.Psysonic
-Pulumi.Pulumi
 Pwlot.ChunkyMonkey
 pzielinski.pureplayer
 pzielinski.purequery
@@ -968,7 +960,6 @@ Stipple.VoiceNote
 stn1slv.md-paste
 Storj.Uplink
 StruisICT.ClutterCutter
-StruisICT.InLook
 StudioCodeAI.LyaStudioCoder
 sudo0015.Lexis
 SumbitLabs.Aptakube
