@@ -3,7 +3,6 @@
 3TSoftwareLabs.Studio3T
 4gray.iptvnator
 64Gram.64Gram
-abrignoni.ALEAPP
 abrignoni.ALEAPP-cli
 AcaciaAve.HUD
 ACDSystems.ACDSeeGemstone
@@ -21,7 +20,6 @@ Aerosoft.One
 agavra.tuicr
 agentty.agentty
 AIDotNet.OpenCowork
-aimotrens.impulsar
 Airtame.Airtame
 AirVPN.Eddie
 Ajax.AjaxDesktop
@@ -73,7 +71,6 @@ Argente.SoftwareUpdater
 Argente.StartupManager
 Argente.SystemRepair
 Argente.UninstallManager
-argoproj.argocd
 Argotronic.ArgusMonitor
 arika0093.console2svg
 ArKT-7.QuickRotate
@@ -102,7 +99,6 @@ AVRDudes.AVRDUDE.MinGW.Clang
 Axonara.Searchmonkey
 axpnet.AeroFTP
 B3log.SiYuan
-Baidu.BaiduNetdisk
 BaldurKarlsson.RenderDoc
 BelledonneCommunications.Linphone
 BellSoft.LibericaJRE.25
@@ -149,7 +145,6 @@ ByteDance.TraeWork.CN
 ByteNess.AWSVault
 Cachix.SecretSpec
 cadwal.BookDB
-calibre.calibre
 CallMarcus.DJIMetadataEmbedder
 CallMarcus.DJIMetadataEmbedder.Desktop
 Camunda.Modeler
@@ -188,7 +183,6 @@ CodecGuide.K-LiteCodecPack.Full
 CodecGuide.K-LiteCodecPack.Mega
 CodecGuide.K-LiteCodecPack.Standard
 Coder.Coder
-CoderKinley.Musik
 CodingWondersSoftware.DISMTools.Stable
 CognitionAI.DevinCLI
 colibrisec.ojo
@@ -207,7 +201,6 @@ CrazyFigure.MyTerminal
 Creality.CrealityPrint
 Creality.CrealityScan.4
 CreativeTechnology.*
-CrewHaus.CLI
 crosswire.xiphos
 Crowdin.CrowdinCLI
 CryptoTech.CryptoCardSuite
@@ -216,7 +209,6 @@ CyberPowerSystems.PowerPanel.Business.Management
 d4vid87.hookecho
 dagaza.Qube
 Dais.Dais
-darktable.darktable
 Databricks.DatabricksCLI
 datamitsu.datamitsu
 davegallant.vpngate
@@ -261,12 +253,10 @@ eeyzs1.DevWit
 Eigent.Eigent
 eitsupi.arf
 EKKOLearnAI.HermesStudio
-electerm.electerm
 ElectronicArts.EADesktop
 Element.Element
 ElementLabs.Bionic
 ElementLabs.LMStudio
-Elgato.ControlCenter
 EligianLabs.PIICrawlerCLI
 EmDiSoftware.SimplNote
 endev.aube
@@ -531,11 +521,9 @@ Kingsoft.Lingxi
 Kingsoft.WPSOffice.CN
 KlowdfurrRad.TrayAuth
 KnifMelti.WAU-Settings-GUI
-koedame.chordsketch
 kts982.WinTUI
 kubewall.kubewall
 Kuddev.Nebula
-KuestenLogik.Bowire
 Lablicate.OpenChrom
 LabyMediaGmbH.LabyModLauncher
 lanxiuyun.Catrace
@@ -590,7 +578,6 @@ martsg666.qbPortWeaver
 matchmycolor.Colibri
 matchmycolor.ColibriAlpha
 MathiasSvensson.MultiCommander
-maurizuki.O2
 max-sixty.worktrunk
 MaxValueSoftware.PokerTracker4
 MayDay.SnowApp
@@ -649,11 +636,9 @@ Mozilla.Firefox.af
 Mozilla.Firefox.ast
 Mozilla.Firefox.be
 Mozilla.Firefox.bn
-Mozilla.Firefox.br
 Mozilla.Firefox.bs
 Mozilla.Firefox.cak
 Mozilla.Firefox.cs
-Mozilla.Firefox.de
 Mozilla.Firefox.dsb
 Mozilla.Firefox.en-CA
 Mozilla.Firefox.eo
@@ -666,7 +651,6 @@ Mozilla.Firefox.ESR.da
 Mozilla.Firefox.ESR.hi-IN
 Mozilla.Firefox.ESR.ia
 Mozilla.Firefox.ESR.nn-NO
-Mozilla.Firefox.ESR.pa-IN
 Mozilla.Firefox.ESR.pt-BR
 Mozilla.Firefox.ESR.sl
 Mozilla.Firefox.ESR.tg
@@ -683,12 +667,10 @@ Mozilla.Firefox.hy-AM
 Mozilla.Firefox.ia
 Mozilla.Firefox.id
 Mozilla.Firefox.is
-Mozilla.Firefox.kab
 Mozilla.Firefox.kk
 Mozilla.Firefox.km
 Mozilla.Firefox.kn
 Mozilla.Firefox.ko
-Mozilla.Firefox.lij
 Mozilla.Firefox.lv
 Mozilla.Firefox.mr
 Mozilla.Firefox.MSIX
@@ -697,7 +679,6 @@ Mozilla.Firefox.ne-NP
 Mozilla.Firefox.nl
 Mozilla.Firefox.oc
 Mozilla.Firefox.pl
-Mozilla.Firefox.pt-BR
 Mozilla.Firefox.pt-PT
 Mozilla.Firefox.ro
 Mozilla.Firefox.ru
@@ -756,7 +737,6 @@ NortheBridge.LuminalShine
 Notion.Notion
 Notion.ntn
 ntwind.AltTabTer
-num-scope.pix
 NuvioMedia.NuvioDesktop
 Nvidia.*
 Nvidia.PhysX
@@ -782,7 +762,6 @@ OpenListTeam.OpenList
 OpenListTeam.OpenList.Lite
 OpenRCT2.OpenRCT2
 OpenRunDev.OpenRun
-OpenScienceTools.PsychoPy
 OpenShot.OpenShot
 OpenTubeX.OpenTubeX
 OpenWhispr.OpenWhispr
@@ -874,7 +853,6 @@ Refactoring.Tolaria
 Regressi.Regressi
 Relic.Relic
 Remio.RemioHost
-RicardoCabral.icuvisor
 riok.Kreya
 RiotGames.LegendsOfRuneterra.Americas
 RiotGames.LegendsOfRuneterra.Europe
@@ -908,7 +886,6 @@ Samsung.SmartSwitch
 Sandboxie.Classic
 SauceLabs.forwarder
 SBCL.SBCL
-sbt.sbt
 schollz.croc
 Scighost.Starward
 ScryerMedia.Scryer
@@ -1049,7 +1026,6 @@ Trsdn.MDViewerPlus
 tumic0.GPXSee
 twpayne.chezmoi
 TX230.winproc-tui
-Tyrrrz.DiscordChatExporter.GUI
 Ubiquiti.UniFiOSServer
 Ubisoft.Connect
 UniClipboard.UniClipboard
@@ -1059,7 +1035,6 @@ UnslothAI.Unsloth
 UrBackup.UrBackup.Server
 usual2970.Certimate
 vadimgrn.usbip-win2
-VapourSynth.VapourSynth
 VectorRilke.CmdPal-Capacities
 Veracode.CLI
 VictorMagne.ClaudTray
