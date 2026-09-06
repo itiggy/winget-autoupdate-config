@@ -159,7 +159,6 @@ CDESoftware.BTM-2026
 Celerp.Celerp
 CerberAuth.jwtop
 ChannelCorporation.ChannelTalkforDesktop
-ChasseurdeBots.Warsow
 ChinmayKrishnRoy.cxt
 ChrisLauinger77.QontrolPanel
 ChrisMcLennan.mnml
@@ -170,10 +169,8 @@ ciromattia.KCC
 Cisco.Webex
 Cjwdev.ManagedServiceAccountsGUI
 Clockify.Clockify
-CMU.CLAN
 Codeby.RIGStats
 CodecGuide.K-LiteCodecPack.Basic
-CodecGuide.K-LiteCodecPack.Mega
 Coder.Coder
 Coderise.gpx-analyzer
 CodeZeno.ClaudeCodeUsageMonitor
@@ -262,13 +259,10 @@ DonislawDev.BeanNetworkTester
 DonutWare.Fladder.Nightly
 dprint.dprint
 dragonflylee.switchfin
-dremin.RetroBar
 dRofus.dRofus
-Dropbox.dbxcli
 Dropbox.Dropbox
 DrumlinSecurity.JavelinPDFReader.3
 DrumlinSecurity.JavelinPDFReader.3.Pro
-DuckStudio.PinAction
 DuongDieuPhap.ImageGlass
 Duplicati.Duplicati
 Duplicati.Duplicati.Canary
@@ -336,7 +330,6 @@ FellowInsights.Fellow
 FengZeng.Soia
 Ferdium.Ferdium.Nightly
 FernandoTonon.QtMeshEditor
-fiahfy.Hosty
 Filamental.Filamental
 Filedini.Filedini
 FinalWire.AIDA64*
@@ -351,7 +344,6 @@ Fluxzero.FluxzeroCLI
 Fly-io.flyctl
 FocusriteAudioEngineeringLtd.FocusriteControl2
 ForthwithLLC.ForthwithCLI
-FOSSA.FOSSA-cli
 FounderType.FounderType
 Foxit.FoxitReader
 Foxit.PhantomPDF.Subscription
@@ -460,7 +452,6 @@ IridiumIO.CompactGUI
 ItchIo.Itch
 ITU.BRSpaceApplications
 IVPN.IVPN
-IvyScience.ivySCI
 Jackett.Jackett
 JagK.ClipboardTransformer
 JanDeDobbeleer.OhMyPosh
@@ -593,6 +584,7 @@ lbjlaq.AntigravityTools
 Learneo.LanguageTool
 LeaveSafe.LeaveSafe
 Lebo.Lebo
+Ledgerful.Ledgerful
 LegacyFileConverter.LegacyFileConverter
 Lenovo.SLBrowser
 LetsConnect.Client
@@ -621,6 +613,7 @@ loreste.mako
 lovasoa.dezoomify-rs
 Loxone.LoxoneConfig
 LoxSmoke.OpenLogiNet
+LRCLIB.LRCGET
 LSEG.RefinitivWorkspace
 Lucen.LucenTimeline
 LudoTechnologies.Hiroba
@@ -660,6 +653,7 @@ MicroClaw.MicroClaw
 Micronaut.Launch
 Microsoft.365Copilot
 Microsoft.AdvertisingEditor
+Microsoft.APM
 Microsoft.Azd
 Microsoft.Azure.Az
 Microsoft.Azure.TemplateAnalyzer
@@ -691,6 +685,7 @@ Microsoft.WindowsAdminCenter
 Microsoft.WindowsVirtualDesktopAgent
 Microsoft.WindowsVirtualDesktopBootloader
 Microsoft.WSL
+Microsoft.WSL.PreRelease
 mikf.gallery-dl
 mikf.gallery-dl.Nightly
 Mikrotik.Netinstall
@@ -978,7 +973,6 @@ Naeem5877.VibeDownloader
 Nanosystems.Supremo
 NathanWijaya.FileID
 Natthasath.hostctl
-Nefarius.nefcon
 nekohy.MeowCLI
 Neovim.Neovim.Nightly
 Netbird.Netbird
@@ -988,7 +982,6 @@ Netpack.XFB
 NetSentinel.NetSentinel
 Newforma.Konekt.Addin.Autodesk
 NewRelic.InfrastructureAgent
-NextITComputers.StasherX
 NexusMods.Vortex
 nginxinc.nginx
 Nidzoki.win-alias
@@ -1097,7 +1090,6 @@ Plex.Plexamp
 pluveto.Upgit
 PocketBase.PocketBase
 Podman.CLI
-PokerTH.PokerTH
 Popokey.HL7Soup
 Popokey.HL7SoupIntegrationHost
 Posit.Positron
@@ -1139,6 +1131,7 @@ ReadAI.ReadAI
 Readdle.Spark
 ReceitaFederaldoBrasil.EscrituraçãoDigitalECF
 Recol.DLSSUpdater
+RedactSoftware.Redact
 RedEyeNetworks.HopMatrix
 RedEyeNetworks.Logivore
 RedEyeNetworks.LogivoreForVeeam
@@ -1171,8 +1164,8 @@ RiotGames.Valorant.EU
 RiotGames.Valorant.KR
 RiotGames.Valorant.LATAM
 RiotGames.Valorant.NA
-rizukirr.apic-gui
 Roblox.RobloxStudio
+RockstarGames.Launcher
 Roman-16.ProtonCLI
 Romanitho.Winget-AutoUpdate
 RomTenma.Siki
@@ -1180,7 +1173,6 @@ RongleCat.GrokApp
 roshad.RosChronoTrace
 RoxyBrowser.RoxyBrowser
 rstream.rstream
-rtk-ai.rtk
 Ruihu.Apifox
 rullerzhou-afk.clawd-on-desk
 RussMckendrick.TokenUse
@@ -1206,7 +1198,6 @@ Seafuture.NetpasEstimatorTramper
 Seafuture.NetpasMessage
 Seafuture.NetpasTramperBusiness
 Seafuture.NetpasVesselMonitorAIS
-SecureCloudGroup.SmartBrain
 Seelen.SeelenUI
 seerge.g-helper
 seerge.g-helper.PreRelease
@@ -1220,13 +1211,13 @@ ShianMike.SHARPpy-Reimagined
 shihuili1218.RSSH
 SiakHooi.JexlExecutor
 SiakHooi.Picsum
+SiberSystems.GoodSync
 Sidero.omnictl
 Sidero.talosctl
 Siemens.JT2Go
 Silvatower.TowerMaster
 SimonTatham.Puzzles
 SimpleX.SimpleX-Chat
-SimplyCA.Typeless
 skyhook-io.Radar
 SkyLLC.UFFS
 SlovakGovernment.eIDKlient
@@ -1239,7 +1230,6 @@ Soft64.fr.CanScan
 SoftPerfect.NetworkScanner
 SoftPerfect.NetWorx
 SoftPerfect.SwitchPortMapper
-SoftPerfect.WiFiGuard
 Softplicity.TotalImageConverter
 Softplicity.TotalOutlookConverter
 Softplicity.TotalPDFConverter
@@ -1327,6 +1317,7 @@ Trsdn.MDViewerPlus
 tschoonj.GTKForWindows
 tsutsu3.Pi-hole-client
 TUitTUWien.TUtoolbox
+Tulip.TulipPlayer
 Tutanota.Tutanota
 Twingate.Client
 TwintailTeam.TTL
@@ -1368,7 +1359,6 @@ WalkMe.WalkMeEditor
 Wangnov.CodexAppManager
 WardianApp.Wardian
 Wasmer.Wasmer
-Waterfox.Waterfox
 Webyog.SQLyogCommunity
 Weita.AitNative
 wez.wezterm.nightly
@@ -1378,6 +1368,7 @@ WinDirStat.WinDirStat.Beta
 Windscribe.Windscribe
 WinsiderSS.SystemInformer.Canary
 WiresharkFoundation.Stratoshark
+WixPie.WixPie
 WizardsoftheCoast.MTGALauncher
 Wondershare.MobileTrans
 Wondershare.Recoverit
@@ -1417,6 +1408,7 @@ YouXiao.YXFile
 ZaferKilic.MDPlus
 ZedIndustries.Zed
 ZedIndustries.Zed.Preview
+Zen-Team.Zen-Browser
 Zen-Team.Zen-Browser.Twilight
 zenolab124.Monet
 ZH-heng.TextLens
@@ -1427,6 +1419,5 @@ zn0wii.Satelite
 zoharbabin.web-researcher-mcp
 Zoho.Ulaa
 Zoid.Meru
-Zoom.Zoom.EXE
 Zoom.Zoom.VDI
 ZRainbow1275.BentoDesk
