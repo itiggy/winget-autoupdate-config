@@ -1,3 +1,4 @@
+0state.scafld
 0xsline.OpenChatCut
 64Gram.64Gram
 7zip.7zr
@@ -15,6 +16,7 @@ agentty.agentty
 AGWA.git-crypt
 alesimula.wsa_pacman
 aletheics.Zeno
+Alibaba.AlibabaCloudCLI
 Alibaba.OpenCodeReview
 Alibaba.Qoder
 Alibaba.QoderWork
@@ -85,6 +87,7 @@ Automation.fmu-api
 Avarwand.ANE
 AvivSinai.Bitbucket-CLI
 axllent.mailpit
+B3log.SiYuan
 Babashka.Babashka
 Baidu.Comate
 BasDriessen.Aurora
@@ -135,8 +138,10 @@ ByteDance.Dola
 ByteDance.Doubao
 ByteDance.Doudian
 ByteDance.Douyin
+ByteDance.Feishu.MSI
 ByteDance.JianyingPro
 ByteDance.Lark
+ByteDance.Lark.MSI
 ByteDance.Trae.CN
 ByteDance.TraeWork
 ByteDance.TraeWork.CN
@@ -192,6 +197,7 @@ CyberPowerSystems.PowerPanel
 CycloneDX.cdxgen
 CylCastillo.AgentConsole
 dagaza.Qube
+Dais.Dais
 dandandujie.Farside
 dandandujie.Grox
 Danfoss.Coolselector.2
@@ -456,7 +462,6 @@ JordanCoin.codemap
 JReleaser.jreleaser
 Julialang.Juliaup
 JumpCloud.PasswordManager
-JumpingBytes.ClipboardMaster
 JunctionNetworks.OnSIP
 JustArchiNET.ArchiSteamFarm
 justhil.piDesktop
@@ -526,6 +531,7 @@ KDE.NeoChat
 KDE.Parley
 KDE.Picmi
 KDE.Umbrello
+Keboola.KeboolaCLI2
 KeeperSecurity.KeeperForcefield
 kevin.Astral
 khanhtd36.herdr-khanhtd36
@@ -546,6 +552,7 @@ lbjlaq.AntigravityTools
 LeaveSafe.LeaveSafe
 Ledgerful.Ledgerful
 LegacyFileConverter.LegacyFileConverter
+LeiGod.LeiGodAcc
 Lenovo.SLBrowser
 Letta.LettaCode
 levon2805.SoundBar
@@ -634,6 +641,7 @@ Microsoft.PowerAutomateProcessMining
 Microsoft.PowerBI
 Microsoft.RemoteDesktopClient
 Microsoft.SafetyScanner
+Microsoft.SQLServer
 Microsoft.SQLServerManagementStudio
 Microsoft.SurfaceApp
 Microsoft.Sysinternals
@@ -899,6 +907,8 @@ Mozilla.Thunderbird.zh-CN
 Mozilla.Thunderbird.zh-TW
 MrKaran.Doggo
 MSEndpointMgr.1PhoneMirror
+mulhamna.jirac
+mulhamna.jirac-mcp
 MullvadVPN.MullvadBrowser
 Multica.MulticaCLI
 Multica.MulticaDesktop
@@ -945,6 +955,7 @@ num-scope.pix
 NuvioMedia.NuvioDesktop
 Nvidia.*
 Nvidia.FrameView
+Objective.Trapeze
 OCBase.OCCT.Personal.Mono
 Ocenaudio.Ocenaudio
 OctopusDeploy.Cli
@@ -1138,6 +1149,7 @@ SmartSoft.SmartFTP
 snapetech.slskr
 SnowdreamTech.unigo
 SnowdreamTech.unirtm
+SnowdreamTech.unistack
 Soft64.fr.CanScan
 Softplicity.TotalImageConverter
 SosomLab.NexaDir
@@ -1162,6 +1174,7 @@ SteveTheKiller.Killendar
 SteveTheKiller.KillerPDF
 SteveTheKiller.KillerScan
 SteveTheKiller.KillerShell
+Stockfish.Stockfish
 Stripe.StripeCli
 Stript.Stript
 SulakeOy.HabboLauncher
@@ -1173,6 +1186,7 @@ SylvainRougeaux.Echosync
 SylvainRougeaux.Metatogger
 Syngnat.GoNavi
 sysmanage.sysmanage
+T3Tools.T3Code
 t8y2.DBX
 TablePlus.TablePlus
 Talkdesk.Talkdesk
@@ -1183,7 +1197,9 @@ Taozuhong.KangarooMultiple
 Taozuhong.KangarooMySQL
 Taozuhong.KangarooOracle
 Taozuhong.KangarooPostgreSQL
+Taozuhong.KangarooRedis
 Taozuhong.KangarooSQLite
+Taozuhong.KangarooSQLServer
 Tarlogic.AcrylicWiFiDownloader
 TaskSlinger.TaskSlinger
 TeamViewer.TeamViewer.Host
@@ -1197,6 +1213,7 @@ Tencent.TencentMeeting
 Tencent.TencentVideo
 Tencent.WeChat.Universal
 Tencent.WorkBuddy
+Tencent.Yuanbao
 tessl.tessl
 TheBlind.T-Shell
 TheBrain.TheBrain
@@ -1285,6 +1302,7 @@ Xerxes-2.ClewdR
 xiaocang.EasydictforWindows
 Xiaomi.MiMoCode
 Xiaomi.MiMoCode.Baseline
+XiaoweiCloud.CalendarTask
 Xieweikang123.ReFast
 XinTaoFei.Codeg
 xishang0128.Sparkle
@@ -1293,6 +1311,7 @@ XnSoft.XnView.Classic
 xpf0000.FlyEnv
 xpipe-io.xpipe
 xpipe-io.xpipe.portable
+XxHuberrr.Mineradio
 Yaak.app
 Yandex.Music
 Yao666.Lunoir
