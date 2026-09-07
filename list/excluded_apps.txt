@@ -75,6 +75,7 @@ Aserto.Topaz
 AsterPrivacy.AsterMail
 astral-sh.uv
 AstrBot.AstrBotLauncher
+Astronet.Scholaread
 ASYS.Vantage
 athrvk.Vayu
 Atlassian.AtlassianCLI
@@ -172,6 +173,7 @@ Coderise.gpx-analyzer
 CodeZeno.ClaudeCodeUsageMonitor
 CoenFin.AuditfileConverterAndAnalyser
 CognitionAI.DevinCLI
+coldhighsun.AIUsageMonitor.Cli
 CologneCodeCompany.XYplorer
 CologneCodeCompany.XYplorerPortable
 ColonyLabs.ScribeDesktopCapture
@@ -244,6 +246,7 @@ Dmezhnov.KnitCalc
 Docker.Buildx
 Docker.DockerCLI
 Docker.DockerCompose
+Docker.DockerDesktop
 DoiT.dci
 DolphinComputerAccess.EasyReader
 DoltHub.Dolt
@@ -283,6 +286,7 @@ ElectronicArts.EADesktop
 EligianLabs.PIICrawlerCLI
 ElyPrismLauncher.ElyPrismLauncher.MSVC
 Emurasoft.EmEditor
+EnCroissant.EnCroissant
 EpicGames.LoreDesktop
 Equicord.Equibop
 erez-c137.NetSpeedTray
@@ -291,6 +295,7 @@ ESEngine.ReasonixDesktop
 ESET.*
 Espanso.Espanso
 eTeks.SweetHome3D
+EuropeanCommission.EUROMOD
 EuSoft.Dehelper
 EuSoft.Eshelper
 EuSoft.Eudic
@@ -419,6 +424,7 @@ io.github.frathe.picfetch
 IOBend.IOBend
 iOfficeAI.AionUi
 iOfficeAI.OfficeCLI
+IPEVO.Vurbo-ai
 IridiumIO.CompactGUI
 ItchIo.Itch
 ITU.BRSpaceApplications
@@ -443,6 +449,7 @@ JetBrains.PyCharm.EAP
 JetBrains.QodanaCLI
 JetBrains.RubyMine
 JetBrains.RubyMine.EAP
+JetBrains.RustRover
 JetBrains.RustRover.EAP
 JetBrains.TeamCity
 JetBrains.WebStorm
@@ -551,6 +558,7 @@ laurentiu021.SysManager
 lbjlaq.AntigravityTools
 LeaveSafe.LeaveSafe
 Ledgerful.Ledgerful
+LedgerHQ.LedgerLive
 LegacyFileConverter.LegacyFileConverter
 LeiGod.LeiGodAcc
 Lenovo.SLBrowser
@@ -1015,6 +1023,7 @@ PerfectWorld.PerfectWorldArena
 Perimeter81.HarmonySASE
 PicoTechnology.Picoscope
 pinokiocomputer.pinokio
+PioneerDevelopers.Pioneer
 Piriform.CCleaner
 Piriform.Recuva
 Pithflow.Pithflow
@@ -1047,6 +1056,7 @@ PureDevSoftware.10x
 Pwlot.ChunkyMonkey
 qilang.qi
 qingchencloud.ClawPanel
+Qingfeng.HeyboxChat
 Qingfeng.HeyboxWow
 QuantumNous.NewAPI
 Quorthon13.OLEDSleeper
@@ -1103,6 +1113,7 @@ Rorkai.ASC
 roshad.RosChronoTrace
 RoxyBrowser.RoxyBrowser
 rstream.rstream
+Ruihu.Apifox
 rullerzhou-afk.clawd-on-desk
 RussMckendrick.TokenUse
 Rustlang.Rust.GNU
@@ -1179,6 +1190,8 @@ Stripe.StripeCli
 Stript.Stript
 SulakeOy.HabboLauncher
 SumbitLabs.Aptakube
+Sumologic.OtelcolSumo
+Sumologic.OtelcolSumo.Fips
 Superhuman.Superhuman
 SuperRadCompany.Microsandbox
 SuperUltra.superwhisper
@@ -1202,6 +1215,7 @@ Taozuhong.KangarooSQLite
 Taozuhong.KangarooSQLServer
 Tarlogic.AcrylicWiFiDownloader
 TaskSlinger.TaskSlinger
+TeamSophia.SophiaScript
 TeamViewer.TeamViewer.Host
 TeamViewer.TeamViewer*
 TechHit.MessageSave
@@ -1209,7 +1223,9 @@ TeleCode.TeleCode
 Telegram.TelegramDesktop
 Tencent.CodeBuddy
 Tencent.COSBrowser
+Tencent.ima-copilot
 Tencent.TencentMeeting
+Tencent.TencentMeetingRooms
 Tencent.TencentVideo
 Tencent.WeChat.Universal
 Tencent.WorkBuddy
@@ -1286,6 +1302,7 @@ webosbrew.webOSDevManager
 Webyog.SQLyogCommunity
 Weita.AitNative
 wez.wezterm.nightly
+WilsonGlasser.Oryxis
 WinDirStat.WinDirStat.Beta
 Windscribe.Windscribe
 WinsiderSS.SystemInformer.Canary
@@ -1313,6 +1330,7 @@ xpipe-io.xpipe
 xpipe-io.xpipe.portable
 XxHuberrr.Mineradio
 Yaak.app
+Yandex.Browser
 Yandex.Music
 Yao666.Lunoir
 Yaps.Yaps
@@ -1321,6 +1339,7 @@ yetone.Alma
 ynjmxn.Gengchou
 YouXiao.YXCalendar
 YouXiao.YXFile
+Yuanfudao.Yuanfudao
 ZaferKilic.MDPlus
 ZedIndustries.Zed
 ZedIndustries.Zed.Preview
