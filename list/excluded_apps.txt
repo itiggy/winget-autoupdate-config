@@ -5,6 +5,7 @@
 2BrightSparks.SyncBackSE
 3Dflow.3DFZephyr.Free
 3TSoftwareLabs.Studio3T
+4G0NYY.BAKA
 64Gram.64Gram
 7zip.7zip
 8x8.Work
@@ -36,7 +37,9 @@ AES256Afro.VideoKidnapper
 AetherSDR.AetherSDR
 agavra.tuicr
 AgileBits.1Password
+aglab2.SM64StarDisplay
 Ahoy.Ahoy
+AhoyLabs.BackyardAI
 ahpxex.Aictionary
 AIDotNet.OpenCowork
 aimotrens.impulsar
@@ -65,6 +68,7 @@ Amazon.AWSCLI
 Amazon.Quick
 AmintaCCCP.GithubStarsManager
 amir1376.ABDownloadManager
+AmN.yasb
 AnalyseDeCircuit.OxideTerm
 Anderix.luxc
 AnInsomniacy.Aria2Next
@@ -124,6 +128,7 @@ AuthorMore.PenpotDesktop
 autobrr.mkbrr
 Automattic.harper-ls
 AwesomeDog.MaxLaunchpad
+axes4.axesPDF
 Axialis.IconVectors
 AXIS.AXISOptimizer
 AzaharEmu.Azahar.MSYS2
@@ -136,8 +141,8 @@ Bauerapps.RightNote
 bdash-app.bdash
 Beeper.Beeper
 BenBoyter.scc
-BenBurwood.DataFramer
 BenjaminLSR.HandheldCompanion
+BereneFoundation.BereneApp
 BESTRUI.Octopus
 BetterCrewLink.BetterCrewLink
 bezzad.Downloader
@@ -170,6 +175,7 @@ Breizhzion.JustMakeQ
 BrowserOS.BrowserOS
 BrunoVolpato.ivygrep
 BtbN.FFmpeg.GPL.8.1
+BtbN.FFmpeg.GPL.9.0
 BtbN.FFmpeg.GPL.Shared.9.0
 BtbN.FFmpeg.LGPL
 BtbN.FFmpeg.LGPL.8.1
@@ -221,6 +227,7 @@ charmbracelet.pop
 charmbracelet.vhs
 ChawyeHsu.Moonup
 chen08209.FlClash
+ChiaNetwork.GUIforChiaBlockchain
 Chill-Astro.Lamina
 Chomusuke.Vidra
 ChrisLauinger77.QontrolPanel
@@ -298,7 +305,6 @@ DBeaver.DBeaver.Ultimate
 DBMobile.Resonance
 dbtLabs.dbt-core
 Debba.Tabularis
-Deep-Symmetry.beat-link-trigger
 Deezer.Deezer
 DefangLabs.Defang
 DefinedNet.DNClient.Desktop
@@ -389,7 +395,6 @@ EuropeanCommission.EUROMOD
 EuSoft.Frhelper
 Evernote.Evernote
 EvolveOS.Optimizer
-Excelano.blick
 Excelano.xfind
 Excelano.xftp
 Excelano.xled
@@ -434,6 +439,8 @@ Fly-io.flyctl
 Forkgram.Forkgram
 FOSSA.FOSSA-cli
 Foxit.PhantomPDF
+Fragstats.Fragstats
+Framefilter.Keyroost
 FrancisBanyikwa.MediaDownloader
 FreeCAD.FreeCAD.Weekly
 FreedomTerminal.Koegaki
@@ -458,6 +465,7 @@ gg.ai.ggcode-desktop
 ggml.llamacpp
 gifnksm.foton
 GimHome.KanbanViz
+GIMP.GIMP.3
 Gitea.Runner
 Gitea.tea
 GitHub.CopilotApp
@@ -488,6 +496,7 @@ goptics.vizb
 GoreCode.GoreGraph
 goreleaser.goreleaser
 goreleaser.goreleaser-pro
+GrainIntelligence.Grain
 Grammarly.Grammarly
 Granola.Granola
 Graphixa.FontGet
@@ -512,6 +521,7 @@ hellowind777.hellogrok
 hellowind777.hellogrok.CLI
 HellterEnjoy.Lilo
 Helm.Helm
+HelmutBuhler.8GadgetPack
 henrygd.beszel
 Herdr.Herdr.Preview
 Heroku.HerokuCLI
@@ -550,7 +560,6 @@ infisical.infisical
 inspoaibox.Mshell
 int128.kubelogin
 IntegrIT.Hackolade
-Intermedia.Unite
 Inukollu.ScreenMirror
 InvokeAI,Inc.InvokeCommunityEdition
 io.github.frathe.picfetch
@@ -582,6 +591,7 @@ jerrywu001.cc-sessions-viewer
 JesseDuffield.lazygit
 JetBrains.IntelliJIDEA.EAP
 JetBrains.PyCharm
+JetBrains.RubyMine.EAP
 JetBrains.RustRover
 JetBrains.RustRover.EAP
 JetBrains.TeamCityCLI
@@ -591,6 +601,7 @@ Jianjing.XLJSCI
 jj-vcs.jj
 jmrplens.gitlab-mcp-server
 JohannesMillan.superProductivity
+Joplin.Joplin
 JordanCoin.docmap
 Julialang.Julia
 Julialang.Juliaup
@@ -620,7 +631,6 @@ KDE.Umbrello
 Keboola.KeboolaCLI2
 KeeperSecurity.KeeperDB
 KeeperSecurity.KeeperDesktop
-KeeperSecurity.KeeperForcefield
 KevinDoremy.SearchDeadCode
 khanhtd36.herdr-khanhtd36
 Kingsoft.Lingxi
@@ -667,11 +677,9 @@ Logitech.*
 Logitech.LogiTune
 Longbridge.LongbridgeTerminal
 LookupFoundation.RevitLookup.2021
-LookupFoundation.RevitLookup.2022
 LookupFoundation.RevitLookup.2023
 LookupFoundation.RevitLookup.2024
 LookupFoundation.RevitLookup.2025
-LookupFoundation.RevitLookup.2026
 LookupFoundation.RevitLookup.2027
 Loom.Loom
 looplj.AxonHub
@@ -694,7 +702,6 @@ M-Igashi.baken
 M-Igashi.mp3rgain
 M-Igashi.mp3rgui
 MaaAssistantArknights.MaaAssistantArknights
-macekkrystof.ClaudeCodeUsageMonitor
 Makeblock.xToolStudio
 Malwarebytes.Malwarebytes
 MangoDisk.CLI
@@ -823,6 +830,7 @@ Mozilla.Firefox.af
 Mozilla.Firefox.an
 Mozilla.Firefox.ar
 Mozilla.Firefox.az
+Mozilla.Firefox.bg
 Mozilla.Firefox.bn
 Mozilla.Firefox.br
 Mozilla.Firefox.ca
@@ -839,8 +847,10 @@ Mozilla.Firefox.ESR.ach
 Mozilla.Firefox.ESR.af
 Mozilla.Firefox.ESR.an
 Mozilla.Firefox.ESR.ar
+Mozilla.Firefox.ESR.be
 Mozilla.Firefox.ESR.bg
 Mozilla.Firefox.ESR.br
+Mozilla.Firefox.ESR.bs
 Mozilla.Firefox.ESR.ca
 Mozilla.Firefox.ESR.ca-valencia
 Mozilla.Firefox.ESR.cs
@@ -849,9 +859,13 @@ Mozilla.Firefox.ESR.da
 Mozilla.Firefox.ESR.dsb
 Mozilla.Firefox.ESR.el
 Mozilla.Firefox.ESR.en-CA
+Mozilla.Firefox.ESR.en-GB
 Mozilla.Firefox.ESR.eo
+Mozilla.Firefox.ESR.es-AR
+Mozilla.Firefox.ESR.es-CL
 Mozilla.Firefox.ESR.es-ES
 Mozilla.Firefox.ESR.es-MX
+Mozilla.Firefox.ESR.et
 Mozilla.Firefox.ESR.eu
 Mozilla.Firefox.ESR.fa
 Mozilla.Firefox.ESR.fi
@@ -859,18 +873,22 @@ Mozilla.Firefox.ESR.fr
 Mozilla.Firefox.ESR.fur
 Mozilla.Firefox.ESR.ga-IE
 Mozilla.Firefox.ESR.gl
+Mozilla.Firefox.ESR.gn
 Mozilla.Firefox.ESR.hr
+Mozilla.Firefox.ESR.hsb
 Mozilla.Firefox.ESR.hy-AM
 Mozilla.Firefox.ESR.ia
 Mozilla.Firefox.ESR.id
 Mozilla.Firefox.ESR.it
 Mozilla.Firefox.ESR.ja
+Mozilla.Firefox.ESR.kab
 Mozilla.Firefox.ESR.km
 Mozilla.Firefox.ESR.ko
 Mozilla.Firefox.ESR.lt
 Mozilla.Firefox.ESR.lv
 Mozilla.Firefox.ESR.mk
 Mozilla.Firefox.ESR.ms
+Mozilla.Firefox.ESR.my
 Mozilla.Firefox.ESR.nb-NO
 Mozilla.Firefox.ESR.nl
 Mozilla.Firefox.ESR.nn-NO
@@ -905,12 +923,14 @@ Mozilla.Firefox.ff
 Mozilla.Firefox.fi
 Mozilla.Firefox.fy-NL
 Mozilla.Firefox.gl
+Mozilla.Firefox.he
 Mozilla.Firefox.hi-IN
 Mozilla.Firefox.hr
 Mozilla.Firefox.hsb
 Mozilla.Firefox.hu
 Mozilla.Firefox.hy-AM
 Mozilla.Firefox.ia
+Mozilla.Firefox.id
 Mozilla.Firefox.is
 Mozilla.Firefox.ka
 Mozilla.Firefox.kab
@@ -918,6 +938,8 @@ Mozilla.Firefox.kk
 Mozilla.Firefox.ko
 Mozilla.Firefox.lt
 Mozilla.Firefox.lv
+Mozilla.Firefox.mk
+Mozilla.Firefox.ms
 Mozilla.Firefox.Nightly.MSIX
 Mozilla.Firefox.nn-NO
 Mozilla.Firefox.pa-IN
@@ -939,6 +961,7 @@ Mozilla.Firefox.trs
 Mozilla.Firefox.uz
 Mozilla.Firefox.vi
 Mozilla.Firefox.zh-CN
+Mozilla.Firefox.zh-TW
 Mozilla.Firefox*
 Mozilla.Thunderbird
 Mozilla.Thunderbird.af
@@ -1174,7 +1197,6 @@ Proton.ProtonDrive
 Proton.ProtonMail
 Proton.ProtonPass
 Proton.ProtonVPN
-Proxyman.Proxyman
 Psynect.OmniMend
 PTRTECH.NetSonar
 ptweezy.cronstable
@@ -1203,6 +1225,7 @@ RedactSoftware.Redact
 RedEyeNetworks.HopMatrix
 RedEyeNetworks.Logivore
 RedEyeNetworks.LogivoreForVeeam
+Regressi.Regressi64
 Relic.Relic
 RemcoStoeten.Skriuw
 Render.CLI
@@ -1220,6 +1243,7 @@ RitvikDayal.FeatherWall
 RobertasTa.TempCleaner
 RobertoB.SussurroIA
 Roblox.RobloxStudio
+RockstarGames.Launcher
 RoderickQiu.wnr
 Roethlar.Songr
 Roku.RemoteTool
@@ -1227,7 +1251,6 @@ Roman-16.ProtonCLI
 Romanitho.Winget-AutoUpdate
 RongleCat.GrokApp
 RonsPlace.DataEdit.Lite
-RonyShapiro.PasswordSafe
 roob-p.ElevatedLauncher
 Rorkai.ASC
 RSGames.RSGames.Client
@@ -1292,6 +1315,7 @@ Skywork.SkyworkDesktop
 SlackTechnologies.Slack
 Slidict.Wip
 Smallstep.step-desktop
+SmokeTurner.Vouch
 SMPlayer.SMPlayer
 snapetech.slskr
 Snesnopic.Chisel
@@ -1423,6 +1447,7 @@ TRUSTSING.iDefender
 TRUSTSING.iDefender.EN
 Turin.tmuxw
 Tutanota.Tutanota
+Tympanix.Electorrent
 Tyrrrz.DiscordChatExporter.CLI
 Ubisoft.Connect
 udit-001.Pharos
@@ -1475,6 +1500,7 @@ Wakatime.CLIWakatime
 Wakunguma.Mukwa
 WalkingWiFi.CodexRateLimitTray
 walles.moor
+Wampserver.Wampserver
 Warp.Warp
 wasmCloud.wash
 Wasmer.Wasmer
@@ -1482,6 +1508,7 @@ watchexec.watchexec
 Waterfox.Waterfox
 Webadderall.Recordly
 WebCodr.jwtd
+Weita.AitNative
 WendyLabs.Wendy
 weselow.beads-web
 WestWind.MarkdownMonster
