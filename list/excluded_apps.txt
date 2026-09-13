@@ -53,7 +53,6 @@ Alibaba.QoderWork
 Alibaba.Quark
 Alibaba.QwenWork.CN
 Alibaba.Yuque
-AliMuhammad.Multilarm
 AllroundAutomations.PLSQLDeveloper
 Alochi.Monitoring
 AmarBego.Rscoop
@@ -135,7 +134,6 @@ BaldurKarlsson.RenderDoc
 BandicamCompany.Bandicam
 bdash-app.bdash
 Beeper.Beeper
-BenBoyter.scc
 BenjaminLSR.HandheldCompanion
 BereneFoundation.BereneApp
 BESTRUI.Octopus
@@ -161,7 +159,6 @@ Blitz.Blitz
 Boshen.cargo-shear
 Bostrot.WSLManager
 Bosyun.BoardMix.CN
-BoxlightCorporation.LYNXWhiteboard
 Brave.Brave
 Brave.Brave.Beta
 Brave.Brave.Nightly
@@ -227,13 +224,11 @@ Chill-Astro.Lamina
 Chomusuke.Vidra
 ChrisLauinger77.QontrolPanel
 Chromium.ChromeDriver
-chrox.Readest
 Cindy.Cindy
 Cindy.Cindy.CN
 CirclebackAI.Circleback
 CircleCI.CLI
 ciromattia.KCC
-Cisco.Webex
 Citrix.Workspace.LTSR
 Cjwdev.NTFSPermissionsReporter.Free
 Clockify.Clockify
@@ -291,7 +286,6 @@ danielmiessler.Fabric
 daruyanagi.Petapeta
 daruyanagi.XTimelineViewer
 Databricks.DatabricksCLI
-Datadog.dd-trace-dotnet
 Dataflare.Dataflare
 Datronicsoft.SpacedeskDriver.Server
 DavidEngelhart.Termpolis
@@ -423,12 +417,12 @@ flick9000.WinScript
 Floweb.Floweb
 Flowscripter.example-cli
 Flowscripter.example-host-application
-Flowseal.TGWSProxy
 Fluxzero.FluxzeroCLI
 Fluxzy.Fluxzy
 Fly-io.flyctl
 Forkgram.Forkgram
 FOSSA.FOSSA-cli
+Foundry376.Mailspring
 Foxit.PhantomPDF
 Fragstats.Fragstats
 Framefilter.Keyroost
@@ -585,7 +579,6 @@ Jellyfin.FFmpeg
 jerrywu001.cc-sessions-viewer
 JesseDuffield.lazygit
 JetBrains.IntelliJIDEA.EAP
-JetBrains.PyCharm
 JetBrains.RubyMine.EAP
 JetBrains.RustRover.EAP
 JetBrains.TeamCityCLI
@@ -614,7 +607,6 @@ kawayiYokami.P-ai
 kayodante.Siphon
 KBS.Kong
 kcl-lang.kcl
-KDE.Akregator
 KDE.Dolphin
 KDE.Kdenlive
 KDE.KMines
@@ -682,12 +674,10 @@ LRGEX.Compress
 LuaLS.lua-language-server
 Lucen.LucenTimeline
 LucidLink.LucidLink
-luckjiawei.frp-desktop
 LuisPater.CLIProxyAPI
 LukiLabs.Craft
 Lumysia.AionUiCommunity
 LunarWerxs.SageThumbs2K
-luolangaga.tubatools
 LuqP2.ImageMetaHub
 Luttik.FastAction
 lycohana.BiliSum
@@ -1047,6 +1037,8 @@ Namespace.nsc
 namidaco.Namida
 Nanosystems.Supremo
 nao1215.gup
+napxlexn.AILimits
+nelsonduarte.PDFApps
 Neovim.Neovim.Nightly
 NetEase.CloudMusic
 NetEase.UURemote
@@ -1163,6 +1155,7 @@ PerfectWorld.PerfectWorldArena
 Perimeter81.HarmonySASE
 Phoner.PhonerLite
 PicoTechnology.Picoscope.Automotive.EA
+Pithflow.Pithflow
 pkgconf.pkgconf
 Plabayo.Rama
 PlanetScale.CLI
@@ -1173,6 +1166,7 @@ PLFJY.ContextMenuMgrPlus
 PocketMC.PocketMC
 poco-ai.Agentero
 PointPlanck.FileBot
+PokerTH.PokerTH
 PortX.ptx
 Posit.RStudio
 Postman.Postman
@@ -1227,6 +1221,7 @@ Relic.Relic
 Rem0o.FanControl
 RemcoStoeten.Skriuw
 Render.CLI
+ReplyLayer.CLI
 Revopoint.RevoScan.6
 Revopoint.RevoTrack
 RIA.DigiDoc4
@@ -1319,6 +1314,7 @@ SlavianaSoft.SeekFast
 Slidict.Wip
 Smallstep.step-agent
 Smallstep.step-desktop
+SmartSoft.SmartFTP
 SmokeTurner.Vouch
 SMPlayer.SMPlayer
 snapADDY.VisitReport
@@ -1375,6 +1371,7 @@ stacklok.thv
 StandardNotes.StandardNotes
 Stardock.Start11.v2
 StarFinanz.StarMoney*
+Starkrats.Toolbox
 Starpine.Screenbox
 SteelSeries.GG
 SteelSeries.SteelSeriesEngine
@@ -1403,7 +1400,6 @@ SyncTrayzor.SyncTrayzor
 Syngnat.GoNavi
 Syntropica_Studio.GSML
 SystweakSoftware.RegCleanPro
-T3Tools.T3Code
 t8y2.DBX
 TabTin.TabTin
 TabularEditor.TabularEditor.2
@@ -1430,7 +1426,6 @@ termio.soft-jp.com.TermioWin
 Termius.Termius
 Termius.Termius.Beta
 Terramate.CLI
-Terrastruct.D2
 TerryReese.MarcEdit
 tessl.tessl
 TeXstudio.TeXstudio
@@ -1454,7 +1449,6 @@ Threema.Threema.2
 Threema.Threema.OnPrem.2
 Threema.Threema.Work.2
 Thunder.Thunder
-Thurbeen.thurbox
 timminator.VideOCR.CPU
 tinyrack.dotweave
 tinyrack.proxer
@@ -1473,10 +1467,12 @@ topgrade-rs.topgrade
 TorProject.TorBrowser
 TossPlace.TossKiosk
 TossPlace.TossPOS
+touchbyte.PhotoSync
 TradingView.TradingViewDesktop
 TragicCode.BuslyCLI
 TravisLane.SteamArtManager
 tree-sitter.tree-sitter-cli
+Trelby.Trelby
 TrellisLab.Trellis
 TRUSTSING.iDefender
 TRUSTSING.iDefender.EN
@@ -1496,6 +1492,7 @@ Unity.CLI
 Unity.UnityHub
 UniversalMediaServer.UniversalMediaServer
 UnslothAI.Unsloth
+UpNote.UpNote
 UsualExpat.SpecWatcher
 uu201.CharacterArc
 uutils.coreutils
