@@ -20,7 +20,6 @@ Adobe.*
 Adobe.Acrobat.Reader.64-bit
 Adobe.WorkfrontProof
 AdrienCros.Avash
-advancedfx.HLAE
 AdventDevelopmentInc.Kudu
 aelassas.Servy
 AgileBits.1Password.CLI
@@ -30,6 +29,7 @@ Aircall.AircallWorkspace
 Aixbox.DesktopGo
 Ajax.AjaxDesktop
 Ajax.AjaxPRODesktop
+Akiflow.Akiflow
 Akka.Cli
 alagrede.znote
 Alibaba.DingTalkWorkspaceCLI
@@ -181,12 +181,18 @@ CircleCI.CLI
 Citadel5-JP.GS-Base
 CleverCloud.CleverTools
 closeio.Close
+clsid2.mpc-hc
 ClypLabs.ClypDat
 Cockos.REAPER
 Cocos.CocosDashboard
 Cod-e-Codes.Marchat
+CodecGuide.K-LiteCodecPack.Basic
+CodecGuide.K-LiteCodecPack.Full
+CodecGuide.K-LiteCodecPack.Mega
+CodecGuide.K-LiteCodecPack.Standard
 Coder.Coder
 CodeZeno.ClaudeCodeUsageMonitor
+Codice.PlasticSCM.CloudEdition
 CognitionAI.DevinCLI
 coldhighsun.AIUsageMonitor.Cli
 coldhighsun.sloc
@@ -237,6 +243,7 @@ Devolutions.RemoteDesktopManager
 Devolutions.UniGetUI
 DevProxy.DevProxy
 DifferentAI.OpenWork
+DigitalVolcanoSoftware.DuplicateCleaner.5
 Dimmy.Dimmy
 Dirloom.Dirloom
 Discord.Discord
@@ -245,6 +252,8 @@ Discord.Discord.Canary
 Discord.Discord.Canary.arm64
 Discord.Discord.Development
 Discord.Discord.Development.arm64
+Discord.Discord.PTB
+Discord.Discord.PTB.arm64
 DisplayLink.GraphicsDriver.HotDesking
 Divaaaan.Tenebra
 Docker.Buildx
@@ -287,6 +296,7 @@ Ellosoft.AWSCredentialsManager
 EmanueleMicheletti.Proxelar
 EmoteInteractive.RemoteMouse
 Erlang.ErlangOTP
+errata-ai.Vale
 ESEngine.ReasonixCLI
 ESEngine.ReasonixDesktop
 ESET.*
@@ -371,6 +381,7 @@ GOG.Galaxy*
 gohide.gohide
 Gologin.Gologin
 Google.AndroidStudio.Beta
+Google.AndroidStudio.Canary
 Google.Antigravity
 Google.AntigravityCLI
 Google.Chrome
@@ -380,6 +391,7 @@ Google.Chrome.Canary
 Google.Chrome.EXE
 Google.Chrome*
 Google.CloudSDK
+Google.ContainerTools.Skaffold
 GoreCode.GoreGraph
 GrafanaLabs.Flint
 GrafanaLabs.Grafana.Enterprise
@@ -392,6 +404,7 @@ Gravitational.TeleportConnect
 GregoryKieffer.MarkdownBlaze
 HaimaCloud.HaimaCloud
 hamidfzm.Glyph
+hanshutx.NeZha
 Hanthor.BluefinCLI
 HarumiWeb.Xlflow
 Hawaii_Beach.TinyNvidiaUpdateChecker
@@ -408,6 +421,7 @@ Holepunch.Keet
 HomeBank.HomeBank
 hoppscotch.Hoppscotch
 HP.AnywarePCoIPClient
+HP.HPClick
 HP.HPImageDiags.4
 HP.HPImageDiags.5
 hrzlgnm.mdns-browser
@@ -476,6 +490,7 @@ JumpingBytes.ClipboardMaster
 JunkunDi.CrossDesk
 JYH1878.KimiCodeBar
 k0sproject.k0sctl
+Kabeen.KabeenServerAgent
 Kakao.KakaoTalk
 kalink0.Crush
 karnyadavdev.FontWizard
@@ -537,6 +552,7 @@ KDE.Okular
 KDE.Parley
 KDE.Picmi
 KDE.Umbrello
+KeeperSecurity.KeeperDesktop
 Kesomannen.Gale
 Keysight.OpenTAP
 khanhtd36.herdr-khanhtd36
@@ -547,6 +563,7 @@ KlowdfurrRad.TrayAuth
 KnifMelti.WAU-Settings-GUI
 KoalaBear84.OpenDirectoryDownloader
 koedame.chordsketch
+Kraken.KrakenDesktop
 Kubri.Kubri
 Kuddev.Nebula
 KutaSoftware.InfiniteAlgebra1
@@ -568,19 +585,21 @@ Learneo.LanguageTool
 LedgerHQ.LedgerLive
 Lenovo.SLBrowser
 Letta.LettaCode
+LGUplus.UplusWorksMessenger
 LibreDB.Studio
 LibreWolf.LibreWolf
 LieberLieber.LemonTree
 LifetimeLabs.PrivacyNotes
+LilBuba.K8
 Lime.Lime
 Lingbao.EasyClaw
 LingyiChen-AI.JadeAI
 LinwoodCloud.Butterfly.Nightly
 LittleGreenButton.LittleGreenButton
 LizardByte.Sunshine
+llt22.Talkio
 LLVM.LLVM
 Lody.Lody
-logisim-evolution.logisim-evolution
 Logitech.*
 Logtalk.Logtalk
 Loko.OnyxCode
@@ -588,6 +607,7 @@ Longbridge.LongbridgeTerminal
 Loom.Loom
 lordmulder.LameXP
 loreste.mako
+LRGEX.Compress
 LuaLS.lua-language-server
 LucidLink.LucidLink
 LuisPater.CLIProxyAPI
@@ -638,6 +658,7 @@ Microsoft.APM
 Microsoft.Azd
 Microsoft.Azure.QuickReview
 Microsoft.Azure.StorageExplorer
+Microsoft.Edge
 Microsoft.Edge.Beta
 Microsoft.Edge.Dev
 Microsoft.Edge*
@@ -671,7 +692,6 @@ mikf.gallery-dl.Nightly
 Mikrotik.Netinstall
 Mikrotik.Winbox
 MiniMax.MiniMaxCode
-MistralAI.MistralVibe.ACP
 misxzaiz.Polaris
 Modrinth.ModrinthApp
 Moku.Moku
@@ -1090,6 +1110,7 @@ OctopusDeploy.Cli
 Ogulniega.Launcher
 oipoistar.Tinta
 OK1ZIA.Tucnak
+Okta.ScaleFT
 Ollama.Ollama
 OO-Software.AutoBackup
 OO-Software.Defrag.Professional
@@ -1207,7 +1228,6 @@ RonsPlace.DataEdit.Lite
 Rorkai.ASC
 RoxyBrowser.RoxyBrowser
 Rozsazoltan.MessengerNext
-ruanklein.synapseq
 Ruben2776.PicView
 RubyInstallerTeam.Ruby.4.0
 Ruihu.Apifox
@@ -1232,6 +1252,7 @@ Samsung.ScannerDecoderApp
 Samsung.SmartSwitch
 Samsung.SmartView
 Samsung.TouchLogon
+Sangoma.SangomaTeamHub
 SantaCruzSoftware.LinkrUI
 SatoshiLabs.trezor-suite
 sbt.sbt
@@ -1247,7 +1268,6 @@ Seewo.EasiNote
 Seiraiyu.Keon
 Servo.Servo.Nightly
 SerZhyAle.CyrFlip
-SerZhyAle.DocHtmlTranslate
 SerZhyAle.StreamsPlayer
 SFXTechInnovation.SimpleFixAI
 shakaran.whatly
@@ -1297,8 +1317,8 @@ StacksLabs.Clarinet
 StandardNotes.StandardNotes
 StarFinanz.StarMoney*
 Starkrats.Toolbox
+StarWhisper.StarWhisper
 steipete.discrawl
-StellarDataRecovery.StellarRepairForExchange
 SteveTheKiller.KillerPDF
 STH.STH
 StrawberryPerl.StrawberryPerl
@@ -1311,11 +1331,9 @@ SublimeHQ.SublimeText.4.Dev
 SumbitLabs.Aptakube
 SunJary.NetAssistant
 Superace.UPDF
-SuperGness.Codey
 Superhuman.Superhuman
 SuperRadCompany.Microsandbox
 Swift.Toolchain
-Sylin.Ghostlight
 Synology.BeeDrive
 T3Tools.T3Code
 t8y2.DBX
@@ -1334,16 +1352,10 @@ Tencent.TencentVideo
 Tencent.WeChat.Universal
 Tencent.WeType
 Tencent.Yuanbao
-TerryReese.MarcEdit
 tessl.tessl
 TheBrain.TheBrain
-ThermoFisher.AmiraAvizo2D
 ThermoFisher.AmiraAvizo3D
 ThomasSmistad.Vordr
-ThomsonReuters.E-TranscriptBundleViewer
-Thorlabs.CCT
-Thorlabs.MEMSVCSEL
-Thorlabs.SPDC810
 Thorlabs.XA
 Threema.Threema.2
 Threema.Threema.OnPrem.2
@@ -1362,21 +1374,17 @@ Toit.Toit
 Tokeny.Tokeny
 Tomclanc.GestureSignV2
 TominLab.WonderPen
-TomTom.MyDriveConnect
 Toolport.Toolport
 topgrade-rs.topgrade
 TorProject.TorBrowser
-touchbyte.PhotoSync
 TravisGoodspeed.MaskROMTool
 TravisLane.SteamArtManager
-Trelby.Trelby
 trevorsandy.lpub3d
 TrueHumanDesign.Diffinity
 TSDuck.TSDuck
 tsouth89.Ceiling
 TubeDigger.TubeDigger
 Tulip.TulipPlayer
-tumic0.GPXSee
 Tweag.Topiary
 Twinkstar.TwinkstarBrowser
 twpayne.chezmoi
@@ -1434,7 +1442,6 @@ WilhelmHappe.Adressen
 Winamp.Winamp
 WINBIGFOX.TimeScribe
 Wind.WindFinancialTerminal
-windeskctl.windeskctl
 WinDirStat.WinDirStat.Beta
 wire.wire
 Wondershare.Repairit
