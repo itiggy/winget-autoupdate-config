@@ -94,7 +94,6 @@ Atlassian.Rovo
 Atola.MultiDrive
 AtomGit.AtomCode
 AurelioAvila.PCTweaker
-AurelioAvila.SocialDashboard
 autobrr.upbrr.cli
 Automation.fmu-api
 Automattic.harper-ls
@@ -187,8 +186,6 @@ Celerp.Celerp
 Certum.SmartSignSimplySignDesktop
 chen08209.FlClash
 Chocolatey.ChocolateyGUI
-Chomusuke.Vidra
-chrisant996.Clink
 ChrisLauinger77.QontrolPanel
 Chromium.ChromeDriver
 Cindy.Cindy
@@ -243,7 +240,6 @@ CyberHive.Connect
 CylCastillo.AgentConsole
 czm15053.TrellisCard
 d4vid87.stormdesk
-DaikiSuganuma.WinRemap
 Dais.Dais
 Databricks.DatabricksCLI
 Datadog.dda
@@ -356,7 +352,6 @@ Fangyuan025.Chaty
 Fedora.CoreOS.butane
 FernandoTonon.QtMeshEditor
 feschber.LanMouse
-Fidpa.Hablara
 Figma.Figma
 Filamental.Filamental
 FileCloud.FileCloudDrive
@@ -494,7 +489,6 @@ incldue.CineFlow
 IndigoByte.DrExplain
 ingitdb.ingitdb
 InspectDevTools.Inspect
-Instruqt.CLI
 IntegrIT.Hackolade
 io.github.frathe.picfetch
 IObit.DriverBooster
@@ -514,7 +508,6 @@ Jackett.Jackett
 jaegertracing.jaeger
 JamesJoseph.ErgoView
 Jamie.WespondUG.JamieAI
-JanDeDobbeleer.OhMyPosh
 Janne6565.Wharf
 jannskiee.floe
 janosmiko.lfk
@@ -561,16 +554,9 @@ KDE.Filelight
 KDE.Granatier
 KDE.Kaidan
 KDE.KAlarm
-KDE.Kapman
 KDE.Kasts
 KDE.Kate
-KDE.KAtomic
-KDE.KBlackbox
 KDE.KBlocks
-KDE.KBounce
-KDE.KBreakOut
-KDE.KDiamond
-KDE.KFourInLine
 KDE.KGoldrunner
 KDE.Kigo
 KDE.Killbots
@@ -1126,7 +1112,6 @@ Mozilla.Thunderbird.vi
 Mozilla.Thunderbird.zh-CN
 Mozilla.Thunderbird.zh-TW
 Mukunku.ParquetViewer
-mulhamna.jirac
 Multica.MulticaCLI
 Multica.MulticaDesktop
 mvdan.shfmt
@@ -1196,7 +1181,6 @@ Olvid.Olvid
 OO-Software.AutoBackup
 OO-Software.Defrag.Professional
 OpenClaw.OpenClawCompanion
-OpenGeos.GeoLibre
 OpenGOAL.Launcher
 OpenJS.Electron.42
 OpenJS.Electron.43
