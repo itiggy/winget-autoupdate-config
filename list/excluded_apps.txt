@@ -18,6 +18,7 @@ Adobe.*
 Adobe.Acrobat.Reader.32-bit
 Adobe.Acrobat.Reader.64-bit
 Adrifer.Sonarctl
+AdsPower.AdsPower
 advancedfx.HLAE
 AdventDevelopmentInc.Kudu
 AES256Afro.VideoKidnapper
@@ -78,6 +79,7 @@ Apps2Samsung.Apps2Samsung
 AppWork.JDownloader*
 AprilNEA.OpenLogi
 AptosCore.aptos
+Araxis.Merge
 Arelle.Arelle
 Argente.DataShredder
 Argente.DriveCleaner
@@ -161,6 +163,7 @@ Buildkite.Agent
 Buildkite.CLI
 bullpae.keymander
 BURSUsofts.BURSUcm
+buxuku.SmartSub
 BytecodeAlliance.Wasmtime
 BytecodeAlliance.Wasmtime.Portable
 ByteDance.Coze
@@ -223,6 +226,7 @@ ColonyLabs.ScribeDesktopCapture
 Comfy.ComfyUI-Desktop
 Connective.ConnectiveSigningPlugins
 Continuity.Continuity
+CoolDesk.CoolDesk
 CoralCreek.SQLiteExpert.Personal
 CoralCreek.SQLiteExpert.Professional
 CoreyButler.NVMforWindows
@@ -230,6 +234,7 @@ CorporateClashCrew.ToontownCorporateClash
 CortexKit.MagicContextDashboard
 Cozmix.AlignMix
 Cppcheck.Cppcheck
+Creality.CrealityScan.4
 CreativeForce.Hue
 CreativeForce.Kelvin
 CreativeForce.Luma
@@ -277,6 +282,7 @@ DigitalExtremes.Soulframe
 DigitalExtremes.Warframe
 DigitalOcean.Doctl
 DigitalVolcanoSoftware.DuplicateCleaner.5
+Dimmy.Dimmy
 Diodeme.GoldBand
 Dirloom.Dirloom
 Discord.Discord
@@ -414,6 +420,7 @@ GLab.GLab
 Glarysoft.GlaryUtilities
 GlobalRelay.GlobalRelay
 gmhoward9289-ops.git-roost
+GnOuGo.Agent
 GnuPG.GnuPG
 GnuPG.Gpg4win
 GOG.Galaxy*
@@ -438,6 +445,8 @@ GrafanaLabs.xk6
 Grammarly.Grammarly
 Grandpied33.STH
 Granola.Granola
+Gravitational.Teleport
+Gravitational.TeleportConnect
 Greatis.StopUpdates10
 GuinpinSoft.MakeMKV
 GuiOttoni.OttoRice
@@ -481,6 +490,7 @@ hrzlgnm.zux
 Huawei.Cangjie.STS
 Huawei.Cangjie.STS.Android
 Huawei.Cangjie.STS.OHOS
+Huerte.GitGo
 HunterBown.CodeWhale
 HyperWorX.DopusWorX
 HypixelStudios.Hytale
@@ -553,8 +563,26 @@ kayodante.Siphon
 KDE.Blinken
 KDE.Dolphin
 KDE.Elisa
+KDE.Kapman
+KDE.KAtomic
+KDE.KBlackbox
+KDE.KBlocks
+KDE.KBounce
+KDE.KBreakOut
 KDE.KBruch
+KDE.KDiamond
+KDE.KGoldrunner
+KDE.Kigo
+KDE.Killbots
+KDE.Kiriki
+KDE.KJumpingCube
+KDE.Klickety
+KDE.Klines
+KDE.KMahjongg
 KDE.KMines
+KDE.KNetWalk
+KDE.Kolf
+KDE.Kollision
 KDE.Konsole
 KDE.KTurtle
 KDE.Minuet
@@ -677,6 +705,7 @@ Microsoft.VisualStudio.Enterprise
 Microsoft.VisualStudio.Enterprise.Insiders
 Microsoft.VisualStudio.Professional
 Microsoft.VisualStudio.Professional.Insiders
+Microsoft.VisualStudioCode
 Microsoft.WinAppCli
 MIDAS.MDesk
 Mihomo-Party.Clash-Party
@@ -981,6 +1010,8 @@ pbek.QOwnNotes
 PCSX2Team.PCSX2
 PECB.PECBExams
 penguinwokrs.OpenInzone
+PerfectWorld.PerfectWorldArena
+phomv.phomv
 Phrase.PhraseCLI
 PigTech.PigCloudCLI
 Pinnacle21.Pinnacle21.Community
@@ -1025,6 +1056,7 @@ QuinGillespie.Fedra
 Quobyte.Client
 Rakuten.Viber
 RAMView.RAMView
+RClone-Manager.rclone-manager
 ReadAI.ReadAI
 Readdle.Spark
 RedSalamanders.RedSalamander
@@ -1055,6 +1087,7 @@ Roman-16.ProtonCLI
 Romanitho.Winget-AutoUpdate
 RongleCat.GrokApp
 RonsPlace.DataEdit.Lite
+Rorkai.ASC
 RoxyBrowser.RoxyBrowser
 RoyalApps.RoyalTS.7
 Ruben2776.PicView
@@ -1111,6 +1144,7 @@ Snowflake.CortexCode
 Snyk.Snyk
 SoftDeluxe.FreeDownloadManager
 SoftPerfect.NetWorx
+SoftPerfect.SwitchPortMapper
 Softplicity.CoolutilsConverter
 Softplicity.PDFCombinePro
 Softplicity.TotalAudioConverter
@@ -1159,6 +1193,7 @@ SublimeHQ.SublimeMerge.Portable
 SublimeHQ.SublimeText.4
 Summay.Sunsama
 SunJary.NetAssistant
+SuperGness.Codey
 SuperRadCompany.Microsandbox
 surge-downloader.surge
 Suwayomi.Tachidesk-VaadinUI
@@ -1222,6 +1257,7 @@ Ubiquiti.IdentityDesktop.Endpoint
 Ubisoft.Connect
 UCBerkeley.BOINC
 Ud3g.darkbright-helper
+udit-001.Pharos
 UniClipboard.UniClipboard
 Unity.CLI
 UnslothAI.Unsloth
@@ -1249,6 +1285,7 @@ VisualParadigm.VisualParadigmViewer
 viswajith275.envseal
 Vita3K.Vita3K
 VitorPamplona.Amethyst
+VivekCShah.DevBar
 Vivi.Vivi
 VkRainB.ccMesh
 VladimirYakovlev.ElectronMail
