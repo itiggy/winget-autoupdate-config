@@ -1286,6 +1286,7 @@ Siddharth.VSSProgrammingLanguage
 Sidekick-Poe.Sidekick
 Sidero.omnictl
 sigoden.WindowSwitcher
+silviuk.Lunifier
 SimplyCA.Typeless
 skim-rs.skim
 SkyLLC.UFFS
