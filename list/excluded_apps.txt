@@ -800,6 +800,7 @@ Microsoft.ApplicationInspector
 Microsoft.Azd
 Microsoft.Azure.QuickReview
 Microsoft.Dynamics365ContactCenterDesktop
+Microsoft.Edge
 Microsoft.Edge.Beta
 Microsoft.Edge.Dev
 Microsoft.Edge*
