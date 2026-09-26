@@ -141,6 +141,7 @@ Atuinsh.Atuin
 aube.aube
 AuraMarker.Lattics
 AurelioAvila.PCTweaker
+AurelioAvila.Redaxa
 AurelioAvila.SocialDashboard
 Austin-Patrician.Wordless
 autobrr.upbrr.cli
@@ -239,6 +240,7 @@ CDESoftware.BTM-2026
 Celerp.Celerp
 CeruleanStudios.Trillian
 CeruleanStudios.Trillian.EXE
+chaitanyagiri.MunderDifflin
 ChangeXbc.WorkBuddySwitch
 ChannelCorporation.ChannelTalkforDesktop
 Chappée.PRO
@@ -272,6 +274,8 @@ Codeby.RIGStats
 Codedaptive.MOOTx01
 Coder.Coder
 CodeZeno.ClaudeCodeUsageMonitor
+CodingWondersSoftware.DISMTools.Preview
+CodingWondersSoftware.DISMTools.Stable
 CognitionAI.DevinCLI
 CognitionAI.DevinDesktop
 coldhighsun.AIUsageMonitor.Cli
@@ -628,6 +632,7 @@ Huawei.Cangjie.STS.Android
 Huawei.Cangjie.STS.OHOS
 Huerte.GitGo
 HunterBown.CodeWhale
+HydraLauncher.Hydra
 HyperWorX.DopusWorX
 HypixelStudios.Hytale
 i-snyder.unbramble
@@ -730,6 +735,7 @@ jvondev.apposition
 JYH1878.KimiCodeBar
 k0sproject.k0sctl
 KALMIX.Trace
+KalyteraSystems.IPCamLapse
 KandoMenu.Kando
 kangfenmao.CherryStudio
 Kapibala.Shuitun
@@ -782,6 +788,7 @@ Keboola.KeboolaCLI2
 KellyBrazil.jc
 kevinboss.haus
 kevinboss.port
+KevinDoremy.SearchDeadCode
 KhanhKit.PxGo
 khanhtd36.herdr-khanhtd36
 KIDASASoftware,Inc.MilestonesProfessional2025
@@ -828,7 +835,9 @@ Levitsky.FontBase
 lezli01.Vincent
 LibreDB.Studio
 LifetimeLabs.PrivacyNotes
+likehao19.InkNote
 liliMozi.HanaAgent
+Lime.Lime
 Lingbao.EasyClaw
 Lingbao.EasyClaw.CN
 LingitAS.Lingdys4
@@ -876,6 +885,7 @@ makhlwf.HexPlayer
 Malwarebytes.Malwarebytes
 maneeshth.DesktopPet
 Mango3D.LycheeSlicer
+marcinz606.NegPy
 MarcoSburlino.Koinkat
 MarkusKellermann.Convo
 Martchus.syncthingctl
@@ -973,6 +983,7 @@ Monkey1Wizard.GAL
 MoonchildProductions.PaleMoon
 Moonfin.Moonfin
 MoonlightOS.Helios
+MoonshotAI.Kimi
 MoonshotAI.KimiCLI
 MoonshotAI.KimiCodeCLI
 mostlygeek.llama-swap
@@ -1160,6 +1171,7 @@ myiam.Cli
 myselfrxvi.sysfetchme
 nabdev.iloader
 Nabukodonozor.NabuSQL
+NachoSC.ScreenTuner
 NaeNaeTart.AMLLTTMLTool
 Namespace.nsc
 namidaco.Namida
@@ -1222,6 +1234,7 @@ oldj.switchhosts
 Ollama.Ollama
 OmmHippo.OMM
 OneKey.OneKey
+OnePlan.OnePlanForProject
 Open-Component-Model.ocm-cli
 OpenAI.Codex
 OpenCLICollective.google-readonly
@@ -1333,6 +1346,7 @@ pyfa.pyfa
 pzielinski.puredeck
 Qingfeng.HeyboxChat
 Qiyuey.BingWallpaperNow
+QuadrantMC.Quadrant
 Quadrillion.Qualia
 QualicaGmbH.Qualica
 QuantumNous.NewAPI
@@ -1408,6 +1422,7 @@ Sandboxie.Plus
 Sangoma.SangomaMeet
 Sangoma.SangomaTeamHub
 SAP.btp
+ScalixWorld.ScalixCloud
 schn4ppi.SyncManga
 ScooterSoftware.BeyondCompare.5
 ScreenSlinger.ScreenSlinger
@@ -1438,6 +1453,7 @@ SFXTechInnovation.SimpleFixAI
 Shade.Shade
 Shadow.Shadow
 ShakaProject.MpdGenerator
+shakaran.whatly
 Shilihu.Mubu
 Shivu516.WindowsHelloFix
 SiarheiKuchuk.ScreenshotAnnotator
@@ -1506,6 +1522,8 @@ Stack-Cairn.LiveAgent
 StackExchange.DNSControl
 stacklok.thv
 StacksLabs.Clarinet
+Stardock.Start11.v1
+Stardock.Start11.v2
 StarFinanz.StarMoney*
 SteelSeries.GG
 steipete.discrawl
@@ -1557,6 +1575,7 @@ TechyGeeksHome.PDFGeek
 Tekinsv.Tekinote
 ten-framework.tman
 Tenable.NessusAgent
+Tencent.CodeBuddy
 Tencent.DeskGo
 Tencent.ima-copilot
 Tencent.TencentMeeting
@@ -1576,6 +1595,7 @@ TheGridTrackerTeam.GridTracker2
 ThejeshK.Vyuha
 ThemisDB.ThemisDB
 ThePandemoniumInstitute.BloodontheClocktowerOnline
+ThePokemonCompany.PokemonTCGLive
 TheQtCompanyLtd.QtCreator
 TheStellaTeam.Stella
 ThinkInAIXYZ.DeepChat
@@ -1585,6 +1605,7 @@ Thurbeen.thurbox
 TIANLI0.THRM
 Tianyu199509.DeskBox
 TIMi.TIMi
+Timus.TimusConnect
 TinyCraft.TinyRDM
 TinyHumansAI.OpenHuman
 tldraw.tldraw-offline
@@ -1631,6 +1652,7 @@ VaclavJedlicka.ProfiCAD
 ValentinSoftware.PVSOL.Premium.2026
 Veracode.CLI
 VibeBrains.VibeIDE
+Vibetuned.Battuta
 VictronEnergy.VEConfigureTools
 VictronEnergy.VictronConnect
 Videoclinic.DMSDesktop
@@ -1680,6 +1702,7 @@ Waytech.CloudDrive2
 Wazuh.WazuhAgent
 WEBNSNM.terminalManage
 WenanLin.wenget
+WendyLabs.Wendy
 WestWind.MarkdownMonster
 wez.wezterm.nightly
 Wildix.WildixCollaboration
@@ -1711,6 +1734,8 @@ xiufengsun.TokenTracker
 XniperBuilds.Riplox
 XnSoft.XnView.Classic
 XnSoft.XnViewMP
+Xournal++.Xournal++
+xpf0000.FlyEnv
 xpipe-io.xpipe.portable
 XRECODE.XRECODE3
 Yaak.app
@@ -1751,6 +1776,7 @@ ZhoelSherk.VALVET
 zhukunpenglinyutong.CCGUI
 ZMGID.Kivio
 zn0wii.Satelite
+Zoho.Meeting
 Zoho.Ulaa
 Zoho.Voice
 Zoho.Writer
