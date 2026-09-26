@@ -48,6 +48,8 @@ akon47.ClaudeAccountSwitcher
 AlbinAlm.Straumr
 AlcyoneSystems.Tester
 aletheics.Zeno
+Alex313031.Thorium
+Alex313031.Thorium.AVX2
 AlexsJones.llmfit
 Alibaba.OpenCodeReview
 Alibaba.Qoder
@@ -98,6 +100,7 @@ AnyLogic.AnyLogic.University
 anyvm-org.anyvm
 AnywhereLabs.DSHDesktop
 Aplexica.Aplexica
+AppByTroye.KoodoReader
 Appest.Dida
 Appest.TickTick
 AppFlowy.AppFlowy
@@ -126,6 +129,7 @@ ArnsteinSkara.AppCenter
 ART.ART
 artem4150.VeilBox
 AryanZahir.CsvPeek
+Arylmera.TokenDashboard
 Asana.Asana
 asanabrial.leteo
 asciimoo.hister
@@ -414,6 +418,7 @@ eeyzs1.DevWit
 EfficientElements.Presentations
 Egnyte.EgnyteDesktopApp
 EIGHTY3.FlopzillaPro
+EinsVier.BlitzText
 Eistee82.Keylegend
 EKKOLearnAI.HermesStudio
 electerm.electerm
@@ -649,6 +654,7 @@ IBM.Semeru.25.JDK
 IBM.Semeru.25.JRE
 IBM.Semeru.8.JDK
 IBM.Semeru.8.JRE
+ibrahemid.Writ
 IbrahimDursun.jjui
 Icehunter.conduit
 Icehunter.dune-admin
@@ -814,6 +820,7 @@ kunobi-ninja.kobe
 Kurokeita.NovelDownloader
 KushChandak.Jumpboot
 Lablicate.OpenChrom
+LadislavFoldyna.QLog
 LaFabrikNumerique.VoxCut
 LANCOM.LANconfig
 LANCOM.LANmonitor
@@ -1305,6 +1312,7 @@ PlanetScale.CLI
 Plex.Plexamp
 PLFJY.ContextMenuMgrPlus
 PLFJY.ContextMenuMgrPlus.Beta
+plub845.VideoDownloaderApp
 pnpm.pnpm
 poco-ai.Agentero
 Polemus.Omnigit
@@ -1443,6 +1451,7 @@ Seelen.SeelenUI
 Seewo.AirTeach
 Seewo.EasiNote
 Seiraiyu.Keon
+SergeyMoskalev.CarambaSwitcher
 Servo.Servo.Nightly
 SerZhyAle.FastMediaSorter
 SerZhyAle.FastMediaSorter.Server
@@ -1466,6 +1475,7 @@ silviuk.Lunifier
 SimonThorpe.Octomon
 SimplyCA.Typeless
 skim-rs.skim
+skssmd.Graft
 Skvetter.DevPod
 SkyLLC.UFFS
 SlackTechnologies.Slack
@@ -1533,6 +1543,7 @@ SteveTheKiller.KillerPDF
 SteveTheKiller.KillerScan
 SteveTheKiller.KillerShell
 StirlingTools.StirlingPDF
+stn1slv.md-paste
 Storj.Uplink
 Stremio.Stremio.Beta
 Stripe.StripeCli
@@ -1601,6 +1612,7 @@ TheStellaTeam.Stella
 ThinkInAIXYZ.DeepChat
 THS.THS
 Thumbrella.Server
+Thunder.Thunder
 Thurbeen.thurbox
 TIANLI0.THRM
 Tianyu199509.DeskBox
