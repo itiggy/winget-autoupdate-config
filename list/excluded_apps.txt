@@ -1,3 +1,4 @@
+0xJacky.nginx-ui
 115.115Life
 123.123pan
 360.360DesktopLite
@@ -43,6 +44,7 @@ aletheics.Zeno
 Alex313031.Thorium
 Alex313031.Thorium.AVX2
 AlexsJones.llmfit
+alexx2000.DoubleCommander
 Alibaba.OpenCodeReview
 Alibaba.Qoder
 Alibaba.QoderWake
@@ -76,6 +78,7 @@ AnInsomniacy.MotrixNext
 AnirudhSevugan.SimpliPlay
 Anki.Anki
 Anthropic.Ant
+antonreshetov.massCode
 AntSeed.VPR
 AnyAssociation.Anytype
 AnyLogic.AnyLogic.Personal
@@ -142,6 +145,7 @@ Bambulab.CyberBrick
 BartelsMedia.MacroRecorder
 BartelsMedia.PhraseExpress
 Beeper.Beeper
+beeyev.telegram-owl
 BelledonneCommunications.Linphone
 BellSoft.LibericaJRE.17.Full
 BenjiButten.StreamDecky
@@ -286,11 +290,13 @@ Datacomp.BIMvision
 Datadog.Agent
 Datalust.Seq
 Datalust.seqcli
+datamitsu.datamitsu
 DavidEngelhart.Termpolis
 DBMobile.Resonance
 DebaA17.CVECLI
 Debba.Tabularis
 DefGuard.Defguard
+DeltaChat.DeltaChat
 demkada.ArgyCode
 den4b.RandPass
 DesktopPlus.DesktopPlus
@@ -427,6 +433,7 @@ Foxit.PhantomPDF
 Foxit.PhantomPDF.Subscription
 Foxit.PhantomPDF.Subscription.MSI
 fpinero.mouse-desktop
+FrankZhu.ZManagerCLI
 frathe.picfetch
 fstubner.netscli
 fstubner.netscli.gui
@@ -480,6 +487,7 @@ Google.Chrome*
 Google.CloudSDK
 Google.FirebaseCLI
 Google.GoogleUpdater
+gorodulin.prj
 GoTo.GoTo
 GoTo.LogMeInClient
 GoTo.LogMeInResolveDesktopConsole
@@ -627,6 +635,7 @@ Kaniff.Kaniff
 Kapibala.Shuitun
 KaringX.ClashMi
 Karuzip.Karuzip
+kawaiiDango.pano-scrobbler
 kawayiYokami.P-ai
 kayodante.Siphon
 KDE.Blinken
@@ -1099,6 +1108,7 @@ OpenJS.Electron.41
 OpenJS.Electron.42
 OpenJS.Electron.43
 OpenJS.Electron.44
+OpenPolicyContainers.Policy
 OpenRCT2.OpenRCT2
 OpenRGB.OpenRGBEffectsPlugin
 OpenScreen.OpenScreen
@@ -1290,6 +1300,7 @@ Siemens.JT2Go
 silviuk.Lunifier
 SimonThorpe.Octomon
 SimplyCA.Typeless
+skim-rs.skim
 skssmd.Graft
 Skvetter.DevPod
 SlackTechnologies.Slack
@@ -1320,6 +1331,7 @@ Speakeasy.speakeasy
 SpecialK.SpecialK
 SpiceLogic.8051Disassembler
 SPRIC76.KIT
+sprout2000.LeafView
 SQLBI.Whiteboard
 SrdjanKotarlic.ProTimer
 stabldev.torrra
@@ -1447,9 +1459,11 @@ v2rayA.v2rayA
 VaclavJedlicka.ProfiCAD
 ValentinSoftware.PVSOL.Premium.2026
 Veracode.CLI
+VibeBrains.VibeIDE
 Vibetuned.Battuta
 VictronEnergy.VEConfigureTools
 VictronEnergy.VictronConnect
+vim.vim.nightly
 viorizz.diskutility
 VisiGrid.VisiGrid
 VisualParadigm.VisualParadigm
