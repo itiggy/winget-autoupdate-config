@@ -348,6 +348,7 @@ Egnyte.EgnyteDesktopApp
 EIGHTY3.FlopzillaPro
 EinsVier.BlitzText
 Eistee82.Keylegend
+eitsupi.arf
 EKKOLearnAI.HermesStudio
 elazarza.WallRotate
 electerm.electerm
@@ -380,7 +381,9 @@ Ethereum.geth
 Eugeny.Tabby
 Everless321.dYm
 Evernote.Evernote
+Excelano.blick
 Excelano.slipcase-cli
+Excelano.xray
 ExpressVPN.ExpressVPN
 EZBSystems.UltraISO
 FactoryAI.Factory
@@ -518,6 +521,7 @@ HNN.Bisnor
 Holepunch.Keet
 holland-built.Bloxsmith
 hongfeiyucode.DeepSeekHarnessDesktop
+hoppscotch.Hoppscotch
 HoraceMaxwell.Horosa
 Hostpad.Hostpad
 HostTracker.ht-cli
@@ -570,6 +574,7 @@ iOfficeAI.OfficeCLI
 iQIYI.iQIYI
 Iriun.IriunWebcam
 IsHexx.ToDoReminder
+ishizakahiroshi.many-ai-cli
 ItTiger.TigerSqlCmd
 ITWORX.CtrlVTerminal
 IvanCharapanau.Harbor
@@ -1120,8 +1125,10 @@ Oscium.Chanalyzer
 osyka-yuri.RenderPilot
 Outcasts.Fuseforks
 OVRASTeam.OpenVR-AdvancedSettings
+OxygenCloud.odrive
 packetThrower.Zorite
 pagebrooks.maxdop
+PaloAltoNetworks.PrismaAccessBrowser
 Pane.Pane
 ParanoiaWorks.PFTE
 Parslee.Car
@@ -1179,6 +1186,7 @@ Pungo.JoyConnectUniversal
 PWPW.SigillumSign
 pyfa.pyfa
 pzielinski.puredeck
+QGIS.QField
 Qingfeng.HeyboxChat
 Qiyuey.BingWallpaperNow
 QuadrantMC.Quadrant
@@ -1227,6 +1235,7 @@ Rorkai.ASC
 RoxyBrowser.RoxyBrowser
 RoyalApps.RoyalTS.7
 rsteube.Carapace
+rstream.rstream
 Ruben2776.PicView
 RubyInstallerTeam.Ruby.3.4
 rugbedbugg.resonanceid-cli
@@ -1245,6 +1254,7 @@ SAP.btptf
 SBCL.SBCL
 ScalixWorld.ScalixCloud
 schn4ppi.SyncManga
+schollz.croc
 ScooterSoftware.BeyondCompare.5
 ScreenSlinger.ScreenSlinger
 ScryerMedia.Scryer
@@ -1260,6 +1270,7 @@ seerge.g-helper
 Seewo.AirTeach
 Seiraiyu.Keon
 SergeyMoskalev.CarambaSwitcher
+SergeySvistunov.Uptooda
 ServersCom.srvctl
 Servo.Servo.Nightly
 SerZhyAle.FileDO
@@ -1289,6 +1300,7 @@ Smallstep.step-agent
 SmartSoft.SmartFTP
 SmokeTurner.Vouch
 Snesnopic.Mseedout
+SnowdreamTech.unirtm
 Snowflake.CortexCode
 Snowflake.SnowflakeCLI
 SnowMint.FluentScrobbler
@@ -1349,6 +1361,7 @@ SWIG.SWIG
 SymbolicSoftware.Verifpal
 Synacor.ZimbraDesktop
 Syngnat.GoNavi
+Synology.DriveClient
 Syrize.OpenFic
 sysmanage.sysmanage
 sysmanage.sysmanage-agent
@@ -1358,6 +1371,7 @@ t8y2.DBX
 TabularEditor.TabularEditor.3
 Tailscale.tailcat
 TandemHealth.Tandem
+TaskSlinger.TaskSlinger
 TeamViewer.TeamViewer*
 Techambient.Fdows
 TechPowerUp.GPU-Z
@@ -1474,6 +1488,7 @@ WestWind.DocumentationMonster
 WestWind.MarkdownMonster
 WidelandsDevelopmentTeam.Widelands
 Wildix.WildixCollaboration
+WilsonGlasser.Oryxis
 WinDirStat.WinDirStat.Beta
 windosx.zentao-cli
 Wiris.MathType.7
@@ -1513,9 +1528,11 @@ yd-null.sbscraper
 yeroo.agliteterm
 yetone.Alma
 yhirose.culebra
+YouXiao.YXCalendar
 Ytmdesktop.Ytmdesktop
 yuccastream.tuna
 yukimemi.shun
+yyzTools.yyzTools
 zachtbeer.SqlDataPack
 ZedIndustries.Zed
 ZedIndustries.Zed.Preview
