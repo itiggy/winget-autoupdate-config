@@ -350,9 +350,7 @@ doggy8088.Carnac
 DoiT.dci
 dongdongbh.Mindwtr
 dotenvx.dotenvx
-Douyu.DouyuLive
 douzone.WEHAGO
-dprint.dprint
 Draftable.Draftable
 DrayTek.SmartVPN
 dRofus.dRofus
@@ -390,7 +388,6 @@ Elinesoft.XTester
 emoacht.Monitorian
 ENERCALC.ENERCALC
 EnineApps.GreenDotter
-Enter-tainer.typstyle
 eParaksts.eParakstitajs
 eParaksts.eParakstsTokenSigning
 epatels.CKPDFUnlocker
@@ -408,7 +405,6 @@ Excelano.waddle
 EZBSystems.UltraISO
 FACEITLTD.FACEITAC
 FactcheckerPro.FactCheckerPro
-FactFoundry.SemanticModeler
 FactoryAI.Factory
 FahrenheitResearch.ArWen
 fancydirty.MediaryScout
@@ -429,7 +425,6 @@ FinalWire.AIDA64.Extreme
 FinalWire.AIDA64*
 FinancialID.BankID
 Firezone.Client.Headless
-fjrevoredo.MiniDiarium
 FlawlessWidescreen.FlawlessWidescreen
 floatpane.matcha
 Floweb.Floweb
@@ -462,7 +457,6 @@ GaoyangZhang.RivonClaw
 GardenGnome.Object2VR
 GDevelop.GDevelop
 GDQuest.GDScript.Formatter
-GDRETools.gdsdecomp
 GeekUninstaller.GeekUninstaller
 Genesys.GenesysCloud
 Gentian28.ResumeBuilder
@@ -535,7 +529,6 @@ HARMAN.AdobeAIR
 Hashicorp.Terraform
 Hashicorp.Vault
 hatayama.uloop
-hazeliscoding.XIVVault.CLI
 Headlamp.Headlamp
 heartached.Noctis
 Heavrnl.NexusTerminal
@@ -650,7 +643,6 @@ kaanreal.Henkan
 Kaedei.Dandanplay
 Kamjin.Chatless
 Kapibala.Shuitun
-KaringX.ClashMi
 Karuzip.Karuzip
 kawayiYokami.P-ai
 KDE.Akregator
@@ -658,7 +650,6 @@ KDE.Chessament
 KDE.Dolphin
 KDE.Elisa
 KDE.Falkon.Nightly
-KDE.Filelight
 KDE.KAlarm
 KDE.KDEConnect
 KDE.KDEConnect.AppX
@@ -872,7 +863,6 @@ MoonshotAI.Kimi
 MoonshotAI.KimiCodeCLI
 MoonshotAI.KimiCodeDesktop
 mostlygeek.llama-swap
-Movavi.MovaviVideoEditor
 Mozilla.Firefox.Beta.MSIX
 Mozilla.Firefox.DeveloperEdition.MSIX
 Mozilla.Firefox.ESR.MSIX
@@ -1016,7 +1006,6 @@ Mozilla.Thunderbird.zh-TW
 MPC-BE.MPC-BE
 MrKaran.Doggo
 mrmjstc.EVE-MajPreview
-mulhamna.jirac-mcp
 MullvadVPN.MullvadBrowser
 Multica.MulticaCLI
 Multica.MulticaDesktop
@@ -1062,7 +1051,6 @@ NimaShafie.OxideSLOC
 Nimbalyst.Nimbalyst
 NimbusAgent.Nimbus
 NirSoft.DNSLookupView
-NirSoft.TcpLogView
 nkdAgility.AzureDevOpsMigrationTools.Preview
 nkiyohara.Corresync
 Nlitesoft.NTLite
@@ -1161,7 +1149,6 @@ PawelSalawa.Letos
 Pawn-Appetit.Pawn-Appetit
 payhereinc.PayhereSeller
 pdfcpu.pdfcpu
-PDFgear.PDFgear
 PerfectWorld.PerfectWorldArena
 Pesch.RouteConverter
 Phoner.PhonerLite
@@ -1185,26 +1172,10 @@ Postman.Postman.arm64
 Postman.PostmanAgent
 Power-user.Power-user
 Powerformer.OpenDesign
-PowerPlatformToolBox.PowerPlatformToolBox
 PowerUserZ.OpenTokenUsage
 ppy.osu
 PranshuParmar.witr
 prasenjeet-symon.ogcode
-PremiumSoft.NavicatBI
-PremiumSoft.NavicatBIViewer
-PremiumSoft.NavicatDataModeler
-PremiumSoft.NavicatDataModelerLite
-PremiumSoft.NavicatMariaDB
-PremiumSoft.NavicatMongoDB
-PremiumSoft.NavicatMySQL
-PremiumSoft.NavicatOracle
-PremiumSoft.NavicatPostgreSQL
-PremiumSoft.NavicatPremium
-PremiumSoft.NavicatPremiumLite
-PremiumSoft.NavicatRedis
-PremiumSoft.NavicatSnowflake
-PremiumSoft.NavicatSQLite
-PremiumSoft.NavicatSQLServer
 PresenceJam.PresenceJam
 presono.presono
 Pressly.Goose
@@ -1230,13 +1201,11 @@ pyRevit.pyRevit
 Python.Launcher
 QGIS.QField
 qingchencloud.ClawPanel
-Qingfeng.HeyboxChat
 Qingfeng.HeyboxWow
 Quadrillion.Qualia
 Qualcomm.GenieX.CLI
 QuantumNous.NewAPI
 Quark.QuarkXPressDocumentConverter
-QuillNotes.Quill
 QuitePicky.Considered
 Quobyte.Client
 r2cuerdame.WSLPad
@@ -1290,7 +1259,6 @@ rstream.rstream
 runxhq.runx
 rus.zip
 RussellBanks.Komac
-Rustlang.rust-analyzer
 Rustlang.Rust.GNU
 Rustlang.Rust.GNU.LLVM
 Rustlang.Rust.MSVC
@@ -1405,7 +1373,6 @@ SUSE.RancherDesktop.2
 Suwayomi.Tachidesk-VaadinUI
 Swift.Toolchain
 Sync.Sync
-Synology.ActiveBackupForBusinessAgent
 Syntevo.SmartGit
 sysmanage.sysmanage
 SystweakSoftware.AdvancedSystemOptimizer
@@ -1432,7 +1399,6 @@ TeraTermProject.teraterm
 TERMINATORmdel101.MAUS
 termio.soft-jp.com.TermioWin
 Termius.Termius
-Termius.Termius.Beta
 tessl.tessl
 TextTimeline.Importer
 TGRMNSoftware.ViceVersaPro
@@ -1451,7 +1417,6 @@ Timely.Memory
 timeware.BiostarAgent
 TIMi.TIMi
 TimKicker.Podliner
-Timthreetwelve.GetMyIP
 TJSmith.Anodizer
 tldraw.tldraw-offline
 tnunamak.Clawmeter
@@ -1502,7 +1467,6 @@ VeyonSolutions.Veyon
 VibeBrains.VibeIDE
 vim.vim
 vim.vim.nightly
-ViRb3.wgcf
 VisiGrid.VisiGrid
 VisualParadigm.VisualParadigm
 VisualParadigm.VisualParadigm.Community
@@ -1539,7 +1503,6 @@ WeatherStudio.WSV3
 WeeNote.WeeNote
 WendyLabs.Wendy
 WestWind.MarkdownMonster
-WGTunnel.WGTunnel
 Wildfoundry.DataplicityCLI
 WilsonGlasser.Oryxis
 Wimysoft.WimyGit.Nightly
@@ -1574,7 +1537,6 @@ xiaYuTian11.DataMaskit
 XinTaoFei.Codeg
 xiufengsun.TokenTracker
 Xmake-io.Xmake
-XnSoft.XnConvert
 XnSoft.XnViewMP
 xpf0000.FlyEnv
 xssnick.tonutils-storage
