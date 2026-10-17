@@ -93,7 +93,6 @@ Argente.SystemRepair
 Argente.UninstallManager
 argoproj.argocd
 Argotronic.ArgusMonitor
-aroum.che
 ArtCraft.CadCraft
 ArtCraft.VectorCraft
 ArtemChepurnyi.Keyguard
@@ -167,7 +166,6 @@ Box.Box
 Brave.Brave*
 BrechtSanders.WinLibs.POSIX.MSVCRT
 BrechtSanders.WinLibs.POSIX.UCRT
-Breizhzion.BeamMeUp
 Breizhzion.JustMakeQ
 BRFTech.filex
 Brian.rad
@@ -213,9 +211,7 @@ cataggar.ghr
 Catenary.Catenary
 Catsxp.Catsxp
 CCPGames.EVEOnline
-ccseer.Seer
 CDESoftware.BTM-2026
-Celerp.Celerp
 CelikE.soko
 CentStudio.CentBrowser
 CertifyTheWeb.CertifySSLManager
@@ -501,7 +497,6 @@ Google.GoogleUpdater
 Google.OSVScanner
 Google.PlayGames
 GordonBeeming.CopilotHere
-GoreCode.GoreGraph
 goreleaser.goreleaser
 goreleaser.goreleaser-pro
 goreleaser.nfpm
@@ -598,7 +593,6 @@ jakedorony.MonitorInputSwitcher
 Jamie.WespondUG.JamieAI
 Jamovi.Desktop.Current
 JAMSoftware.TreeSize
-JanDeDobbeleer.OhMyPosh
 jannskiee.floe
 janosmiko.lfk
 JaredMeadows.pulse-panel
@@ -657,7 +651,6 @@ KDE.Kdenlive
 KDE.Lokalize
 KDE.Okular.AppX
 KDE.Skrooge
-KDE.Tellico
 KDE.Umbrello
 Keboola.KeboolaCLI2
 KeeperSecurity.Commander
@@ -709,7 +702,6 @@ Lirikpro.Zush
 liseami.DeepRant
 LiTang.QianJi
 LIXianSenQwQ.Nomo
-LizardSystems.TerminalServicesManager
 Lka.Excel2ZUGFeRD
 Lody.Lody
 loft-sh.vcluster
@@ -1148,7 +1140,6 @@ PatrickMenne.TrayQS
 PawelSalawa.Letos
 Pawn-Appetit.Pawn-Appetit
 payhereinc.PayhereSeller
-pdfcpu.pdfcpu
 PerfectWorld.PerfectWorldArena
 Pesch.RouteConverter
 Phoner.PhonerLite
@@ -1408,7 +1399,6 @@ TheCodeSaiyan.Loadout
 TheQtCompanyLtd.QtCreator
 TheSaltyKorean.MarkdownStudio
 Throneproj.Throne
-THS.THS.Hevo
 Thumbrella.Server
 Thurbeen.thurbox
 thxnlo.tether
@@ -1439,7 +1429,6 @@ Trimble.TrimbleConnect
 TRUSTSING.iDefender
 Tsabo.ClipMate
 tsouth89.Ceiling
-Tutanota.Tutanota
 Twinkstar.TwinkstarBrowser
 TwintailTeam.TTL
 TwinType.TwinTypeCloud
@@ -1478,7 +1467,6 @@ Vivaldi.Vivaldi
 vivo.OfficeKit
 Vixasol.DogdouSpec
 vmvarela.sql-pipe
-VNGCorp.Zalo
 VoiceWave.LocalCore
 VoidGriefedTeam.Wave
 Voltius.Voltius
