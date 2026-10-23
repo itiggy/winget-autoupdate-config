@@ -2,6 +2,7 @@
 2BrightSparks.SyncBackFree
 2BrightSparks.SyncBackPro
 2BrightSparks.SyncBackSE
+360.360Chrome.X
 3CX.Softphone
 5rahim.Seanime
 7zip.7zip
@@ -11,6 +12,7 @@ A2-Ai.rv
 aahepburn.RAGAssistantForZotero
 abemedia.stagelint
 ABKTeknik.DeskTuna
+abooodbah.LeanMark
 Absolute.ResilientSecureAccessClient
 Absolute.SecureAccessClient
 ActiveDirectoryPro.ADProToolkit
@@ -57,6 +59,12 @@ AmanThanvi.noctty
 Amazon.AthenaODBCDriver.2
 Amazon.AWSCLI
 Amazon.CloudWatchAgent
+Amazon.Corretto.11.JDK
+Amazon.Corretto.17.JDK
+Amazon.Corretto.21.JDK
+Amazon.Corretto.25.JDK
+Amazon.Corretto.27.JDK
+Amazon.Corretto.8.JDK
 Amazon.Kiro
 Amazon.Quick
 Amazon.SAM-CLI
@@ -78,6 +86,7 @@ anyvm-org.anyvm
 AnywhereLabs.DSHDesktop
 Apache.Maka.Nightly
 Apache.OpenOffice
+Appest.TickTick
 AppFlowy.AppFlowy
 Apple.Pkl
 AppWork.JDownloader*
@@ -129,6 +138,7 @@ Autodesk.Fusion
 Autohand.Squad
 Automattic.harper-ls
 AvivSinai.Bitbucket-CLI
+axllent.mailpit
 axodotdev.dist
 axpnet.AeroFTP
 aziontech.azion
@@ -200,6 +210,7 @@ ByteNess.AWSVault
 BytePioneer-AI.CodexHost
 CABS.SalesPrix
 CABS.ScanPrix
+calibre.calibre
 campfirium.Foliole
 can1357.oh-my-pi
 Canva.Canva
@@ -217,10 +228,12 @@ Celerp.Celerp
 CertifyTheWeb.CertifySSLManager
 ch.LosslessCut
 Chappée.PRO
+charmbracelet.soft-serve
 chen08209.FlClash
 ChenZibo.NewbeeOCRCLI
 ChiaNetwork.GUIforChiaBlockchain
 ChilliBits.Spice
+Chomusuke.Vidra
 ChrisLauinger77.QontrolPanel
 ChrisLauinger77.Stream-GUI-RS
 ChrisLauinger77.ToeRings
@@ -290,6 +303,8 @@ Dapr.CLI
 Databricks.DatabricksCLI
 Datacomp.BIMvision
 Datadog.dd-trace-dotnet
+Dataflare.Dataflare
+Datalust.Seq
 Datalust.seqcli
 datamitsu.datamitsu
 Daum.PotPlayer
@@ -321,6 +336,7 @@ DifferentAI.OpenWork
 DimitarRadenkov.Pointframe
 Dimmy.Dimmy
 DinamoNetworks.HSMDinamo
+DineshSolanki.FoliCon
 DirkJansen.MailCheck2
 Discord.Discord
 Discord.Discord.arm64
@@ -471,6 +487,7 @@ GeoGebra.Classic
 GeoGebra.Geometry
 GeoGebra.GraphingCalculator
 getSigit.siGitCode
+gfgRoyal.gfgLock
 gg.ai.ggcode-cli
 gg.ai.ggcode-desktop
 ggml.llamacpp
@@ -485,6 +502,7 @@ Gitea.Runner
 GitHub.cli
 GitHub.Copilot
 GitHub.CopilotApp
+GitHub.GitHubDesktop
 Gitify.Gitify
 Gitlab.Runner
 gittuf.gittuf
@@ -742,6 +760,7 @@ Ledgerful.Ledgerful
 LedgerHQ.LedgerLive
 legeling.PromptHub
 legowerewolf.AO3Fetch
+LeNgocKhoa.Laragon
 LetsConnect.Client
 LGUG2Z.komorebi.Nightly
 LibreCAD.LibreCAD
@@ -756,6 +775,7 @@ Lingbao.EasyClaw
 LinuxContainers.Incus
 Lirikpro.Zush
 liseami.DeepRant
+LiteratureAndLatte.Scrivener
 Lithnet.AccessManager.Agent
 Liu-Bot24.DSH-Tunnel
 LiveKit.LiveKitCLI
@@ -825,6 +845,7 @@ MetaCubeX.Mihomo.GOAMD64v2
 MetalBear.mirrord
 mg-chao.snow-shot
 mguessan.davmail
+miaotouy.AIOHub
 michaelsanford.wtop
 MicroClaw.MicroClaw
 MicroSIP.MicroSIP
@@ -1130,6 +1151,7 @@ OpenRCT2.OpenRCT2
 OpenRGB.OpenRGB
 OpenRunDev.OpenRun
 OpenScreen.OpenScreen
+OpenVetta.Vetta
 OpenWhisperSystems.Signal
 OpenWhisperSystems.Signal.Beta
 OpenWhispr.OpenWhispr
@@ -1269,6 +1291,7 @@ Romanitho.Winget-AutoUpdate
 RongleCat.GrokApp
 RonsPlace.DataEdit.Lite
 Rorkai.ASC
+RoxyBrowser.RoxyBrowser
 rsteube.Carapace
 rstream.rstream
 rtk-ai.rtk
@@ -1313,6 +1336,7 @@ Seafuture.NetpasEstimatorTramper
 Seafuture.NetpasMessage
 Seafuture.NetpasTramperBusiness
 seakee.CPAManagerPlus
+sean908.PortReleasor
 SeasaltAI.SeaMeetSnapRecorder
 sebescudie.GammaLauncher
 seerge.g-helper.PreRelease
@@ -1335,8 +1359,10 @@ SimonThorpe.Octomon
 simple-acme.simple-acme
 SimplyCA.Typeless
 sinelaw.fresh-editor
+SKCommunications.NateOn
 skim-rs.skim
 SlackTechnologies.Slack
+Slide.Agent
 Slido.Slido
 Smallstep.step-agent
 smartfrigde.Legcord
@@ -1400,6 +1426,7 @@ SRIFT.Srift
 SST.opencode
 SST.OpenCodeDesktop
 StablyAI.Orca
+Stacher.Stacher
 StackExchange.DNSControl
 stacklok.thv
 stakira.OpenUTAU
@@ -1473,6 +1500,7 @@ Tencent.DeskGo
 Tencent.ima-copilot
 Tencent.TencentVideo
 Tencent.WeChat.Universal
+Tencent.WeCom
 Tencent.WeType
 Tencent.Yuanbao
 Termalin.Termalin
@@ -1522,6 +1550,7 @@ tree-sitter.tree-sitter-cli
 Trimble.TrimbleConnect
 TRUSTSING.iDefender.EN
 Tutanota.Tutanota
+TuxGuitar.TuxGuitar
 TVasilev.RainCleaner
 twpayne.chezmoi
 TX230.winproc-tui
@@ -1550,6 +1579,7 @@ VentisMedia.MediaMonkey.2024
 version-fox.vfox
 VGN.VGNHUB
 VibeBrains.VibeIDE
+VictorIX.BlenderLauncher
 ViewSonic.DisplayPortal
 ViewSonic.myViewBoard.Whiteboard
 VirtualHere.USBClient
@@ -1615,6 +1645,7 @@ Xerxes-2.ClewdR
 xHybred.NVPIRevamped
 xiaocang.EasydictforWindows
 XiaoweiCloud.CalendarTask
+xiaoyifang.GoldenDict-ng
 XiaoYouChR.GhostDownloader
 xiaYuTian11.DataMaskit
 XinTaoFei.Codeg
