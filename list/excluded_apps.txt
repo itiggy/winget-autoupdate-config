@@ -128,6 +128,7 @@ ArtCraft.GridCraft
 ArtCraft.PdfCraft
 ArtCraft.SoundCraft
 ArtCraft.VectorCraft
+ArtifexSoftware.mutool
 Asana.Asana
 asanabrial.leteo
 Aserto.Topaz
@@ -161,6 +162,7 @@ Avogadro.Avogadro.2
 axllent.mailpit
 axodotdev.dist
 axpnet.AeroFTP
+AzaharEmu.Azahar
 Azeus.Convene
 aziontech.azion
 Azul.Zulu.11.JDK
@@ -200,6 +202,7 @@ BenjiButten.MicMixer
 BESTRUI.Octopus
 Besware.Artweaver.8.Free
 Besware.Artweaver.8.Plus
+bezzad.Downloader
 Bildungsportal.Next-Exam-Student
 Bildungsportal.Next-Exam-Teacher
 Bilibili.Livehime
@@ -210,6 +213,7 @@ Biscuit.Biscuit
 Bit4id.SignDesktop.InfoCamere
 BitSum.ProcessLasso.Beta
 Bitwarden.Bitwarden
+BlackwellSystems.agent-lsp
 BlastWave.BlastShield
 BleachBit.BleachBit
 BlenderFoundation.Blender
@@ -312,6 +316,7 @@ CloudCDN.Stratos
 Cloudflare.cloudflared
 Cloudflare.Warp
 clsid2.mpc-hc
+cmakefmt.cmakefmt
 co2lab.Anchors
 coccor.FastPad
 Codeby.RIGStats
@@ -480,6 +485,7 @@ Egress.Egress
 EKKOLearnAI.HermesStudio
 electerm.electerm
 ElectronicArts.EADesktop
+Electrum.Electrum
 ElementLabs.Bionic
 Elgato.ControlCenter
 EligianLabs.PIICrawlerCLI
@@ -494,6 +500,7 @@ EnvBox.Aura
 EpicGames.Lore
 EpicGames.LoreDesktop
 EpicGames.LoreServer
+EpicMorg.Enodia
 errata-ai.Vale
 ESEngine.ReasonixCLI
 ESEngine.ReasonixDesktop
@@ -618,6 +625,7 @@ GlennDelahoy.SnappyDriverInstallerOrigin
 GodotLauncher.Launcher
 GOG.Galaxy*
 GoHarbor.Harbor
+gohide.gohide
 GolangCI.golangci-lint
 Gold872.Elastic
 GoldWave.GoldWave
@@ -662,6 +670,7 @@ gstreamerproject.gstreamer
 gulbanana.gg
 hadc188.Reader
 HakanSeven.OpenCADStudio
+Haleclipse.CCometixLine
 Hanthor.BluefinCLI
 HARMAN.AdobeAIR
 HarumiWeb.Xlflow
@@ -917,6 +926,7 @@ Ling0727.QualityScalerGo.Cpu
 Ling0727.QualityScalerGo.Cuda
 Lingbao.EasyClaw
 LinuxContainers.Incus
+LinwoodCloud.Butterfly.Nightly
 lippdev.ConsoleMode
 Lirikpro.Zush
 liseami.DeepRant
@@ -1338,6 +1348,7 @@ OpenJS.Electron.44
 OpenJS.NodeJS
 OpenJS.NodeJS.22
 OpenJS.NodeJS.LTS
+OpenListTeam.OpenList
 openpubkey.opkssh
 OpenRCT2.OpenRCT2
 OpenRGB.OpenRGB
@@ -1442,6 +1453,7 @@ Proma.Proma
 ProtagonistLabs.FileLabs
 Proton.ProtonPass.CLI
 ProWare.QuickTrialBalancePro
+Proxyman.Proxyman
 Psynect.OmniMend
 ptweezy.cronstable
 Pulkitxm.Quinjet
@@ -1452,6 +1464,7 @@ pyfa.pyfa
 Pyonkichi.CLaunch
 qBittorrent.qBittorrent
 qBittorrent.qBittorrent.lt2
+QGIS.QField
 qingchencloud.ClawPanel
 qingyueyin.PureMusic
 QQRM.BrightWheel
@@ -1483,6 +1496,7 @@ Rem0o.FanControl
 RemcoStoeten.Dora
 RemcoStoeten.Skriuw
 Remeha.PRO
+Remio.RemioClient
 Remio.RemioHost
 Render.CLI
 Reon-Jin.JYYCode.Desktop
@@ -1747,6 +1761,7 @@ Tencent.Yuanbao
 Termalin.Termalin
 Termaxa.Termaxa
 TERMINATORmdel101.MAUS
+Termius.Termius.Beta
 Termoso.Termoso
 TerraformLinters.tflint
 TescoSW.CryptoNativeAppNG
@@ -1931,6 +1946,7 @@ Yaps.Yaps
 YARC.YARCLauncher
 Yerong.OfficeToolPlus
 yetone.Alma
+yetone.NextAITranslator
 YichengWang.Runner
 YouXiao.YXCalendar
 Youzini-afk.Varin
