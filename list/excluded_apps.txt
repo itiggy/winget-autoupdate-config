@@ -10,12 +10,13 @@
 a2aproject.a2acli
 AAAInternetPublishing.WTFast
 Ablaze.Floorp
+abooodbah.LeanDoc
+abooodbah.LeanMark
 Aburousan.Hilbert
 ActualBudget.ActualBudget
 AddLayer.DBine
 AdGuard.AdGuard
 ADInstruments.LabChart
-adkurz.btText
 AdLock.AdLock
 Adobe.*
 Adobe.Acrobat.Reader.64-bit
@@ -40,7 +41,6 @@ Aladin.eBook
 AlanBulan.TuneFree
 alecdotdev.Markpad
 alegauss.ClaudeCodeTray
-Alex313031.Thorium
 Alex37529.VoxSpica
 alexandrosnt.Reach
 Alibaba.AlibabaCloudCLI
@@ -52,7 +52,6 @@ Alibaba.QoderCLI.CN
 Alibaba.QoderWake
 Alibaba.Quark
 Alibaba.QwenWork.CN
-Alibaba.UC
 ALMARFELD.APIModelForge
 ALMARFELD.ConfigDoctor
 ALMARFELD.MetaClean
@@ -62,6 +61,7 @@ AlpaslanBek.Promptline
 AlperHan.CrossMacro
 AlphaJack.Rusticlone
 AlveSvaren.Resizer2
+AmarBego.Rscoop
 Amazon.AWSCLI
 Amazon.AWSCloudHSM.JCE
 Amazon.AWSCloudHSM.PKCS11
@@ -82,6 +82,8 @@ AnimeKaizoku.KaizokuServiceManager
 AnInsomniacy.Aria2Next
 Ankama.AnkamaLauncher
 Anki.Anki
+Anomaly.OpenCode
+Anomaly.OpenCode.Desktop
 antaresrvish.bomexpo
 Anthropic.Ant
 Anthropic.ClaudeCode
@@ -113,8 +115,8 @@ Argente.SystemRepair
 Argente.UninstallManager
 argoproj.argocd
 Argotronic.ArgusMonitor
-ArkDeploy.DriverHub
 ArtCraft.CadCraft
+ArtCraft.DesignCraft
 ArtCraft.EffectCraft
 ArtCraft.FilmCraft
 ArtCraft.GridCraft
@@ -193,7 +195,6 @@ Bazel.Bazelisk
 beekeeper-studio.beekeeper-studio
 Beeper.Beeper
 beeradmoore.dlss-swapper
-BelajarCaraBelajar.Snipset
 BellSoft.LibericaJDK.11.Lite
 BellSoft.LibericaJDK.17.Lite
 BellSoft.LibericaJDK.21.Lite
@@ -204,6 +205,7 @@ BellSoft.LibericaJRE.8.Full
 Beso1227.Deltempo
 bezzad.Downloader
 bggRGjQaUbCoE.PiliPlus
+BieleckiLtd.PrtScr
 Bilalmesk.SessionRecovery
 Bilibili.Livehime
 Bin-Huang.Chatbox
@@ -230,6 +232,7 @@ blacktop.ipswd
 BlackwellSystems.agent-lsp
 Blitz.Blitz
 Blueberry.FlashbackExpress.7
+Blur009.BlurAutoClicker
 bootandy.dust
 Bosyun.Pixso.CN
 BoundaryML.BAML
@@ -240,7 +243,6 @@ BRFTech.filex
 BrianApps.Sizer.Dev
 BridgeCommunications.AskClyde
 BrinkSoftware.IbisVoorInfra
-BrowserOS.BrowserClawServer
 BrowserOS.BrowserOS.Neo
 BrunnerBI.MeasureKiller
 BrunoBorges.ghx
@@ -297,6 +299,7 @@ charmbracelet.crush
 Chaython.WindowsMaintenanceTool
 chen08209.FlClash
 chenming0v0.OMPiUI
+CHerSun.NoSleep
 Chill-Astro.TMM
 ChilliBits.Spice
 ChrisLauinger77.QontrolPanel
@@ -340,7 +343,6 @@ Colliehq.Collie
 ColonyLabs.ScribeDesktopCapture
 Concourse.Fly
 CondaForge.Miniforge3
-ContentaSoft.ContentaConverter
 Cookieboty.Nomi
 CoolDesk.CoolDesk
 CopperGooseTech.CopperGooseNetworkMonitor
@@ -362,6 +364,7 @@ CrystalDewWorld.CrystalDiskInfo
 CrystalDewWorld.CrystalDiskInfo.AoiEdition
 CrystalDewWorld.CrystalDiskInfo.KureiKeiEdition
 CrystalDewWorld.CrystalDiskInfo.ShizukuEdition
+CSitteSoftwaretechnik.Diffoniq
 CtrlPrint.CtrlPrintTransferManager
 cURL.cURL
 CurveSeries.CurveSeries
@@ -369,7 +372,6 @@ CyberHive.Connect
 CylCastillo.AgentConsole
 d4vid87.stormdesk
 Dagger.Cli
-Dalux.Dalux
 damt.Eqho
 Dangbei.XiaowangScreenshot
 DanielKreutz.MRCPDFKompressor
@@ -433,6 +435,7 @@ dongdongbh.Mindwtr
 DonislawDev.BeanNetworkTester
 DonislawDev.TestingFilesGenerator
 DonutWare.Fladder.Nightly
+Douyu.DouyuLive
 dRofus.dRofus
 dRofus.dRofus.EXE
 Dropbox.Dropbox
@@ -480,6 +483,7 @@ ElementLabs.LMStudio
 Elgato.StreamDeck
 EligianLabs.PIICrawlerCLI
 Elsevier.MendeleyReferenceManager
+ElyPrismLauncher.ElyPrismLauncher.MSVC
 eMedley.examNBrowser
 emgeka.MK212DriveGlow
 emoacht.Monitorian
@@ -520,6 +524,7 @@ Excelano.xsync
 Excelsis.ExcelsisHelper
 Excelsis.ExcelsisView
 Exiv2.Exiv2
+Exoscale.CLI
 ExplodingCB.tempmanager
 EZBSystems.UltraISO
 f3d-app.f3d
@@ -557,7 +562,6 @@ Flowscripter.example-host-application
 Flowscripter.flowscripter-io-cli
 Flowscripter.template-bun-executable
 Flowseal.TGWSProxy
-flux.flux
 Fluxer.Fluxer
 Fluxzero.FluxzeroCLI
 Fly-io.flyctl
@@ -565,7 +569,6 @@ Fork.Fork
 Forkgram.Forkgram
 FoxDenSoftware.inFaux
 Frameio.FrameioDrive
-Framer.Framer
 FrancisBanyikwa.MediaDownloader
 FrankZhu.ZManagerCLI
 freenginx.nginx
@@ -577,7 +580,6 @@ FrSky.EthosSuite
 fsprojects.Paket
 FunRoutine.WorkFlowy
 Gabtyss.Py7z
-GAM-Team.gam.Portable
 Ganksoft.Nanopad
 GaoyangZhang.RivonClaw
 gaozhangmin.BoxPlayer
@@ -588,7 +590,6 @@ gcnanmu.BowenMusic
 GDevelop.GDevelop
 GDQuest.GDScript.Formatter
 genishs.Koukai2Editor
-GeoGebra.CalculatorSuite
 GeoParquet.Validator
 Gephi.Gephi
 GerardoFC8.ApostropheForWindows
@@ -617,6 +618,7 @@ GoACME.lego
 GodotEngine.GodotEngine.Mono
 GodotLauncher.Launcher
 GOG.Galaxy*
+gohide.gohide
 goldjg.cARL
 Gologin.Gologin
 GoodAccess.GoodAccess
@@ -631,7 +633,8 @@ Google.Chrome*
 Google.ChromeRemoteDesktopHost
 Google.CloudSDK
 Google.FirebaseCLI
-Google.GoogleDrive
+Google.GeminiDesktop
+Google.GoogleAppForDesktop
 Google.JapaneseIME
 Google.PlatformTools
 Google.QuickShare
@@ -646,8 +649,6 @@ GreenYogaInc.PDFLiteViewer
 GregorDadera.AIContextBuilder
 GSLBiotech.SnapGene
 GuardianEye.GuardianEye
-hadc188.Reader
-HaimaCloud.HaimaCloud
 HaiNguyen.Mechvibes
 HakanSeven.OpenCADStudio
 hamidfzm.Glyph
@@ -657,7 +658,6 @@ Happ.Happ
 HarumiWeb.Xlflow
 Hashicorp.Consul
 Hashicorp.Terraform
-Hashicorp.TerraformLanguageServer
 Hashicorp.Vault
 HashimKarim.UsageStat.Alpha
 hatayama.uloop
@@ -680,12 +680,11 @@ hiro5791.FileMerge
 HiroshibaKazuyuki.VOICEVOX
 HiroshibaKazuyuki.VOICEVOX.CPU
 HiroyukiFuruno.katana-desktop
-HMCL.HMCL.Dev
-HMCL.HMCL.Dev.CNB
 Hodeitek.HodeiShield
 Holepunch.Keet
 holland-built.Bloxsmith
 HolyPHP.HolyPHP
+hongfeiyucode.DeepSeekHarnessDesktop
 hoppscotch.Hoppscotch
 HoraceMaxwell.Horosa
 Hotovo.AiderDesk
@@ -705,7 +704,6 @@ IDRIX.VeraCrypt
 iFlytek.iFlyRecSI
 ima.menu
 ImputNet.Helium
-incldue.CineFlow
 IndigoByte.DrExplain
 Infiniact.IATerm
 infisical.infisical
@@ -718,13 +716,13 @@ Intermedia.Unite
 Intermedia.UniteTeamsDesktopPlugin
 InternetData.CLI
 InternetData.Mmdb
-Invantive.InvantiveControlForExcel
 Invantive.InvantiveEstateForWindows
 Invantive.InvantiveQueryTool
 Invantive.InvantiveRuntime
 Invantive.InvantiveStudio
 IObit.MalwareFighter
 IObit.SmartDefrag
+irwitzer.BookStitch
 iSlide.iSlide
 Issinoho.Loadbearer
 Iterate.Cyberduck
@@ -869,7 +867,6 @@ KnifMelti.WAU-Settings-GUI
 KoalaFacts.HeroParser
 kovvbojAV.CuePool
 Kraken.KrakenDesktop
-kts982.SAPODataExplorer
 kts982.WinTUI
 Kubernetes.clusterctl
 kubescape.kubescape
@@ -878,6 +875,7 @@ Kuddev.Pebrel
 kunobi-ninja.kunobi.Unstable
 kusutori.tonarink-cli
 kwaroran.RisuAI
+Lablicate.OpenChrom
 Langflow.Langflow
 lanxiuyun.Catrace
 laurentiu021.SysManager
@@ -912,6 +910,7 @@ Lody.Lody
 loft-sh.vcluster
 Logitech.*
 Loko.OnyxCode
+LongAT.LongATTest
 Longbridge.LongbridgeTerminal
 Loom.Loom
 looplj.AxonHub
@@ -1015,6 +1014,7 @@ Microsoft.VisualStudio.2022.RemoteTools
 Microsoft.VisualStudio.BuildTools
 Microsoft.WinDbg
 Microsoft.WindowsADK
+Microsoft.WindowsADK.WinPEAddon
 MIDAS.CIVILNX
 MIDAS.MDesk
 mikemaste1.Etherprof
@@ -1030,6 +1030,8 @@ misorafa.kioku
 MistralAI.MistralVibe.ACP
 misxzaiz.Polaris
 Mobirise.Mobirise
+MobiSystems.MobiOffice
+MobiSystems.MobiPDF
 MochaSoft.MochaTN3812
 Modrinth.ModrinthApp
 MolotovTV.Molotov
@@ -1118,7 +1120,6 @@ Mozilla.Firefox.ESR.he
 Mozilla.Firefox.ESR.hi-IN
 Mozilla.Firefox.ESR.hr
 Mozilla.Firefox.ESR.hsb
-Mozilla.Firefox.ESR.hu
 Mozilla.Firefox.ESR.hy-AM
 Mozilla.Firefox.ESR.ia
 Mozilla.Firefox.ESR.id
@@ -1129,7 +1130,6 @@ Mozilla.Firefox.ESR.ka
 Mozilla.Firefox.ESR.kab
 Mozilla.Firefox.ESR.kk
 Mozilla.Firefox.ESR.km
-Mozilla.Firefox.ESR.kn
 Mozilla.Firefox.ESR.ko
 Mozilla.Firefox.ESR.lij
 Mozilla.Firefox.ESR.lt
@@ -1158,7 +1158,6 @@ Mozilla.Firefox.ESR.sl
 Mozilla.Firefox.ESR.son
 Mozilla.Firefox.ESR.sq
 Mozilla.Firefox.ESR.sr
-Mozilla.Firefox.ESR.sv-SE
 Mozilla.Firefox.ESR.szl
 Mozilla.Firefox.ESR.ta
 Mozilla.Firefox.ESR.te
@@ -1172,7 +1171,6 @@ Mozilla.Firefox.ESR.ur
 Mozilla.Firefox.ESR.uz
 Mozilla.Firefox.ESR.vi
 Mozilla.Firefox.ESR.xh
-Mozilla.Firefox.ESR.zh-CN
 Mozilla.Firefox.ESR.zh-TW
 Mozilla.Firefox.et
 Mozilla.Firefox.eu
@@ -1256,10 +1254,10 @@ MRHConsultants.ContactAttic
 MRHConsultants.DocAttic
 MRHConsultants.EmailAttic
 MRHConsultants.PictureAttic
+msitarzewski.AgencyAgents
 MSKazemi.YazSes
 mttzzz.PoE2Oracle
 muchobliged.SimpleDoomLauncher
-MullvadVPN.MullvadBrowser
 Multica.MulticaCLI
 Multica.MulticaDesktop
 Mun1to.TaskbarGroupsFluent
@@ -1297,13 +1295,17 @@ Nikse.SubtitleEdit
 NimaShafie.OxideSLOC
 NimbusAgent.Nimbus
 ningbainb.DeepSeekHarnessDesktop
+nkiyohara.Corresync
 NoFaff.InstallerClean
 nohwnd.Boxboard
 NoirArchitects.Ncored
 nomacs.nomacs
+NordicSemiconductor.nrfutil
 NordSecurity.NordLocker
 Northbit.Prisment
 NortheBridge.LuminalShine
+Notch.NotchLC.AdobeCCPlugin
+Notch.NotchLC.QuickTimeAVIPlugin
 NotedeckDev.NoteDeck
 Notion.ntn
 Novara.Novara
@@ -1319,6 +1321,7 @@ Nvidia.GeForceNow
 Nvidia.Nsight.Compute
 Objective.Trapeze
 Obsidian.Obsidian
+OCBase.OCCT.Personal.Mono
 ODA.ODADrawingsExplorer
 ODA.ODAFileConverter
 ODA.ODAViewer
@@ -1368,7 +1371,6 @@ OrbForge.Orb.EXE
 OrchestratorInc.AgentOrchestrator
 OrgMentem.zotio
 Outcasts.Fuseforks
-Outcasts.Lorekeel
 Overcaption.Overcaption
 owayo.astro-sight
 owenlamont.ryl
@@ -1403,6 +1405,7 @@ pkgconf.pkgconf
 PlanetScale.CLI
 PLFJY.ContextMenuMgrPlus
 pmqueiroz.Nova
+pnpm.pnpm
 PocketSync.PocketSync
 poco-ai.Agentero
 PolarGoose.BluetoothDevicePairing
@@ -1428,11 +1431,11 @@ Proma.Proma
 Prometheus.WindowsExporter
 PROSA.Log4View
 ProtagonistLabs.FileLabs
-Proton.ProtonDrive
 Proton.ProtonMail
 Proton.ProtonPass.CLI
 Proton.ProtonVPN
 Prusa3D.PrusaSlicer
+PSerban93.Achievements
 Psyche.Kelivo
 ptweezy.cronstable
 Pulkitxm.Quinjet
@@ -1530,13 +1533,11 @@ Roman-16.ProtonCLI
 RomanCuisset.MicCamWatch
 RomanCuisset.OctetLedger
 Romanitho.Winget-AutoUpdate
-RongleCat.GrokApp
 RonsPlace.DataEdit.Lite
 Rorkai.ASC
 RoxyBrowser.RoxyBrowser
 RoyQu.RedPanda-C++
 rpaasch.AulaSync
-rsteube.Carapace
 Ruffle.Ruffle
 rugbedbugg.resonanceid-cli
 Rujax.LateNight
@@ -1553,11 +1554,11 @@ S42yt.FreSH.Portable
 SaaSGroup.Tower
 Saghul.TxikiJS
 Sakana-yuyu.cursor-byok
+SambuddhaRoy.VerzaNext
 SandroMani.gImageReader
 Sanford.lsnet
 Sarat.MarkQuill
 SauceLabs.forwarder
-SchemaSmith.SchemaSmith
 SchoolCraft.WorksheetCrafter
 SchoolCraft.WorksheetCrafter.Trial
 ScreamingFrog.SEOSpider
@@ -1588,6 +1589,7 @@ SFLinux.Jami.Beta
 SFXTechInnovation.SimpleFixAI
 shadijhade.Glint
 Sharafutdinov.RevitDevLoader
+ShareX.ShareX
 ShianMike.SHARPpy-Reimagined
 shihuili1218.RSSH
 Shilihu.Mubu
@@ -1612,6 +1614,7 @@ Slidict.Wip
 Slido.Slido
 Smallstep.step-desktop
 SmartBear.ReadyAPIVirtServer
+SmokeTurner.Vouch
 snapADDY.VisitReport
 Snapmaker.OrcaSlicer
 SnlperStripes.ClaudeAccountSwitcher
@@ -1680,7 +1683,6 @@ Stellar.StellarCLI
 StepFun.StepCode
 stern.stern
 SteveTheKiller.Killendar
-SteveTheKiller.KillerNotes
 SteveTheKiller.KillerPDF
 SteveTheKiller.KillerScan
 SteveTheKiller.KillerShell
@@ -1713,7 +1715,6 @@ TabTin.TabTin
 taiki-e.parse-changelog
 Tailscale.Tailscale
 TailwindLabs.TailwindCSS
-tanaton.mendo
 TandemHealth.Tandem
 TAPATCH.TAHub
 TaskManagerPlus.TaskManagerPlus
@@ -1724,12 +1725,14 @@ TechSmith.Camtasia
 Tegrona.TegronaLite
 Teispace.Teitunnel
 Telegram.TelegramDesktop
+Telerik.Fiddler.Everywhere
 Temporal.TemporalCLI
 Tencent.CodeBuddy.CN
 Tencent.ima-copilot
 Tencent.TencentMeeting
 Tencent.TencentVideo
 Tencent.WeChat.Universal
+Tencent.WeixinDevTools
 Tencent.WeType
 Tencent.WorkBuddy.Global
 Tencent.Yuanbao
@@ -1772,14 +1775,15 @@ TragicCode.BuslyCLI
 Tricerat.ScrewDriversClient
 Trinavo.AllInOneMessengerHub
 TRUSTSING.iDefender
+TRUSTSING.iDefender.EN
 Tsabo.ClipMate
 tsouth89.Ceiling
 tsouth89.CubbyClipboard
 Tutanota.Tutanota
 TVasilev.RainCleaner
-twpayne.chezmoi
 Ubisoft.Connect
 Ultimaker.Cura
+UmageAI.CodeShellManager
 Uncaged.Uncaged
 Unibo.Alchemist
 UniClipboard.UniClipboard
@@ -1792,11 +1796,11 @@ UnslothAI.Unsloth
 usual2970.Certimate
 utkuozdemir.nvidia_gpu_exporter
 uvncbvba.UltraVNC
-v1k70rk4.HASSAgentNET10
 v2rayA.v2rayA
 valinet.ExplorerPatcher
 VapourSynth.VapourSynth
 vatis-project.vAtis
+Veeam.VeeamAgent
 Vencord.Vesktop
 Veracode.CLI
 Vestris.Excalc
@@ -1822,11 +1826,13 @@ Voiden.Voiden-Beta
 Volko61.Merge360
 Vonage.VonageBusiness
 VovSoft.DownloadMailboxEmails
+VovSoft.HealthBreakReminder
 VovSoft.VovMusicPlayer
 VPad.Helper
 VPNDetection.CLI
 vshulcz.deja-vu
 vzhd1701.GridPlayer
+WabbajackTools.Wabbajack
 Wacom.WacomTabletDriver
 Wakatime.CLIWakatime
 walles.moor
@@ -1901,6 +1907,7 @@ yyqh01.reaper_yyqh
 ZedIndustries.Zed
 ZedIndustries.Zed.Preview
 Zen-Team.Zen-Browser
+Zen-Team.Zen-Browser.Twilight
 ZenPrivacy.ZenDesktop
 Zenvara.Zen
 ZermeloSoftwareBV.ZermeloDesktop
