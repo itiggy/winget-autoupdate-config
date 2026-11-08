@@ -5,6 +5,7 @@
 13xforever.ps3-disc-dumper
 15722UsefulApp.WorkspaceLauncherForVSCode
 1lck.Lithe
+4gray.iptvnator
 4tNiagaraSoftware.4tTrayMinimizer
 64Gram.64Gram
 7zip.7zip
@@ -145,6 +146,7 @@ Ascensio.AVSMediaPlayer
 Ascension.Launcher
 Aserto.Topaz
 Ashampoo.AshampooApp
+AsjerS.VeSCU
 AsterPrivacy.AsterMail
 astral-sh.ruff
 astral-sh.ty
@@ -227,7 +229,6 @@ BinaryMark.BatchPhotoFace
 BinaryMark.BiorhythmsCalculator
 BiomeJS.Biome
 Bionus.Imgbrd-Grabber
-BirknerAlex.Kubyl
 Biscuit.Biscuit
 Bisq.Bisq
 Bit4id.SignDesktop.InfoCamere
@@ -328,6 +329,7 @@ Clockify.Clockify
 closeio.Close
 Cloudfleet.CLI
 CloudTalk.Phone
+CloudyWing.AiAccountManager
 clsid2.mpc-hc
 CMU.CLAN
 co2lab.Anchors
@@ -421,7 +423,6 @@ Devolutions.Cloud
 Devolutions.Launcher
 Devolutions.Pinget
 Devolutions.RemoteDesktopManager
-DevProxy.DevProxy
 Dialpad.Dialpad
 DifferentAI.OpenWork
 DigitalExtremes.Soulframe
@@ -469,7 +470,6 @@ EaseUS.PartitionMaster
 Easeware.DriverEasy
 EazyHood.AppCloner
 Eccam.ReqView
-EclipseAdoptium.Temurin.17.JDK
 EclipseAdoptium.Temurin.8.JDK
 EclipseAdoptium.Temurin.8.JRE
 EclipseCommunity.r3dfox
@@ -735,6 +735,7 @@ Invantive.InvantiveQueryTool
 Invantive.InvantiveRuntime
 Invantive.InvantiveStudio
 IObit.SmartDefrag
+ipatalas.AppSwitcher
 irwitzer.BookStitch
 iSlide.iSlide
 Issinoho.Loadbearer
@@ -764,7 +765,6 @@ jefuriiij.PingMeter
 jens-duttke.usage-monitor-for-claude
 Jeon1691.ClipSync
 JetBrains.DataGrip
-JetBrains.dotTrace
 JetBrains.dotUltimate
 JetBrains.Gateway
 JetBrains.GoLand
@@ -772,7 +772,6 @@ JetBrains.IntelliJIDEA
 JetBrains.PyCharm
 JetBrains.RubyMine
 JetBrains.RustRover
-JetBrains.TeamCity
 JetBrains.TeamCityCLI
 JGraph.Draw
 Jianjing.XLJSCI
@@ -824,9 +823,6 @@ KDE.Klickety
 KDE.Konsole
 KDE.Kontact
 KDE.KSudoku
-KDE.KTuberling
-KDE.Lokalize
-KDE.LSkat
 KDE.Okular.AppX
 KDE.Ruqola
 Keboola.KeboolaCLI2
@@ -836,7 +832,6 @@ kil0bit-kb.scrcpy-gui
 KiloCode.Kilo
 KiloCode.Kilo.Baseline
 Kindness-Kismet.Stelliberty
-kipergrof.ShortcutForge
 kjanat.actionlint
 kkamegawa.Relaypublisher
 KLayout.KLayout
@@ -1035,25 +1030,12 @@ moq-dev.moq-relay
 MoSheng.QuickClipboard
 mostlygeek.llama-swap
 Mouseww.Prometheus
-Mozilla.Firefox.az
 Mozilla.Firefox.Beta.MSIX
 Mozilla.Firefox.cy
 Mozilla.Firefox.DeveloperEdition.MSIX
-Mozilla.Firefox.es-ES
-Mozilla.Firefox.ESR.an
-Mozilla.Firefox.ESR.fi
-Mozilla.Firefox.ESR.ga-IE
 Mozilla.Firefox.ESR.hi-IN
-Mozilla.Firefox.ESR.ka
-Mozilla.Firefox.ESR.km
-Mozilla.Firefox.ESR.my
-Mozilla.Firefox.ESR.ne-NP
-Mozilla.Firefox.ESR.zh-TW
 Mozilla.Firefox.et
-Mozilla.Firefox.eu
 Mozilla.Firefox.ff
-Mozilla.Firefox.hi-IN
-Mozilla.Firefox.hr
 Mozilla.Firefox.id
 Mozilla.Firefox.ja
 Mozilla.Firefox.ka
@@ -1062,8 +1044,6 @@ Mozilla.Firefox.MSIX
 Mozilla.Firefox.Nightly.MSIX
 Mozilla.Firefox.pa-IN
 Mozilla.Firefox.sl
-Mozilla.Firefox.xh
-Mozilla.Firefox.zh-TW
 Mozilla.Firefox*
 Mozilla.jsshell
 Mozilla.Nimbus.CLI
@@ -1455,7 +1435,6 @@ SenseTime.OfficeRaccoon
 Sentry.sentry-cli
 Separan.Core
 SERGEYDJUM.dwmEOTFrs
-SergeyMoskalev.CarambaSwitcher.Pro
 SerialStudio.SerialStudio
 Serverdata.Ascend
 Servo.Servo.Nightly
@@ -1600,10 +1579,10 @@ Tadis.ILens
 TagStudioDev.TagStudio
 TailwindLabs.TailwindCSS
 Talyh.The
+tanaton.mendo
 TandemHealth.Tandem
 TAPATCH.TAHub
 TASEmulators.BizHawk
-TaskManagerPlus.TaskManagerPlus
 TaskSlinger.TaskSlinger
 tbphp.GPTLoad
 TeamProwlarr.Prowlarr
@@ -1659,7 +1638,6 @@ TONresistor.TONBrowser
 TonyD365.YTKTV
 Toolport.Toolport
 TooYi.IShell
-topgrade-rs.topgrade
 TossPlace.TossKiosk
 TossPlace.TossPOS
 Tox.qTox
@@ -1678,6 +1656,7 @@ Tutanota.Tutanota
 TVasilev.RainCleaner
 TVasilev.RainDriver
 Twinkstar.TwinkstarBrowser
+TX230.winproc-tui
 txn2.kubefwd
 Tyroger.Capiory
 Ubisoft.Connect
