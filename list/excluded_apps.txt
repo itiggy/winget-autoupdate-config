@@ -49,7 +49,6 @@ alegauss.ClaudeCodeTray
 Aleqsd.CodexTracker
 Alex313031.Thorium.AVX2
 Alex37529.VoxSpica
-alexandrosnt.Reach
 alexx2000.DoubleCommander
 Alibaba.AlibabaCloudCLI
 Alibaba.OpenCodeReview
@@ -386,7 +385,6 @@ Devlint.GitWand
 Devlooped.ndx
 DevMando.MandoCode.Desktop
 devnull03.HarnessPicker
-Devolutions.Cli
 Devolutions.Cloud
 Devolutions.Launcher
 Devolutions.Pinget
@@ -421,6 +419,7 @@ DoltHub.Dolt
 domcyrus.RustNet
 dongdongbh.Mindwtr
 DORON177.BatteryHub
+Doublebridge.ROSETTAeCTDViewer
 DoublOneStudios.Glucose
 Douyu.DouyuLive
 Draftable.Draftable
@@ -443,7 +442,6 @@ EclipseAdoptium.Temurin.8.JDK
 EclipseAdoptium.Temurin.8.JRE
 EclipseCommunity.r3dfox
 eeyzs1.DevWit
-Eigent.Eigent
 eitsupi.arf
 EKKOLearnAI.EkkoStudio
 electerm.electerm
@@ -922,7 +920,6 @@ Microsoft.Sysinternals.PsTools
 Microsoft.Sysinternals.RDCMan
 Microsoft.Teams*
 Microsoft.tgrep
-Microsoft.VisualStudio.2022.RemoteTools
 Microsoft.WinAppCli
 Microsoft.WinDbg
 Microsoft.WindowsADK
@@ -1024,7 +1021,6 @@ NimbusAgent.Nimbus
 NiteoGmbH.ParetoSecurity
 nkiyohara.Corresync
 NoaSansH.Thermalyn
-nohwnd.Boxboard
 nomacs.nomacs
 NomanDhoni.BlinkEye
 NordicSemiconductor.nrfutil
@@ -1073,6 +1069,16 @@ OpenCLICollective.codereview-cli
 OpenCLICollective.google-readonly
 OpenCLICollective.jira-ticket-cli
 OpenDCL.Studio
+OpenLogic.OpenJDK.11.JDK
+OpenLogic.OpenJDK.11.JRE
+OpenLogic.OpenJDK.17.JDK
+OpenLogic.OpenJDK.17.JRE
+OpenLogic.OpenJDK.21.JRE
+OpenLogic.OpenJDK.22.JDK
+OpenLogic.OpenJDK.22.JRE
+OpenLogic.OpenJDK.25.JDK
+OpenLogic.OpenJDK.8.JDK
+OpenLogic.OpenJDK.8.JRE
 OpenRCT2.OpenRCT2
 OpenRunDev.OpenRun
 OpenScreen.OpenScreen
@@ -1642,6 +1648,7 @@ Wibu-Systems.CodeMeterRuntimeKit
 Wildfoundry.DataplicityCLI
 WilsonGlasser.BaseMaster
 Wimysoft.WimyGit.Nightly
+Wiremux.Wiremux
 WisprFlow.WisprFlow
 wmwlwmwl.LumeTerm
 wmwlwmwl.LuminSSH
