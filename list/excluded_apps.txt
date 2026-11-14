@@ -121,6 +121,7 @@ Anthropic.ClaudeCode
 Anthropic.ClaudeScience
 Anysphere.Cursor
 anyvm-org.anyvm
+AnywhereLabs.DSHDesktop
 AOMEI.PartitionAssistant
 Apache.Thrift
 APPIT.VideoDownloader
@@ -274,6 +275,7 @@ Brother.iPrintScan
 BRÖTJE.ProfiTool
 BrowserOS.BrowserClawServer
 BtbN.FFmpeg.LGPL.9.0
+BuilderIO.BuilderIO
 Buildkite.Agent
 Buildkite.CLI
 buildpacks.pack
@@ -422,6 +424,7 @@ DelphiBlocks.Blocks
 demkada.ArgyCode
 Descript.Descript
 DesktopPlus.DesktopPlus
+Devart.TMetric
 DevelopedMethods.playit
 DeveloperInABox.AgentDVR
 developersu.ns-usbloader
@@ -478,6 +481,7 @@ ds3owl.IsleBar
 DubbInc.DubbDesktop
 DuckDuckGo.DesktopBrowser
 DuckDuckGo.DesktopBrowser.Preview
+Dunes.WinNc
 Duplicati.Duplicati.Canary
 DynoTable.DynoTable
 EarendilWorks.pi
@@ -546,7 +550,6 @@ FactoryAI.Factory
 FAForever.FAFClient
 FahrenheitResearch.ArWen
 Famatech.RadminVPN
-Fanch-hui.CodexBridge
 fanchengliu.codeusagemonit
 Fangyuan025.Chaty
 fathah.HermesDesktop
@@ -647,6 +650,7 @@ Google.Chrome
 Google.Chrome.Beta
 Google.Chrome.Beta.EXE
 Google.Chrome.Canary
+Google.Chrome.Dev
 Google.Chrome.EXE
 Google.Chrome*
 Google.CloudSDK
@@ -665,7 +669,6 @@ GrafanaLabs.xk6
 GrainIntelligence.Grain
 GramEditor.Gram
 Granola.Granola
-Graphviz.Graphviz
 Gravitational.Teleport
 Gravitational.TeleportConnect
 GregorDadera.AIContextBuilder
@@ -917,6 +920,7 @@ LedgerHQ.LedgerLive
 LeenHawk.GPROXY.CLI
 LeenHawk.GPROXY.Desktop
 leezer3.OpenBVE
+legowerewolf.AO3Fetch
 lehhair.PiUI
 Lenovo.LeAppStore
 LesFerch.WinSetView
@@ -930,6 +934,7 @@ LibreWolf.LibreWolf
 lidge-jun.OpenCodex
 LifetimeLabs.PrivacyNotes
 likehao19.InkNote
+LilBuba.K8
 Lime.Lime
 linebender.resvg
 Lingbao.EasyClaw
@@ -1008,6 +1013,7 @@ MetanoicArmor.I2PChat.TUI
 metasequoiaime.MetasequoiaIME
 mg-chao.snow-shot
 Mibuw.miPDFconvert
+MichalTrojnara.osslsigncode
 MicroClaw.MicroClaw
 MicroSIP.MicroSIP
 MicroSIP.MicroSIP.Lite
@@ -1049,6 +1055,7 @@ Microsoft.etl2pcapng
 Microsoft.EventLogExpert
 Microsoft.FoundryDevPack
 Microsoft.FoundryLocal
+Microsoft.Gaming
 Microsoft.Gaming.XBOXDeveloperCLI
 Microsoft.Git
 Microsoft.NuGet
@@ -1063,6 +1070,7 @@ Microsoft.ProfileExplorer
 Microsoft.PurviewInformationProtection
 Microsoft.RemoteDesktopClient
 Microsoft.SafetyScanner
+Microsoft.SQLServerManagementStudio
 Microsoft.SQLServerManagementStudio.22
 Microsoft.Sysinternals.MoveFile
 Microsoft.Sysinternals.PendMoves
@@ -1639,7 +1647,6 @@ Paseo.Paseo
 patrick-1984.HandyTool
 PaulGiralt.TranslatorX
 PaulSori.mStreamServer
-PavelStupka.TandemCommander
 payhereinc.PayhereSeller
 PaytaLab.PassOrder
 pbek.QOwnNotes
@@ -1669,6 +1676,7 @@ pnpm.pnpm
 poco-ai.Agentero
 Podman.CLI
 PolarGoose.Handle2
+PolarGoose.ShowWhatProcessLocksFile
 PortSwigger.BurpSuite
 Posit.Positron
 Posit.RStudio
@@ -1692,6 +1700,7 @@ PrimeBuild.ThreadPilot
 PrismShadow.PenguinHarness
 Privax.HMAVPN
 Prog.ProgDVB.Free
+PROJECTTEAMFORYOU.WindowLayout
 Proma.Proma
 PromecSystems.Bottleneck
 ProtagonistLabs.FileLabs
@@ -1715,7 +1724,6 @@ Qingfeng.HeyboxWow
 Qingjian.Qingjian
 qingyueyin.PureMusic
 Qinjingxue.SunPack
-QuadrantMC.Quadrant
 QuantumNous.NewAPI
 Quetzalcohuatl.FastMarkdownViewer
 Quicken.Quicken
@@ -1767,8 +1775,6 @@ Rique.Flashback
 RitvikDayal.FeatherWall
 RiverEdgeVentures.Softspoken
 RiverScript.RiverScript
-rizukirr.apic
-rizukirr.apic-gui
 Robertg761.HADesktopWidget
 RobertoB.SussurroIA
 Roblox.Roblox
@@ -1816,6 +1822,7 @@ Scilab.Scilab
 ScooterSoftware.BeyondCompare.5
 ScreamingFrog.LogFileAnalyser
 ScreenSlinger.ScreenSlinger
+ScryerMedia.Scryer
 ScryerMedia.Weaver
 sdcxb.Codem
 Seafuture.NetpasDistance
@@ -1987,6 +1994,7 @@ TeamFlos.Phira
 TeamViewer.TeamViewer
 TeamViewer.TeamViewer*
 TechSmith.Audiate
+TechSmith.Snagit.2027
 Teispace.Teitunnel
 Telegram.TelegramDesktop
 Tempr.Cli
@@ -2003,7 +2011,6 @@ TenzenStudio.PhotonStudio
 Termalin.Termalin
 Termaxa.Termaxa
 TERMINATORmdel101.MAUS
-Termius.Termius
 Termoso.Termoso
 Terraform-docs.Terraform-docs
 Terramate.CLI
@@ -2087,6 +2094,7 @@ Valtrainer.ValTrainer
 vantoan1511.Orbit
 vdnp.ProjeYoneticisi
 Ven4ru.Ven4Tools
+Verdictan.Verdictan
 VeryGoodSoftware.MarkdownStyle
 VibeBrains.VibeIDE
 Vicinae.Vicinae
@@ -2129,6 +2137,7 @@ Weita.AitNative
 WendyLabs.Wendy
 WestWind.MarkdownMonster
 wez.wezterm.nightly
+WezOps.Agent
 whiteguo233.OpenBiliClaw
 WhiteTowerAI.OhMyGame
 WhosOn.WhosOnDesktopClient
