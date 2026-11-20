@@ -47,12 +47,14 @@ AGTEK.Trackwork
 AGTEK.UndergroundSA
 ahmedhmam1994.VoxScribe
 AIDotNet.NextCoWork
+AIPOCH.Open-Science
 Aircall.AircallWorkspace
 Akiflow.Akiflow
 Akka.Cli
 AlanBulan.TuneFree
 AlDanial.Cloc
 alegauss.ClaudeCodeTray
+aleksandrreva-eng.llm-test-bench
 Alex313031.Thorium.AVX2
 Alex313031.Thorium.SSE4
 Alibaba.AlibabaCloudCLI
@@ -69,6 +71,7 @@ Alibaba.Quark
 Alibaba.QwenWork.CN
 AllroundAutomations.PLSQLDeveloper
 AlphaTheta.rekordbox
+altamkhan.Otterly
 altfins.af
 Altova.LicenseServer.3
 amacneil.dbmate
@@ -111,6 +114,7 @@ AnyDesk.AnyDesk
 Anysphere.Cursor
 AnyStorage.AnyStorage
 AnywhereLabs.DSHDesktop
+ApacheLounge.httpd
 Appest.Dida
 Apps2Samsung.Apps2Samsung
 AppWork.JDownloader*
@@ -260,6 +264,7 @@ can1357.oh-my-pi
 CanhCutTeam.CanhCutTeamLauncher
 Canonical.Multipass
 Canonical.UbuntuProforWSL
+caomengxuan666.WinuxCmd
 CaptainVII.Corral
 CardExchange.Producer
 CareScribe.TalkType
@@ -310,7 +315,6 @@ co2lab.Anchors
 coccor.FastPad
 code-yeongyu.OmO
 code-yeongyu.OmO.Baseline
-Codeby.RIGStats
 Codedaptive.MOOTx01
 Coder.Coder
 Coder.CoderDesktop
@@ -471,7 +475,6 @@ ElroiTheCreator.HolyBible
 emoacht.Monitorian
 EmoFa.tsuzuki
 ente-io.auth-desktop
-Enter-tainer.typstyle
 EpicGames.EpicOnlineServicesSDK.CSharp
 EpicGames.Lore
 EpicGames.LoreDesktop
@@ -491,6 +494,7 @@ Evernote.Evernote
 Evernote.Evernote.CN
 EvgenyCherpak.RemoteHelperApp
 ExacqTechnologies.exacqVisionClient
+ez3689.Breakout
 EZBSystems.UltraISO
 FabioColor.AdvancedDirtRemoval
 FACEITLTD.FACEITAC
@@ -513,14 +517,12 @@ Fileman.HisuiPDF
 FinalWire.AIDA64.Engineer
 FinalWire.AIDA64.Extreme
 FinalWire.AIDA64*
-fioletoven.b4n
 FireAlpaca.FireAlpaca
 FireDaemon.OpenSSL
 fjrevoredo.MiniDiarium
 FlawlessWidescreen.FlawlessWidescreen
 Fleet.fleetctl
 flick9000.WinScript
-floatpane.matcha
 Floweb.Floweb
 Flowscripter.example-host-application
 Flowscripter.flowscripter-io-cli
@@ -532,11 +534,11 @@ Fluxzero.FluxzeroCLI
 Fly-io.flyctl
 Folge.Folge
 Fomovet.clipkeep
-ForceAutoHDR.7gxycn08
 Formagrid.Airtable
 Formlabs.PreForm
 FortranLang.fpm
 Fossorial.Pangolin
+Fr3nezy.PolyLoupe
 Framefilter.Keyroost
 Frameio.FrameioDrive
 FrameworkComputer.framework_tool
@@ -545,6 +547,7 @@ from104.QCalc
 FunRoutine.WorkFlowy
 FxSound.FxSound.Beta
 g0orx.hpsdr-rs
+Gabriel2392.BrokkrFlash
 GaijinEntertainment.daslang
 GaijinNetwork.Enlisted
 GAM-Team.gam
@@ -560,7 +563,6 @@ gcnanmu.BowenMusic
 GeneralAction.Emdash
 genishs.Koukai2Editor
 genotrance.px
-GerardoFC8.ApostropheForWindows
 gfgRoyal.gfgLock
 gg.ai.ggcode-cli
 gg.ai.ggcode-desktop
@@ -764,6 +766,7 @@ Kakao.KakaoTalk
 Kalmix.Trace
 Kameleo.App
 Kamjin.Chatless
+kanban-rs.kanban
 kangfenmao.CherryStudio
 karakun.OpenWebStart
 karefined-eng.EleViewer
@@ -828,6 +831,7 @@ kdlbs.KanDev
 Keboola.KeboolaCLI2
 KeeperSecurity.KeeperDB
 KeeperSecurity.PasswordImporterStandalone
+Keethesh.Roomy
 KellyLford.QuickMail
 Kensington.KensingtonKonnect
 Keskiyo.KesVio
@@ -931,7 +935,6 @@ MattJColes.lgtmaybe
 MaxValueSoftware.PokerTracker4
 MayDay.SnowApp
 mayocream.koharu
-mblua.AgentsCommander
 MediaHuman.YouTubeDownloader
 MeduzaVPN.MeduzaVPN
 Mega.MEGASync
@@ -1197,6 +1200,7 @@ niconico.nair.live
 NightmareTv.NightmareTV
 Niko1221.Strata
 nim.nim
+nimble-123.skills-hub
 NimbusAgent.Nimbus
 ningbainb.DeepSeekHarnessDesktop
 Nlitesoft.NTLite
@@ -1234,7 +1238,6 @@ Omnissa.HorizonClient
 OneAppPlatform.Jolta
 OnjLouis.SensorReadout
 Ontiqo.Guestbay
-oPaozinh0.YTMDesktopAdblock
 Open-Component-Model.ocm-cli
 OpenAI.ChatGPT
 OpenAI.Codex
@@ -1351,8 +1354,6 @@ ptrinh.VietTelex
 Pulkitxm.Quinjet
 Pulsar-Edit.Pulsar
 Pulumi.Pulumi
-pyRevit.pyRevit
-pyRevit.pyRevit.CLI
 qBittorrentCompanion.qBittorrentCompanion
 qfw66.XiugouTV
 Qingfeng.HeyboxAccelerator
@@ -1394,7 +1395,6 @@ Reothor.Elevate.CLI
 Reqable.Reqable
 ReversingLabs.SAFEViewer
 Revopoint.RevoScan.6
-rexenv.rexenv
 rgdevment.Tisty
 RIA.DigiDoc4
 RIA.Libdigidocpp
@@ -1437,6 +1437,7 @@ SABnzbdTeam.SABnzbd
 Safing.Portmaster
 Sakana-yuyu.cursor-byok
 Sandover.Ergo
+Sanford.lsmd
 Sangoma.SangomaTeamHub
 SAP.btptf
 SAP.SapMachine.17.JDK
@@ -1582,6 +1583,7 @@ TabTin.TabTin
 Tachosys.digiCentralArchiveSync
 Taiko2k.TauonMusicBox
 Tamakichi23.GeminiUsageMonitor
+tamvcspk.tgmirror
 TandemHealth.Tandem
 TaoufikJabbari.Tiger
 TAPATCH.TAHub
@@ -1785,7 +1787,6 @@ WaveMetrics.IgorPro.10
 WeasisTeam.Weasis
 WenanLin.wenget
 WhatPulse.WhatPulse
-whiteguo233.OpenBiliClaw
 WhiteTowerAI.OhMyGame
 WhoIsMars.LinerFM
 Wiesemann-Theis.USB-Redirector
