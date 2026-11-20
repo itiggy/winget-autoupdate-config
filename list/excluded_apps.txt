@@ -67,6 +67,7 @@ AlphaTheta.rekordbox
 altfins.af
 Altova.LicenseServer.3
 alymurtza.Mascot
+amacneil.dbmate
 AmanHarwara.Altus
 AmariahAK.AtlarixCLI
 Amazon.AWSCLI
@@ -136,6 +137,7 @@ ArtCraft.TextureCraft
 ArtemChepurnyi.Keyguard
 Articulate.Articulate360
 Asana.Asana
+Ascensio.AVSVideoConverter
 asciimoo.hister
 Aserto.Topaz
 Ashfaaq18.OpenNetMeter
@@ -146,6 +148,7 @@ astral-sh.uv
 Astronet.Scholaread
 athrvk.Vayu
 Atlassian.AtlassianCLI
+Atuinsh.Atuin
 aube.aube
 AudioCodes.SyslogViewer
 AuraMarker.Lattics
@@ -200,7 +203,6 @@ Bitvise.SSH.Server
 blacktop.ipsw
 blacktop.ipswd
 Blitz.Blitz
-Blockworked.Blockwork
 Blueberry.FlashbackExpress.7
 Bluebits.Trikker
 BlueHeisenberg.SCSKiller
@@ -268,6 +270,7 @@ Chaython.WindowsMaintenanceTool
 chen08209.FlClash
 ChengSoon.Belfry
 Chiappina.SafeShot
+ChilliBits.Spice
 ChrisLauinger77.QontrolPanel
 Chromatic.Sensitivity
 Chromium.ChromeDriver
@@ -364,6 +367,7 @@ DeepSeek.DeepSeekHarnessDesktop
 DefangLabs.Defang
 Defisym.FFmpeg.GPL.7.1
 Defisym.FFmpeg.LGPL.7.1
+degoya.rDownloader
 Dell.SystemUpdate
 DeltaChat.DeltaChat
 DesktopPlus.DesktopPlus
@@ -385,6 +389,8 @@ Discord.Discord
 Discord.Discord.arm64
 Discord.Discord.Canary
 Discord.Discord.Canary.arm64
+Discord.Discord.PTB
+Discord.Discord.PTB.arm64
 DiscWright.DiscWright
 DitoTechnologies.BCue
 Divelements.SkyDemon
@@ -399,7 +405,6 @@ DoltHub.Dolt
 DominicLutz.BenchMeisterPCCheck
 dongdongbh.Mindwtr
 DonutWare.Fladder
-DonutWare.Fladder.Nightly
 DOSBoxStaging.DOSBoxStaging
 dprint.dprint
 DragonLang.Dragon
@@ -526,6 +531,7 @@ GitHub.cli
 GitHub.Copilot
 GitHub.CopilotApp
 Gitify.Gitify
+Gitlab.Runner
 GitRevenge.GitRevenge
 GiulioSorrentino.CBriscola.Avalonia
 GiulioSorrentino.Diario.Avalonia
@@ -559,7 +565,6 @@ Google.GoogleDrive
 GoTo.LogMeInResolveDesktopConsole
 Governikus.AusweisApp
 GrafanaLabs.k6Studio
-GramEditor.Gram
 Grammarly.Grammarly
 Granola.Granola
 Graphixa.FontGet
@@ -630,12 +635,17 @@ IntelligentEditing.PerfectIt
 Intermedia.UniteTeamsDesktopPlugin
 InternetData.CLI
 InternetData.Mmdb
+Invantive.InvantiveDataLoader
+Invantive.InvantiveEstateForWindows
+Invantive.InvantiveQueryTool
+Invantive.InvantiveRuntime
+Invantive.InvantiveStudio
+Invantive.InvantiveSupportAssistant
 Invowk.Invowk
 IObit.Uninstaller
 iOfficeAI.OfficeCLI
 IPEVO.Visualizer
 ishizakahiroshi.many-ai-cli
-Issinoho.Loadbearer
 iTop.iTopDataRecovery
 ITU.BRSpaceApplications
 J3n5en.EnsoCode
@@ -649,7 +659,6 @@ jannskiee.floe
 janosmiko.lfk
 JanProchazka.dbgate
 Java-Mx.BitChat
-JayPrall.ColorCop
 JDE-Projects.SimpleSFTPClient
 JDE-Projects.SimpleSFTPServer
 jdx.mise
@@ -666,6 +675,7 @@ JetBrains.TeamCityCLI
 JFrog.Cli
 JGraph.Draw
 Jianjing.XLJSCI
+Jigsaw.OutlineManager
 JimLiu.BaoCut.CPU
 JimLiu.BaoCut.Vulkan
 JiriPolasek.MediaControlsforCommandPalette
@@ -680,7 +690,6 @@ Joplin.Joplin
 JordanCoin.codemap
 JordanCoin.docmap
 Joto.FolderMirror
-JPEXS.FFDec
 jumppad.jumppad
 JurgenRathlev.InnoUnpacker
 justcoding121.TitaniumInspector
@@ -699,6 +708,7 @@ KaringX.Karing
 kawayiYokami.P-ai
 kay-ou.SimTradeDesk
 KDE.Ark
+KDE.Blinken
 KDE.Bomber
 KDE.Bovo
 KDE.Chessament
@@ -712,13 +722,12 @@ KDE.Kaidan
 KDE.KAlarm
 KDE.Kapman
 KDE.Kasts
-KDE.Kate
-KDE.Kate.AppX
 KDE.KAtomic
 KDE.KBlackbox
 KDE.KBlocks
 KDE.KBounce
 KDE.KBreakOut
+KDE.KBruch
 KDE.KDEConnect.AppX
 KDE.KDiamond
 KDE.KFourInLine
@@ -785,6 +794,7 @@ Lean.Lean
 Learnpulse.Screenpresso
 LeenHawk.GPROXY.CLI
 lejy.Winchisel
+LenovoLegionToolkitTeam.LenovoLegionToolkit
 levon2805.SoundBar
 LGUG2Z.komorebi.Nightly
 LibreSpeed.librespeed-cli
@@ -803,6 +813,7 @@ LMCP.LocalMCP
 LobeHub.LobeHub
 Lody.Lody
 Logitech.*
+Logtalk.Logtalk
 LookoutNVR.Desktop
 LookoutNVR.Server
 Loom.Loom
@@ -814,7 +825,6 @@ LuisPater.CLIProxyAPI
 LunarWerxs.SageThumbs2K
 luolangaga.tubatools
 luqiangbo.DockMapper
-LuqP2.ImageMetaHub
 luynrs.justray
 MacroDeck.MacroDeck
 Macronaut.Macronaut
@@ -867,6 +877,7 @@ Microsoft.Azure.Az
 Microsoft.AzureCLI
 Microsoft.DataTools.IntegrationServices
 Microsoft.Edge.Beta
+Microsoft.Edge.Dev
 Microsoft.Edge*
 Microsoft.EdgeDriver
 Microsoft.GameInput
@@ -881,7 +892,9 @@ Microsoft.OpenJDK.11
 Microsoft.OpenJDK.17
 Microsoft.OpenJDK.21
 Microsoft.OpenJDK.25
+Microsoft.PIX
 Microsoft.PowerBIReportServer
+Microsoft.PowerShell
 Microsoft.PowerToys
 Microsoft.RemoteDesktopClient
 Microsoft.RemoteHelp
@@ -909,7 +922,6 @@ Mikrotik.Netinstall
 Mikrotik.TheDude
 Mikrotik.Winbox.Beta
 mingchen666.Reviva
-Minibee.Viewer
 MiniMax.MiniMaxCode
 MiniZinc.MiniZincIDE
 MistralAI.MistralVibe.ACP
@@ -1042,6 +1054,7 @@ murray17.RovaiAI
 mwo-dk.Coxswain.Terminal
 MYOB.AccountRight.EXE
 MySolutionsNORDIC.NSClient++
+Mythicsoft.AgentRansack
 N0deZ3r0.Win11Privacy
 N3uronConnectivitySystems.N3uron
 NaeNaeTart.AMLLTTMLTool
@@ -1056,7 +1069,6 @@ NDI.NDITools
 Nefarius.DsHidMini
 nektos.act
 Nemu-x.SlothClash
-Neo4j.Neo4jDesktop
 NetAtWork.NoSpamProxyOutlookAddin
 NetEase.LobsterAI
 NetEase.UURemote
@@ -1119,7 +1131,6 @@ OpenChamber.OpenChamber
 OpenClaw.OpenClawCompanion
 OpenDumpViewer.OpenDumpViewer
 OpenDumpViewer.OpenDumpViewer.BETA
-OpenJS.Electron.38
 OpenJS.Electron.39
 OpenJS.Electron.40
 OpenJS.Electron.41
@@ -1177,6 +1188,7 @@ pcvisit.pcvisitRemoteHost
 pcvisit.pcvisitSupport
 PDFKiln.PDFKiln
 PDFsam.PDFsam
+PearTreeForge.SparkDown
 PerfectWorld.PerfectWorldArena
 Perforce.P4V
 Perimeter81.HarmonySASE
@@ -1245,7 +1257,6 @@ QuinGillespie.Fedra
 Quobyte.Client
 QwerProg.bt
 ractive.ff-rdp
-RafalZG.ClaudeSessionsSidekick
 Raise3D.ideaMaker
 Rakudo.Rakudo
 Rakudo.Rakudo.Star
@@ -1373,7 +1384,6 @@ SoftPerfect.SwitchPortMapper
 SoftPerfect.WiFiGuard
 SoftwareOK.DesktopOK
 solpbc.Solstone
-SonicWall.CloudSecureEdge
 SonicWall.NetExtender
 Sonos.S1Controller
 SosomLab.NexaCoffee
@@ -1486,12 +1496,10 @@ Tofuutils.Tenv
 tombi-toml.tombi
 Tomclanc.GestureSignV2
 Toolport.Toolport
-TopalaSoftwareSolutions.SIW
 topgrade-rs.topgrade
 TossPlace.TossPOS
 TraceCommons.Contributor
 TragicCode.BuslyCLI
-try2love.CodexMobileBridge
 TryHardStudios.Solo
 TuneIn.TuneIn
 Tutanota.Tutanota
@@ -1500,6 +1508,7 @@ UgurLabs.TenuVault
 UniClipboard.UniClipboard
 Uniconta.Uniconta
 Unity.CLI
+Unity.Unity.6000
 Unity.UnityHub
 Unseenkey.Unseenkey
 UnslothAI.Unsloth
