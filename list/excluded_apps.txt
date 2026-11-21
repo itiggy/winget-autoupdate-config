@@ -12,7 +12,6 @@
 7S2P.Effie.CN
 a2aproject.a2acli
 a9gent.MindFS
-Aardappel.lobster
 abemedia.stagelint
 AbishekNarasimhan.RavensPort
 Ablaze.Floorp
@@ -392,7 +391,6 @@ Debba.Tabularis
 Dedoose.Dedoose
 Deep-Symmetry.beat-link-trigger.Preview
 DeepSeek.DeepSeekHarnessDesktop
-DefangLabs.Defang
 Defisym.FFmpeg.GPL.7.1
 Defisym.FFmpeg.GPL.Shared.7.1
 Defisym.FFmpeg.LGPL.7.1
@@ -522,7 +520,6 @@ FireDaemon.OpenSSL
 fjrevoredo.MiniDiarium
 FlawlessWidescreen.FlawlessWidescreen
 Fleet.fleetctl
-flick9000.WinScript
 Floweb.Floweb
 Flowscripter.example-host-application
 Flowscripter.flowscripter-io-cli
@@ -543,7 +540,6 @@ Framefilter.Keyroost
 Frameio.FrameioDrive
 FrameworkComputer.framework_tool
 FrankZhu.ZManagerCLI
-from104.QCalc
 FunRoutine.WorkFlowy
 FxSound.FxSound.Beta
 g0orx.hpsdr-rs
@@ -1259,7 +1255,6 @@ OpenRCT2.OpenRCT2
 OpenSCAD.OpenSCAD
 OpenSCAD.OpenSCAD.Nightly
 OpenScreen.OpenScreen
-OpenTubeX.OpenTubeX
 OpenVPNTechnologies.OpenVPN
 OpenWhisperSystems.Signal
 OpenWhisperSystems.Signal.Beta
@@ -1273,7 +1268,6 @@ Oracle.JavaRuntimeEnvironment
 Oracle.JDK.25
 Oracle.JDK.27
 Oracle.OCI-CLI
-OrcaSVN.OrcaSVN
 OrchestratorInc.AgentOrchestrator
 Orica.SHOTPlus
 ORILABS.ArtSorter
@@ -1372,7 +1366,6 @@ Quobyte.Client
 QwerProg.bt
 ractive.ff-rdp
 Raise3D.ideaMaker
-Rakudo.Rakudo
 Rakudo.Rakudo.Star
 randlee.sc-compose
 randlee.wyvern
@@ -1427,7 +1420,6 @@ RubyInstallerTeam.RubyWithDevKit.3.4
 RubyInstallerTeam.RubyWithDevKit.4.0
 Rufus.Rufus
 Ruihu.HiFox
-rullerzhou-afk.clawd-on-desk
 Rustlang.rust-analyzer
 rvben.rumdl
 Ryko.GodotHub
@@ -1538,14 +1530,12 @@ StackExchange.DNSControl
 stacklok.frizbee
 stacklok.thv
 StarFinanz.StarMoney*
-stark81.VutronMusic
 SteelSeries.GG
 steipete.discrawl
 steipete.gogcli
 StencilLabs.ovnfs
 StepFun.StepCode
 SteveTheKiller.Killendar
-SteveTheKiller.KillerPDF
 Stinkshot.Stinkshot
 StirlingTools.StirlingPDF
 Stiven-Gjekaj.Burnout
