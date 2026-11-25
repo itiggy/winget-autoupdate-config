@@ -1,3 +1,4 @@
+099popovB2c.OpenToolbox
 0x4D696E61.Kiwi
 0xErwin1.DBFlux
 0xJacky.nginx-ui
@@ -39,7 +40,7 @@ AirExplorer.AirExplorer
 AktivCo.RutokenDrivers
 Aladin.eBook
 albertony.npiperelay
-aleksandrreva-eng.llm-test-bench
+AlekseyHoffman.SigmaFileManager
 AlexanderPaterson.PodcastSoundboard
 Alexbed.ALMP
 Alibaba.CosyVoice
@@ -57,7 +58,6 @@ ALMARFELD.P7SUniversalViewer
 Alochi.Monitoring
 AlpaslanBek.Promptline
 AlphaJack.Rusticlone
-altamkhan.Otterly
 altfins.af
 AmariahAK.AtlarixCLI
 Amazon.AthenaODBCDriver.2
@@ -87,7 +87,6 @@ AntiMicroX.antimicrox
 antonreshetov.massCode
 AnujSharma.AIVoiceStudio
 Anysphere.Cursor
-ApacheLounge.httpd
 apernet.Hysteria
 Appest.TickTick
 AppFlowy.AppFlowy
@@ -164,6 +163,14 @@ axllent.mailpit
 axpnet.AeroFTP
 ayangweb.BongoCat
 AzaharEmu.Azahar
+Azul.ZuluFX.11.JDK
+Azul.ZuluFX.17.JDK
+Azul.ZuluFX.21.JDK
+Azul.ZuluFX.21.JRE
+Azul.ZuluFX.25.JDK
+Azul.ZuluFX.25.JRE
+Azul.ZuluFX.27.JDK
+Azul.ZuluFX.8.JDK
 B3log.SiYuan
 Babashka.Babashka
 Baidu.DuMate
@@ -247,11 +254,11 @@ CallMarcus.DJIMetadataEmbedder.Desktop
 calvinchengx.fabric-emulator
 campfirium.Foliole
 can1357.oh-my-pi
-caomengxuan666.WinuxCmd
 CarthageSoftware.Mago
 Carvel.ytt
 CastAI.Kimchi
 cataggar.wamr
+Catch22.WinSpy
 CathedralOS.Omega
 Catsxp.Catsxp
 Ccache.Ccache
@@ -373,6 +380,7 @@ Discord.Discord.arm64
 Discord.Discord.Canary
 Discord.Discord.Canary.arm64
 Discord.Discord.Development
+Discord.Discord.PTB
 DiscWright.DiscWright
 DisplayLink.GraphicsDriver
 Divyang.Mushak
@@ -460,7 +468,6 @@ Excelano.slipcase-cli
 Excelano.xled
 Excelano.xtree
 ExplodingCB.Indicative
-ez3689.Breakout
 EZBSystems.UltraISO
 FACEITLTD.FACEITAC
 FactFoundry.SemanticModeler
@@ -479,6 +486,7 @@ FeiXiangShi.Rustle
 FernandoErazo.TrafficBar
 FernandoTonon.QtMeshEditor
 FernloopTechnologies.WhatsAppAIPro
+Figma.Figma
 Filamental.Filamental
 Filedini.Filedini
 Fileman.HisuiPDF
@@ -516,7 +524,6 @@ Freelensapp.Freelens
 Frnsys.Half_earth
 FrontApp.Front
 FunRoutine.WorkFlowy
-Gabriel2392.BrokkrFlash
 galacius.Galacius
 GAM-Team.gam.Portable
 Game1024.OpenSpeedy
@@ -775,6 +782,9 @@ KDE.KBounce
 KDE.KBreakOut
 KDE.KDEConnect.AppX
 KDE.KDiamond
+KDE.KFourInLine
+KDE.KGoldrunner
+KDE.Killbots
 KDE.Kiriki
 KDE.Kiten
 KDE.KJumpingCube
@@ -810,6 +820,7 @@ Keboola.KeboolaCLI2
 KeeperSecurity.Commander
 KellyLford.QuickMail
 Kenkun.AviUtlExEdit2
+KeyNub.LicdTool
 KhanhKit.PxGo
 khanhtd36.lazygit-khanhtd36
 KIDASASoftware,Inc.MilestonesProfessional2025
@@ -819,6 +830,7 @@ Kingsoft.Lingxi
 KinichiAnjuMakino.unifocl
 KIR.Szafir.EXE
 kjanat.actionlint
+Klakk.Klakk
 klNuno.Accshift
 KnifMelti.WAU-Settings-GUI
 KoalaBear84.OpenDirectoryDownloader
@@ -882,6 +894,7 @@ loft-sh.vcluster
 Logitech.*
 lollipopkit.serverbox
 Longbridge.LongbridgeTerminal
+Loom.Loom
 looplj.AxonHub
 LoopTroopAI.LoopTroop
 LoreoInc.Loreo
@@ -901,6 +914,7 @@ Lumivero.Citavi.7
 LunarWerxs.SageThumbs2K
 Lunasans.MovieShelf
 Lune.Lune
+LuqP2.ImageMetaHub
 luynrs.justray
 M-FilesCorporation.M-FilesOnline
 M-Igashi.baken
@@ -918,6 +932,7 @@ makhlwf.HexPlayer
 MangoDisk.CLI
 MangoDisk.MangoDisk
 mangokingTW.ImeModePersistence
+ManicTime.ManicTime
 Mapillary.MapillaryTools
 Mapillary.MapillaryUploader
 mar1mo-41414.MineScale
@@ -930,7 +945,6 @@ markdown-office.mdoffice
 MarkusKellermann.Convo
 MartinBresson.Executor
 MartinPospisil.Gleanvolt
-MartinStorsjo.LLVM-MinGW.MSVCRT
 MartinStorsjo.LLVM-MinGW.UCRT
 matchmycolor.ColibriAlpha
 matchmycolor.ColibriBeta
@@ -962,7 +976,6 @@ Microsoft.Aspire
 Microsoft.Azure.ArcSetup
 Microsoft.Azure.FunctionsCoreTools
 Microsoft.DirectX.ToolKit.MakeSpriteFont
-Microsoft.Edge.Beta
 Microsoft.Edge.Dev
 Microsoft.Edge*
 Microsoft.GameInput
@@ -991,6 +1004,7 @@ Microsoft.VisualStudio.Community
 Microsoft.VisualStudio.Enterprise
 Microsoft.VisualStudio.OnecoreMsvsmon
 Microsoft.VisualStudio.Professional
+Microsoft.WinAppCli
 Microsoft.WindowsBatteryLifeTool
 Microsoft.WindowsCloudIOProtectionDriver
 mikf.gallery-dl
@@ -1000,12 +1014,14 @@ Mikrotik.Netinstall
 Mikrotik.TheDude
 MilanMilanovic.AzTree
 MindMapVault.MindMapVaultFOSS
+mingchen666.Reviva
 Minibee.Viewer
 MiniMax.MiniMaxCode
 MinistryOfEducationOfThePRC.SmartSchools
 MiniTool.PartitionWizard.Free
 mintfog.Sniffy
 MistralAI.MistralVibe.ACP
+MiTeC.ExeExplorer
 mlcousek.ClaudeUsageTray
 MobiSystems.MobiOffice
 MobiSystems.MobiPDF
@@ -1025,11 +1041,13 @@ Movavi.MovaviVideoConverter
 Mozilla.Firefox.Beta.MSIX
 Mozilla.Firefox.DeveloperEdition
 Mozilla.Firefox.DeveloperEdition.MSIX
+Mozilla.Firefox.es-CL
 Mozilla.Firefox.ESR
 Mozilla.Firefox.ESR.ach
 Mozilla.Firefox.ESR.af
 Mozilla.Firefox.ESR.an
 Mozilla.Firefox.ESR.ar
+Mozilla.Firefox.ESR.ast
 Mozilla.Firefox.ESR.az
 Mozilla.Firefox.ESR.bg
 Mozilla.Firefox.ESR.br
@@ -1100,19 +1118,34 @@ Mozilla.Firefox.ESR.sl
 Mozilla.Firefox.ESR.son
 Mozilla.Firefox.ESR.sq
 Mozilla.Firefox.ESR.sr
+Mozilla.Firefox.ESR.sv-SE
+Mozilla.Firefox.ESR.szl
+Mozilla.Firefox.eu
+Mozilla.Firefox.gn
 Mozilla.Firefox.hr
 Mozilla.Firefox.hsb
+Mozilla.Firefox.hu
+Mozilla.Firefox.hy-AM
 Mozilla.Firefox.ka
 Mozilla.Firefox.km
 Mozilla.Firefox.lij
 Mozilla.Firefox.lt
+Mozilla.Firefox.lv
+Mozilla.Firefox.mr
 Mozilla.Firefox.MSIX
+Mozilla.Firefox.my
 Mozilla.Firefox.ne-NP
 Mozilla.Firefox.Nightly.MSIX
+Mozilla.Firefox.nl
+Mozilla.Firefox.nn-NO
+Mozilla.Firefox.oc
+Mozilla.Firefox.rm
+Mozilla.Firefox.sco
 Mozilla.Firefox.tl
 Mozilla.Firefox.tr
 Mozilla.Firefox.xh
 Mozilla.Firefox.zh-CN
+Mozilla.Firefox.zh-TW
 Mozilla.Firefox*
 Mozilla.mozregression
 Mozilla.Thunderbird
@@ -1306,6 +1339,7 @@ NGLSL.Kite
 NGWIN.PicPick
 NickOtmazgin.FluentVoicePro
 NickTheGrizzly.BeamModManager
+NightmareTv.NightmareTV
 Nikkho.FileOptimizer
 Niko1221.Strata
 NimaShafie.OxideSLOC
@@ -1340,6 +1374,7 @@ nyakang.NyaTerm
 NymTech.NymVPNClient
 o2sh.onefetch
 OakwoodCommons.kvx
+Objective.Trapeze
 obsidianforensics.HindsightGUI
 OBSProject.OBSStudio
 OCBase.OCCT.Personal
@@ -1347,6 +1382,7 @@ Ocenaudio.Ocenaudio
 Odonno.jj-commit
 olamide226.avar
 Oleafly.Oleafly
+OleBhartvigsen.FanFolder
 Ollama.Ollama
 Ollama.Ollama.Portable
 Olvid.Olvid
@@ -1368,8 +1404,11 @@ OpenJS.Electron.44
 OpenLogic.OpenJDK.11.JRE
 OpenLogic.OpenJDK.17.JDK
 OpenLogic.OpenJDK.17.JRE
+OpenLogic.OpenJDK.21.JDK
 OpenLogic.OpenJDK.21.JRE
+OpenLogic.OpenJDK.25.JDK
 OpenLogic.OpenJDK.25.JRE
+OpenLogic.OpenJDK.8.JDK
 OpenLogic.OpenJDK.8.JRE
 OpenPencil.OpenPencil
 openpubkey.opkssh
@@ -1544,6 +1583,7 @@ Ryko.GodotHub
 s1dashu.QuietMd
 SafeDep.pmg
 Sakana-yuyu.cursor-byok
+SaladTechnologies.Salad
 SambuddhaRoy.VerzaNext
 Sandboxie.Classic
 Sandboxie.Plus
@@ -1672,6 +1712,7 @@ StackShift.StackShift
 StandardCode.StandardCode
 Stardock.Start11.v2
 StarFinanz.StarMoney*
+stark81.VutronMusic
 StartIsBack.StartAllBack
 StellarDataRecovery.StellarPhotoRecovery
 StencilLabs.ovnfs
@@ -1722,6 +1763,7 @@ Tailscale.tailcat
 tanaton.mendo
 TandemHealth.Tandem
 TAPATCH.Autrix
+TAPATCH.LinkMass
 TAPATCH.TAHub
 TAPATCH.WaveCheck
 Tarma.InstallMate.11
@@ -1818,6 +1860,7 @@ Unibo.Alchemist
 Uniqkey.UniqkeyDesktop
 Unity.CLI
 Unity.Unity.6000
+Unity.UnityHub
 Unixwin.Niubash
 Unseenkey.Unseenkey
 UnslothAI.Unsloth
@@ -1953,9 +1996,11 @@ Wakunguma.Mukwa
 walles.moor
 Wallnode.Wallnode
 wanderlp.MergeMate
+Warp.Warp
 wasmCloud.wash
 Waterfox.Waterfox
 WavesAudio.WavesCentral
+Wazuh.WazuhAgent
 WebCatalogLtd.Switchbar
 WebCodr.jwtd
 WEBNSNM.terminalManage
