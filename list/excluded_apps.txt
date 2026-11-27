@@ -14,6 +14,7 @@
 7S2P.Effie.CN
 9001.copyparty
 aandrew-me.ytDownloader
+AariyJP.PrimeVideo
 ABC.ABCEBankAssistant
 abooodbah.LeanDoc
 abooodbah.LeanMark
@@ -168,6 +169,7 @@ axpnet.AeroFTP
 Ayideyia.GUI-for-Clash
 Ayideyia.GUI-for-SingBox
 AzaharEmu.Azahar
+Azeus.Convene
 Azul.ZuluFX.11.JDK
 Azul.ZuluFX.17.JDK
 Azul.ZuluFX.21.JDK
@@ -326,6 +328,7 @@ Comfy.ComfyUI-Desktop
 CommandCode.CommandCodeDesktop
 CommunicationPlatform.MAX
 Comtrya.Comtrya
+Concourse.Fly
 ConfluentInc.Confluent-CLI
 ContentaSoft.ContentaConverter
 Cookieboty.Nomi
@@ -466,6 +469,7 @@ Elastic.Packetbeat
 Elastic.Winlogbeat
 electerm.electerm
 ElectronicArts.EADesktop
+ElektroStudios.Easy-Link-File-Viewer
 Element.Element
 ElementLabs.Bionic
 ElementLabs.LMStudio
@@ -573,6 +577,7 @@ ggml.llamacpp
 ghchinoy.a2acli
 ghost-him.ZeroLaunch-rs
 Ghostshadowplays.GhostTuneConverter
+Ghostshadowplays.GhostyTools
 gifnksm.souko
 GilbertiEric.TurboFix
 git-cola.git-cola
@@ -695,9 +700,11 @@ incldue.CineFlow
 Infiniact.IATerm
 infisical.infisical
 InFlowPayAI.InFlow
+Infracost.Infracost
 Insomnia.Insomnia
 InstaZDLL.WaveFlow
 Instruqt.CLI
+IntegrIT.Hackolade
 InterceptSuite.InterceptSuite.Pro
 Intermedia.UniteTeamsDesktopPlugin
 InternetData.CLI
@@ -764,6 +771,7 @@ justhil.piDesktop
 justnullname.QuickView
 jvonscheidt.m3u-viewer
 JYH1878.KimiCodeBar
+k0sproject.k0sctl
 Kabeen.KabeenServerAgent
 KaiKramer.KeyStoreExplorer
 kalink0.Crush
@@ -843,6 +851,7 @@ klNuno.Accshift
 kmiya-culti.RLogin
 KnifMelti.WAU-Settings-GUI
 KristjanHS.TranscribeOffline
+kts982.ZSAPConnect
 Kuaishou.KlingAI
 Kubecolor.kubecolor
 Kubernetes.kompose
@@ -851,6 +860,7 @@ Kubri.Kubri
 Kukisama.gh-usage
 kunobi-ninja.kache
 kunobi-ninja.kunobi.Unstable
+Lablicate.OpenChrom
 LAIJiangFeng.Fynvra
 laike9m.TheySay
 LANCommander.Launcher
@@ -893,6 +903,7 @@ Lody.Lody
 Logitech.*
 Logitech.OptionsPlus
 lollipopkit.serverbox
+LookoutNVR.Desktop
 LookoutNVR.Server
 Loom.Loom
 looplj.AxonHub
@@ -933,6 +944,7 @@ mangokingTW.ImeModePersistence
 ManicTime.ManicTime
 Mapillary.MapillaryTools
 Mapillary.MapillaryUploader
+MarcelGlaeser.Kubebar
 Marchen-orz.Sshairy
 marcinz606.NegPy
 MarcoGomiero.FeedFlow
@@ -1030,6 +1042,7 @@ Modrinth.ModrinthApp
 Moductus.Moductus
 Moises.Moises
 molr-ai.Molr
+Monghoul.Monghoul
 monkeyWie.Gopeed
 monkeyWie.Gopeed.Web
 MonotypeImaging.Extensis.ConnectFonts
@@ -1322,6 +1335,7 @@ Nemu-x.SwissKnifeGraph
 NeocomSoftware.TRBOnet.Enterprise
 NeocomSoftware.TRBOnet.Plus
 Neovide.Neovide
+Netbird.Netbird
 NetEase.BaGeShuo
 NetEase.CloudMusic
 NetEase.UURemote
@@ -1331,6 +1345,7 @@ newdee.keepane
 NewRelic.InfrastructureAgent
 NexDM.NexDM
 NextITComputers.CyberProt
+NextITComputers.StasherX
 Nextmv.CLI
 Neyino.Desktop
 nginxinc.nginx
@@ -1505,6 +1520,8 @@ Qingfeng.HeyboxChat
 QingJ01.Pebble
 QQRM.BrightWheel
 QQRM.RustSwitcher
+QuadrantMC.Quadrant
+QuantumNous.NewAPI
 QuBI.QBrowse
 QuillNotes.Quill
 RafalZG.ClaudeSessionsSidekick
@@ -1517,6 +1534,7 @@ Ray-lea.Argus
 RClone-Manager.rclone-manager
 RDPilot.RDPilot
 ReadAI.ReadAI
+Readdle.Spark
 RebonAI.RebonDesktop
 RedactSoftware.Redact
 RedEyeNetworks.HopMatrix
@@ -1558,6 +1576,8 @@ rstream.rstream
 Ruihu.HiFox
 RunTheWall.Constly
 Rustlang.rust-analyzer
+Rustlang.Rust.GNU
+Rustlang.Rust.MSVC
 rustty.Rustty
 rvben.rumdl
 RyanYuuki.AnymeX
@@ -1699,12 +1719,14 @@ SuperGness.Codey
 Superhuman.Superhuman
 SuperRadCompany.Microsandbox
 SuperSmashing.Blink
+SuperUltra.superwhisper
 SureshJanakiReddy.GeminiDesktop
 surge-downloader.surge
 Sweepr.SweeprCleaner
 SweetScape.010Editor
 SWI-Prolog.SWI-Prolog
 SwiftLaw.CLI
+SymbolicSoftware.Verifpal
 SynthetifyLabs.OpenBot
 SyntroSend.SyntroSend
 Syrize.OpenFic
@@ -1783,6 +1805,7 @@ timeware.BiostarAgent
 TIMi.TIMi
 TipTeknologiiPraksisAS.TapMap
 tobby-fetch.tobby
+TodayAI.Today
 Tofuutils.Tenv
 token2.fido2-manage
 tombi-toml.tombi
@@ -1805,6 +1828,7 @@ Trinavo.AllInOneMessengerHub
 trondage.PrinterStatus
 TrueConf.TrueConf
 Trustfall.Parterre
+try2love.CodexMobileBridge
 tsouth89.Ceiling
 tstone-1.tpdf
 tsudev.SWICO
@@ -1836,8 +1860,10 @@ vadimgrn.usbip-win2
 Valtrainer.ValTrainer
 vantoan1511.Orbit
 Vencord.Vesktop
+venipa.ytmdesktop
 Veracode.CLI
 Verizon.VerizonCloud
+VeyonSolutions.Veyon
 Vicoa.Vicoa
 Victor-Quqi.Axiopera
 VictronEnergy.VictronConnect
